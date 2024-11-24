@@ -110,45 +110,6 @@
                                         </div>
                                     </a>
                                 </li>
-                                {{-- <li>
-                                    <a href="{{ route('service.saas') }}">
-                                        <img class="w-40px" alt=""
-                                            data-cfsrc="{{ asset('Frontend/images/Services/saas.svg') }}"
-                                            style="display:none;visibility:hidden;" /><noscript><img
-                                                src="{{ asset('Frontend/images/Services/saas.svg') }}" class="w-40px"
-                                                alt="" /></noscript>
-                                        <div class="submenu-icon-content">
-                                            <span>Software as a Service (SaaS)</span>
-                                        </div>
-                                    </a>
-                                </li> --}}
-
-
-
-                                {{-- <li>
-                                    <a href="{{ route('service.graphics-design') }}">
-                                        <img class="w-40px" alt=""
-                                            data-cfsrc="{{ asset('Frontend/images/Services/graphic.svg') }}"
-                                            style="display:none;visibility:hidden;" /><noscript><img
-                                                src="{{ asset('Frontend/images/Services/graphic.svg') }}"
-                                                class="w-40px" alt="" /></noscript>
-                                        <div class="submenu-icon-content">
-                                            <span>Graphics Design</span>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="{{ route('service.video-edit') }}">
-                                        <img class="w-40px" alt=""
-                                            data-cfsrc="{{ asset('Frontend/images/Services/video.svg') }}"
-                                            style="display:none;visibility:hidden;" /><noscript><img
-                                                src="{{ asset('Frontend/images/Services/video.svg') }}"
-                                                class="w-40px" alt="" /></noscript>
-                                        <div class="submenu-icon-content">
-                                            <span>Video Editing</span>
-                                        </div>
-                                    </a>
-                                </li> --}}
                             </ul>
                         </li>
                         <li class="nav-item"><a href="{{ route('projects') }}" class="nav-link">Projects</a></li>
@@ -164,7 +125,7 @@
                             class="btn btn-rounded btn-dark-gray btn-medium btn-switch-text btn-box-shadow text-transform-none">
                             <span>
                                 <span class="btn-double-text" data-text="Hire agency">Hire agency</span>
-                                <span style="margin-left:10px;">→</span>
+                                {{-- <span style="margin-left:10px;">→</span> --}}
                             </span>
                         </a>
                     </div>

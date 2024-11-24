@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
     <!-- Google tag (gtag.js) -->
-    @include('frontend.layout.headerlink')
+    @include('frontend.layout.header-link')
     <link rel="stylesheet" href="{{ asset('Frontend') }}/css/web-agency.css" />
     @yield('style')
 </head>
@@ -65,7 +65,7 @@
                     class="scroll-point"></span></span>
         </a>
     </div>
-    @include('frontend.layout.footerLink')
+    @include('frontend.layout.footer-link')
 </body>
 
 </html>

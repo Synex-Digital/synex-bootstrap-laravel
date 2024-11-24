@@ -11,7 +11,7 @@
     <link rel="apple-touch-icon" href="{{ asset('Frontend/images/icons/fav-low.png') }}">
     <link rel="apple-touch-icon" sizes="72x72" href="{{ asset('Frontend/images/icons/fav-low.png') }}">
     <link rel="apple-touch-icon" sizes="114x114" href="{{ asset('Frontend/images/icons/fav-low.png') }}">
-    @include('frontend.layout.headerlink')
+    @include('frontend.layout.header-link')
     <link rel="stylesheet" href="{{ asset('Frontend/css/seo-agency.css') }}" />
 </head>
 
@@ -820,7 +820,7 @@
     </div>
     <!-- end scroll progress -->
     <!-- javascript libraries -->
-    @include('frontend.layout.footerLink')
+    @include('frontend.layout.footer-link')
 </body>
 
 </html>

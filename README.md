@@ -1,1 +1,0 @@
-# synex-bootstrap-laravel

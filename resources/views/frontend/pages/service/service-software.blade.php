@@ -28,23 +28,23 @@
                             //]]>
                         </script>
                         <script type="text/javascript" src="{{ asset('Frontend/js/mirage2.min.js') }}"></script>
-                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                             class="default-logo" data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="{{ asset('Frontend') }}/images/logo-text.svg"
-                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                                 class="default-logo"></noscript>
-                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="" class="alt-logo"
+                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital" class="alt-logo"
                             data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="{{ asset('Frontend') }}/images/logo-text.svg"
-                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                                 class="alt-logo"></noscript>
-                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                             class="mobile-logo" data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="{{ asset('Frontend') }}/images/logo-text.svg"
-                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                                 class="mobile-logo"></noscript>
                     </a>
                 </div>
@@ -100,7 +100,7 @@
                             Power up web with
                             <div class="highlight-separator" data-shadow-animation="true" data-animation-delay="1500">
                                 hosting<span><img src="{{ asset('Frontend') }}/images/highlight-separator.svg"
-                                        alt=""></span>
+                                        alt="synex digital"></span>
                             </div>
                         </div>
                     </div>
@@ -123,18 +123,18 @@
                 <div class="col-xl-5 col-lg-4">
                     <div class="outside-box-right-7 position-relative"
                         data-anime='{ "opacity": [0, 1], "translateY": [100, 0], "easing": "easeOutQuad", "duration": 1200, "delay": 200 }'>
-                        <img class="w-100" alt=""
+                        <img class="w-100" alt="synex digital"
                             data-cfsrc="{{ asset('Frontend') }}/images/demo-hosting-home-slider-01.png"
                             style="display:none;visibility:hidden;"><noscript><img class="w-100"
                                 src="{{ asset('Frontend') }}/images/demo-hosting-home-slider-01.png"
-                                alt=""></noscript>
+                                alt="synex digital"></noscript>
                         <img class="w-100 position-absolute left-minus-2px top-minus-5px animation-float"
-                            alt=""
+                            alt="synex digital"
                             data-cfsrc="{{ asset('Frontend') }}/images/demo-hosting-home-slider-02.png"
                             style="display:none;visibility:hidden;"><noscript><img
                                 class="w-100 position-absolute left-minus-2px top-minus-5px animation-float"
                                 src="{{ asset('Frontend') }}/images/demo-hosting-home-slider-02.png"
-                                alt=""></noscript>
+                                alt="synex digital"></noscript>
                     </div>
                 </div>
             </div>
@@ -180,7 +180,7 @@
                         class="bg-white feature-box h-100 justify-content-start box-shadow-quadruple-large box-shadow-quadruple-large-hover text-start p-17 sm-p-14 border-radius-6px">
                         <div class="feature-box-icon mb-30px">
                             <img src="{{ asset('Frontend') }}/images/demo-hosting-home-icon-02.svg" class="h-50px"
-                                alt="">
+                                alt="synex digital">
                         </div>
                         <div class="feature-box-content">
                             <span class="d-inline-block fw-600 text-dark-gray fs-18 ls-minus-05px">Online store</span>
@@ -195,7 +195,7 @@
                         class="bg-white feature-box h-100 justify-content-start box-shadow-quadruple-large box-shadow-quadruple-large-hover text-start p-17 sm-p-14 border-radius-6px">
                         <div class="feature-box-icon mb-30px">
                             <img src="{{ asset('Frontend') }}/images/demo-hosting-home-icon-03.svg" class="h-50px"
-                                alt="">
+                                alt="synex digital">
                         </div>
                         <div class="feature-box-content">
                             <span class="d-inline-block fw-600 text-dark-gray fs-18 ls-minus-05px">Web hosting</span>
@@ -210,7 +210,7 @@
                         class="bg-white feature-box h-100 justify-content-start box-shadow-quadruple-large box-shadow-quadruple-large-hover text-start p-17 sm-p-14 border-radius-6px">
                         <div class="feature-box-icon mb-30px">
                             <img src="{{ asset('Frontend') }}/images/demo-hosting-home-icon-04.svg" class="h-50px"
-                                alt="">
+                                alt="synex digital">
                         </div>
                         <div class="feature-box-content">
                             <span class="d-inline-block fw-600 text-dark-gray fs-18 ls-minus-05px">Business
@@ -226,7 +226,7 @@
                         class="bg-white feature-box h-100 justify-content-start box-shadow-quadruple-large box-shadow-quadruple-large-hover text-start p-17 sm-p-14 border-radius-6px">
                         <div class="feature-box-icon mb-30px">
                             <img src="{{ asset('Frontend') }}/images/demo-hosting-home-icon-05.svg" class="h-50px"
-                                alt="">
+                                alt="synex digital">
                         </div>
                         <div class="feature-box-content">
                             <span class="d-inline-block fw-600 text-dark-gray fs-18 ls-minus-05px">Cloud storage</span>
@@ -246,12 +246,12 @@
                 <div class="col-lg-6 col-md-10 position-relative md-mb-30px"
                     data-anime='{ "effect": "slide", "color": "#ffffff", "direction":"lr", "easing": "easeOutQuad", "delay":50}'>
                     <img class="w-100" data-bottom-top="transform: translateY(-50px)"
-                        data-top-bottom="transform: translateY(50px)" alt=""
+                        data-top-bottom="transform: translateY(50px)" alt="synex digital"
                         data-cfsrc="{{ asset('Frontend') }}/images/demo-hosting-home-01.png"
                         style="display:none;visibility:hidden;"><noscript><img class="w-100"
                             src="{{ asset('Frontend') }}/images/demo-hosting-home-01.png"
                             data-bottom-top="transform: translateY(-50px)"
-                            data-top-bottom="transform: translateY(50px)" alt=""></noscript>
+                            data-top-bottom="transform: translateY(50px)" alt="synex digital"></noscript>
                 </div>
                 <div class="col-lg-5 offset-lg-1 last-paragraph-no-margin"
                     data-anime='{ "el": "childs", "opacity": [0, 1], "rotateY": [-90, 0], "rotateZ": [-10, 0], "translateY": [80, 0], "translateZ": [50, 0], "staggervalue": 200, "duration": 900, "delay": 300, "easing": "easeOutCirc" }'>
@@ -497,7 +497,7 @@
                         <div
                             class="feature-box-icon feature-box-icon-rounded w-100px h-100px rounded-circle border border-2 border-color-transparent-white-light me-30px xs-me-25px">
                             <img src="{{ asset('Frontend') }}/images/demo-hosting-home-icon.svg"
-                                class="w-50px h-50px" alt="">
+                                class="w-50px h-50px" alt="synex digital">
                         </div>
                         <div class="feature-box-content last-paragraph-no-margin">
                             <h5 class="d-inline-block fw-600 text-white mb-0">Are you ready for a better productive
@@ -639,33 +639,33 @@
                         <!-- start client item -->
                         <div class="swiper-slide">
                             <a href="#"><img src="{{ asset('Frontend/images/brand/amazon-web-services.png') }}"
-                                    class="h-40px xs-h-30px" alt="" /></a>
+                                    class="h-40px xs-h-30px" alt="synex digital" /></a>
                         </div>
                         <!-- end client item -->
                         <!-- start client item -->
                         <div class="swiper-slide">
                             <a href="#"><img
                                     src="{{ asset('Frontend/images/brand/Logo-Notion-White-al-vivo.png') }}"
-                                    class="h-40px xs-h-30px" alt="" /></a>
+                                    class="h-40px xs-h-30px" alt="synex digital" /></a>
                         </div>
                         <!-- end client item -->
                         <!-- start client item -->
                         <div class="swiper-slide">
                             <a href="#"><img src="{{ asset('Frontend/images/brand/meta_PNG7.png') }}"
-                                    class="h-40px xs-h-30px" alt="" /></a>
+                                    class="h-40px xs-h-30px" alt="synex digital" /></a>
                         </div>
                         <!-- end client item -->
                         <!-- start client item -->
                         <div class="swiper-slide">
                             <a href="#"><img src="{{ asset('Frontend/images/brand/stripe.png') }}"
-                                    class="h-40px xs-h-30px" alt="" /></a>
+                                    class="h-40px xs-h-30px" alt="synex digital" /></a>
                         </div>
                         <!-- end client item -->
                         <!-- start client item -->
                         <div class="swiper-slide">
                             <a href="#"><img
                                     src="{{ asset('Frontend/images/brand/GitHub-Wordmark-White-Dark-Background-Logo.wine.svg') }}"
-                                    class="h-40px xs-h-30px" alt="" /></a>
+                                    class="h-40px xs-h-30px" alt="synex digital" /></a>
                         </div>
                         <!-- end client item -->
                     </div>
@@ -682,12 +682,12 @@
                 <!-- start footer column -->
                 <div class="col-6 col-lg-4 last-paragraph-no-margin order-sm-1 md-mb-40px xs-mb-30px">
                     <a href="{{ route('home') }}" class="footer-logo mb-15px d-inline-block"><img
-                            data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                            data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                             data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="{{ asset('Frontend') }}/images/logo-text.svg"
                                 data-at2x="{{ asset('Frontend') }}/images/logo-text.svg"
-                                alt=""></noscript></a>
+                                alt="synex digital"></noscript></a>
                     <p class="w-90 lg-w-100">We are your one-stop technological solution supplier, meeting your
                         business's particular demands with precision and competence.</p>
                 </div>

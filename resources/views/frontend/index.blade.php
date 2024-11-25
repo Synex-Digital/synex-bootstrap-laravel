@@ -85,10 +85,10 @@
                 <div class="col-lg-6">
                     <div class="outside-box-left-20 md-outside-box-left-0" data-bottom-top="transform:scale(1.1, 1.1)"
                         data-top-bottom="transform:scale(1, 1)">
-                        <img alt="synex digital" data-cfsrc="{{ asset('Frontend/images/demo-web-agency-01.jpg') }}"
+                        <img alt="synex digital-banner" data-cfsrc="{{ asset('Frontend/images/demo-web-agency-01.jpg') }}"
                             style="display:none;visibility:hidden;" /><noscript><img
                                 src="{{ asset('Frontend/images/demo-web-agency-01.jpg') }}"
-                                alt="synex digital" /></noscript>
+                                alt="synex digital-banner" /></noscript>
                     </div>
                 </div>
                 <div class="col-lg-5 offset-lg-1 z-index-9 md-mt-35px"
@@ -271,16 +271,16 @@
                             data-top-bottom="transform:scale(1, 1) translate3d(-100px, 0px, 0px);">projects
                             <div class="position-absolute right-minus-100px top-minus-120px z-index-9 md-w-200px d-none d-md-block"
                                 data-anime='{ "translateY": [0, 0], "scale": [0.7, 1], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                <img class="animation-rotation" alt="synex digital"
+                                <img class="animation-rotation" alt="synex digital-circle"
                                     data-cfsrc="{{ asset('Frontend') }}/images/demo-web-agency-03.png"
                                     style="display:none;visibility:hidden;"><noscript><img
                                         src="{{ asset('Frontend') }}/images/demo-web-agency-03.png"
-                                        class="animation-rotation" alt="synex digital"></noscript>
-                                <div class="absolute-middle-center w-100 z-index-minus-1"><img alt="synex digital"
+                                        class="animation-rotation" alt="synex digital-circle"></noscript>
+                                <div class="absolute-middle-center w-100 z-index-minus-1"><img alt="synex digital-circle2"
                                         data-cfsrc="{{ asset('Frontend') }}/images/demo-web-agency-02.png"
                                         style="display:none;visibility:hidden;"><noscript><img
                                             src="{{ asset('Frontend') }}/images/demo-web-agency-02.png"
-                                            alt="synex digital"></noscript></div>
+                                            alt="synex digital-circle2"></noscript></div>
                             </div>
                         </div>
                     </div>
@@ -304,9 +304,9 @@
                                 <div class="portfolio-box" data-bottom-top="transform: translateY(40px)"
                                     data-top-bottom="transform: translateY(-40px)">
                                     <div class="portfolio-image bg-medium-gray border-radius-6px">
-                                        <a><img alt="synex digital" data-cfsrc="{{ $project['image'] }}"
+                                        <a><img alt="{{$project['name']}}" data-cfsrc="{{ $project['image'] }}"
                                                 style="display:none;visibility:hidden;" /><noscript><img
-                                                    src="{{ $project['image'] }}" alt="synex digital" /></noscript></a>
+                                                    src="{{ $project['image'] }}" alt="{{$project['name']}}" /></noscript></a>
                                     </div>
                                     <div class="portfolio-caption pt-35px pb-35px md-pt-25px md-pb-25px">
                                         <a class="text-dark-gray text-dark-gray-hover fw-600">{{ $project['name'] }}</a>
@@ -373,24 +373,24 @@
                     </div>
                     <div class="row row-cols-2 row-cols-sm-3 align-items-center mt-50px sm-mt-40px justify-content-center">
                         <div class="col xs-mb-30px">
-                            <a><img alt="synex digital" data-cfsrc="{{ asset('Frontend/images/brand/cit.png') }}"
+                            <a><img alt="synex digital-cit" data-cfsrc="{{ asset('Frontend/images/brand/cit.png') }}"
                                     style="display:none;visibility:hidden;" /><noscript><img
                                         src="{{ asset('Frontend/images/brand/cit.png') }}"
-                                        alt="synex digital" /></noscript></a>
+                                        alt="synex digital-cit" /></noscript></a>
                         </div>
                         <div class="col xs-mb-30px">
-                            <a><img alt="synex digital"
+                            <a><img alt="synex digital-colorlib"
                                     data-cfsrc="{{ asset('Frontend') }}/images/demo-web-agency-awards-logo-02.png"
                                     style="display:none;visibility:hidden;" /><noscript><img
                                         src="{{ asset('Frontend') }}/images/demo-web-agency-awards-logo-02.png"
-                                        alt="synex digital" /></noscript></a>
+                                        alt="synex digital-colorlib" /></noscript></a>
                         </div>
                         <div class="col">
-                            <a><img alt="synex digital"
+                            <a><img alt="synex digital-envato"
                                     data-cfsrc="{{ asset('Frontend') }}/images/demo-web-agency-awards-logo-03.png"
                                     style="display:none;visibility:hidden;" /><noscript><img
                                         src="{{ asset('Frontend') }}/images/demo-web-agency-awards-logo-03.png"
-                                        alt="synex digital" /></noscript></a>
+                                        alt="synex digital-envato" /></noscript></a>
                         </div>
                     </div>
                 </div>
@@ -475,31 +475,31 @@
                 <!-- start client item -->
                 <div class="col client-box text-center md-mb-40px">
                     <a href="#"><img src="{{ asset('Frontend/images/brand/amazon-web-services.png') }}"
-                            class="h-35px" alt="synex digital"></a>
+                            class="h-35px" alt="synex digital-aws"></a>
                 </div>
                 <!-- end client item -->
                 <!-- start client item -->
                 <div class="col client-box text-center md-mb-40px">
                     <a><img src="{{ asset('Frontend/images/brand/Logo-Notion-White-al-vivo.png') }}" class="h-35px"
-                            alt="synex digital"></a>
+                            alt="synex digital-notion"></a>
                 </div>
                 <!-- end client item -->
                 <!-- start client item -->
                 <div class="col client-box text-center md-mb-40px">
                     <a><img src="{{ asset('Frontend/images/brand/meta_PNG7.png') }}" class="h-35px"
-                            alt="synex digital"></a>
+                            alt="synex digital-meta"></a>
                 </div>
                 <!-- end client item -->
                 <!-- start client item -->
                 <div class="col client-box text-center sm-mb-40px">
                     <a><img src="{{ asset('Frontend/images/brand/stripe.png') }}" class="h-35px"
-                            alt="synex digital"></a>
+                            alt="synex digital-stripe"></a>
                 </div>
                 <!-- end client item -->
                 <!-- start client item -->
                 <div class="col client-box text-center">
                     <a><img src="{{ asset('Frontend/images/brand/GitHub-Wordmark-White-Dark-Background-Logo.wine.svg') }}"
-                            class="h-35px" alt="synex digital"></a>
+                            class="h-35px" alt="synex digital-github"></a>
                 </div>
                 <!-- end client item -->
             </div>
@@ -531,10 +531,10 @@
                                 <li class="grid-item">
                                     <div class="card bg-transparent border-0 h-100">
                                         <div class="blog-image position-relative overflow-hidden border-radius-4px">
-                                            <a href="{{ route('blog.view', $blog['slug']) }}"><img alt="synex digital"
+                                            <a href="{{ route('blog.view', $blog['slug']) }}"><img alt="{{$blog['title']}}"
                                                     data-cfsrc="{{ $blog['image'] }}"
                                                     style="display:none;visibility:hidden;"><noscript><img
-                                                        src="{{ $blog['image'] }}" alt="synex digital"></noscript></a>
+                                                        src="{{ $blog['image'] }}" alt="{{$blog['title']}}"></noscript></a>
                                         </div>
                                         <div class="card-body p-0 pt-30px sm-pt-20px lg-pb-20px">
                                             <span class="fs-14 text-uppercase d-block mb-5px fw-500"><a
@@ -576,16 +576,16 @@
                             together
                             <div class="position-absolute left-minus-140px top-minus-140px z-index-9 xl-left-minus-110px top-minus-140px xl-top-minus-100px md-top-minus-90px z-index-9 xl-w-230px md-w-200px d-none d-md-block"
                                 data-anime='{ "translateY": [-15, 0], "scale": [0.5, 1], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                <img class="animation-rotation" alt="synex digital"
+                                <img class="animation-rotation" alt="synex digital 1"
                                     data-cfsrc="{{ asset('Frontend') }}/images/demo-web-agency-05.png"
                                     style="display:none;visibility:hidden;"><noscript><img
                                         src="{{ asset('Frontend') }}/images/demo-web-agency-05.png"
-                                        class="animation-rotation" alt="synex digital"></noscript>
-                                <div class="absolute-middle-center w-100 z-index-minus-1"><img alt="synex digital"
+                                        class="animation-rotation" alt="synex digital 1"></noscript>
+                                <div class="absolute-middle-center w-100 z-index-minus-1"><img alt="synex digital 2"
                                         data-cfsrc="{{ asset('Frontend') }}/images/demo-web-agency-04.png"
                                         style="display:none;visibility:hidden;"><noscript><img
                                             src="{{ asset('Frontend') }}/images/demo-web-agency-04.png"
-                                            alt="synex digital"></noscript></div>
+                                            alt="synex digital 2"></noscript></div>
                             </div>
                         </div>
                     </div>

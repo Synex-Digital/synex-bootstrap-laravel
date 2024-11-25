@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-lg-12  text-center">
                 <h1 class="about-us-title">{{ $category['name'] }}</h1>
-                <img class="underlinesvg" src="http://127.0.0.1:8000/Frontend/images/aboutus-underline.svg" alt="">
+                <img class="underlinesvg" src="http://127.0.0.1:8000/Frontend/images/aboutus-underline.svg" alt="synex digital">
             </div>
         </div>
     </div>

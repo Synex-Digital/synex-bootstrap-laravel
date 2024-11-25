@@ -38,23 +38,23 @@
                             //]]>
                         </script>
                         <script type="text/javascript" src="{{ asset('Frontend/js/mirage2.min.js') }}"></script>
-                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                             class="default-logo" data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="{{ asset('Frontend') }}/images/logo-text.svg"
-                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                                 class="default-logo"></noscript>
-                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="" class="alt-logo"
+                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital" class="alt-logo"
                             data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="{{ asset('Frontend') }}/images/logo-text.svg"
-                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                                 class="alt-logo"></noscript>
-                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                             class="mobile-logo" data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="{{ asset('Frontend') }}/images/logo-text.svg"
-                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                                 class="mobile-logo"></noscript>
                     </a>
                 </div>
@@ -121,19 +121,19 @@
                 </div>
                 <div class="col-md-6 text-center"
                     data-anime='{ "opacity": [0, 1], "translateY": [150, 0], "duration": 2000, "easing": "easeOutBack" }'>
-                    <img alt="" class="animation-float"
+                    <img alt="synex digital" class="animation-float"
                         data-cfsrc="{{ asset('Frontend/images/demo-seo-agency-banner-right.png') }}"
                         style="display:none;visibility:hidden;"><noscript><img
-                            src="{{ asset('Frontend/images/demo-seo-agency-banner-right.png') }}" alt=""
+                            src="{{ asset('Frontend/images/demo-seo-agency-banner-right.png') }}" alt="synex digital"
                             class="animation-float"></noscript>
                 </div>
             </div>
             <div class="position-absolute bottom-minus-90px md-bottom-minus-70px sm-bottom-minus-50px right-30px sm-right-10px z-index-9"
                 data-anime='{ "opacity": [0, 1], "scale": [0, 1], "translateZ": [50, 0], "staggervalue": 200, "duration": 900, "delay": 800, "easing": "easeOutCirc" }'>
-                <img alt="" class="md-w-180px xs-w-150px"
+                <img alt="synex digital" class="md-w-180px xs-w-150px"
                     data-cfsrc="{{ asset('Frontend/images/demo-seo-agency-banner-bottom.png') }}"
                     style="display:none;visibility:hidden;"><noscript><img
-                        src="url({{ asset('Frontend/images/demo-seo-agency-banner-bottom.png') }}" alt=""
+                        src="url({{ asset('Frontend/images/demo-seo-agency-banner-bottom.png') }}" alt="synex digital"
                         class="md-w-180px xs-w-150px"></noscript>
             </div>
         </div>
@@ -156,7 +156,7 @@
                     <div class="feature-box ps-7 pe-7 sm-ps-4 sm-pe-4">
                         <div class="feature-box-icon mb-30px sm-mb-20px">
                             <img class="h-65px" src="{{ asset('Frontend/images/demo-seo-agency-icon-03.svg') }}"
-                                alt="">
+                                alt="synex digital">
                         </div>
                         <div class="feature-box-content last-paragraph-no-margin">
                             <span class="d-inline-block alt-font fw-700 text-dark-gray mb-5px fs-20">Real time
@@ -171,7 +171,7 @@
                     <div class="feature-box ps-7 pe-7 sm-ps-4 sm-pe-4">
                         <div class="feature-box-icon mb-30px sm-mb-20px">
                             <img class="h-65px" src="{{ asset('Frontend/images/demo-seo-agency-icon-01.svg') }}"
-                                alt="">
+                                alt="synex digital">
                         </div>
                         <div class="feature-box-content last-paragraph-no-margin">
                             <span class="d-inline-block alt-font fw-700 text-dark-gray mb-5px fs-20">Keywords
@@ -186,7 +186,7 @@
                     <div class="feature-box ps-7 pe-7 sm-ps-4 sm-pe-4">
                         <div class="feature-box-icon mb-30px sm-mb-20px">
                             <img class="h-65px" src="{{ asset('Frontend/images/demo-seo-agency-icon-04.svg') }}"
-                                alt="">
+                                alt="synex digital">
                         </div>
                         <div class="feature-box-content last-paragraph-no-margin">
                             <span class="d-inline-block alt-font fw-700 text-dark-gray mb-5px fs-20">SEO
@@ -201,7 +201,7 @@
                     <div class="feature-box ps-7 pe-7 sm-ps-4 sm-pe-4">
                         <div class="feature-box-icon mb-30px sm-mb-20px">
                             <img class="h-65px" src="{{ asset('Frontend/images/demo-seo-agency-icon-02.svg') }}"
-                                alt="">
+                                alt="synex digital">
                         </div>
                         <div class="feature-box-content last-paragraph-no-margin">
                             <span class="d-inline-block alt-font fw-700 text-dark-gray mb-5px fs-20">Boost
@@ -295,9 +295,9 @@
             <div class="row justify-content-center align-items-center">
                 <div class="col-md-6 animation-float sm-mb-50px"
                     data-anime='{ "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
-                    <img alt="" data-cfsrc="{{ asset('Frontend/images/demo-seo-agency-03.png') }}"
+                    <img alt="synex digital" data-cfsrc="{{ asset('Frontend/images/demo-seo-agency-03.png') }}"
                         style="display:none;visibility:hidden;"><noscript><img
-                            src="{{ asset('Frontend/images/demo-seo-agency-03.png') }}" alt=""></noscript>
+                            src="{{ asset('Frontend/images/demo-seo-agency-03.png') }}" alt="synex digital"></noscript>
                 </div>
                 <div class="col-lg-5 offset-lg-1 col-md-6 text-center text-md-start"
                     data-anime='{ "el": "childs", "willchange": "transform", "opacity": [0, 1], "rotateY": [-90, 0], "rotateZ": [-10, 0], "translateY": [80, 0], "translateZ": [50, 0], "staggervalue": 200, "duration": 600, "delay": 100, "easing": "easeOutCirc" }'>
@@ -320,10 +320,10 @@
         <div class="container-fluid d-none d-md-block">
             <div class="row">
                 <div class="p-0 overlap-section text-end pe-4 md-pe-5">
-                    <img alt="" class="animation-rotation lg-w-150px"
+                    <img alt="synex digital" class="animation-rotation lg-w-150px"
                         data-cfsrc="{{ asset('Frontend/images/demo-seo-agency-08.png') }}"
                         style="display:none;visibility:hidden;"><noscript><img
-                            src="{{ asset('Frontend/images/demo-seo-agency-08.png') }}" alt=""
+                            src="{{ asset('Frontend/images/demo-seo-agency-08.png') }}" alt="synex digital"
                             class="animation-rotation lg-w-150px"></noscript>
                 </div>
             </div>
@@ -389,11 +389,11 @@
                             <div class="row align-items-center justify-content-center">
                                 <div class="col-lg-7 col-md-6 sm-mb-30px"
                                     data-anime='{ "opacity": [0, 1], "staggervalue": 200, "duration": 600, "delay": 0, "easing": "easeOutCirc" }'>
-                                    <img alt=""
+                                    <img alt="synex digital"
                                         data-cfsrc="{{ asset('Frontend/images/demo-seo-agency-tab-01.png') }}"
                                         style="display:none;visibility:hidden;" /><noscript><img
                                             src="{{ asset('Frontend/images/demo-seo-agency-tab-01.png') }}"
-                                            alt="" /></noscript>
+                                            alt="synex digital" /></noscript>
                                 </div>
                                 <div class="col-lg-5 col-md-6 ps-8 lg-ps-3 sm-ps-15px text-center text-md-start"
                                     data-anime='{ "el": "childs", "willchange": "transform", "opacity": [0, 1], "rotateY": [-90, 0], "rotateZ": [-10, 0], "translateY": [80, 0], "translateZ": [50, 0], "staggervalue": 200, "duration": 600, "delay": 100, "easing": "easeOutCirc" }'>
@@ -413,11 +413,11 @@
                         <div class="tab-pane fade in" id="tab_five2">
                             <div class="row align-items-center justify-content-center">
                                 <div class="col-lg-7 col-md-6 sm-mb-30px">
-                                    <img alt=""
+                                    <img alt="synex digital"
                                         data-cfsrc="{{ asset('Frontend/images/demo-seo-agency-tab-02.png') }}"
                                         style="display:none;visibility:hidden;" /><noscript><img
                                             src="{{ asset('Frontend/images/demo-seo-agency-tab-02.png') }}"
-                                            alt="" /></noscript>
+                                            alt="synex digital" /></noscript>
                                 </div>
                                 <div class="col-lg-5 col-md-6 ps-8 lg-ps-3 sm-ps-15px text-center text-md-start">
                                     <span
@@ -436,11 +436,11 @@
                         <div class="tab-pane fade in" id="tab_five3">
                             <div class="row align-items-center justify-content-center">
                                 <div class="col-lg-7 col-md-6 sm-mb-30px">
-                                    <img alt=""
+                                    <img alt="synex digital"
                                         data-cfsrc="{{ asset('Frontend/images/demo-seo-agency-tab-03.png') }}"
                                         style="display:none;visibility:hidden;" /><noscript><img
                                             src="{{ asset('Frontend/images/demo-seo-agency-tab-03.png') }}"
-                                            alt="" /></noscript>
+                                            alt="synex digital" /></noscript>
                                 </div>
                                 <div class="col-lg-5 col-md-6 ps-8 lg-ps-3 sm-ps-15px text-center text-md-start">
                                     <span
@@ -459,11 +459,11 @@
                         <div class="tab-pane fade in" id="tab_five4">
                             <div class="row align-items-center justify-content-center">
                                 <div class="col-lg-7 col-md-6 sm-mb-30px">
-                                    <img alt=""
+                                    <img alt="synex digital"
                                         data-cfsrc="{{ asset('Frontend/images/demo-seo-agency-tab-04.png') }}"
                                         style="display:none;visibility:hidden;" /><noscript><img
                                             src="{{ asset('Frontend/images/demo-seo-agency-tab-04.png') }}"
-                                            alt="" /></noscript>
+                                            alt="synex digital" /></noscript>
                                 </div>
                                 <div class="col-lg-5 col-md-6 ps-8 lg-ps-3 sm-ps-15px text-center text-md-start">
                                     <span
@@ -500,12 +500,12 @@
                 <div class="col text-center mb-35px"
                     data-anime='{ "translateY": [15, 0], "opacity": [0,1], "duration": 600, "delay": 300, "staggervalue": 150, "easing": "easeOutQuad" }'>
                     <div class="client-box">
-                        <a href="#"><img alt=""
+                        <a href="#"><img alt="synex digital"
                                 class="box-shadow-extra-large border-radius-100px lg-w-80 md-w-95 xs-w-auto"
                                 data-cfsrc="{{ asset('Frontend/images/demo-seo-agency-clients-01.jpg') }}"
                                 style="display:none;visibility:hidden;"><noscript><img
                                     src="{{ asset('Frontend/images/demo-seo-agency-clients-01.jpg') }}"
-                                    alt=""
+                                    alt="synex digital"
                                     class="box-shadow-extra-large border-radius-100px lg-w-80 md-w-95 xs-w-auto"></noscript></a>
                     </div>
                 </div>
@@ -514,12 +514,12 @@
                 <div class="col text-center mb-35px"
                     data-anime='{ "translateY": [15, 0], "opacity": [0,1], "duration": 600, "delay": 1000, "staggervalue": 150, "easing": "easeOutQuad" }'>
                     <div class="client-box">
-                        <a href="#"><img alt=""
+                        <a href="#"><img alt="synex digital"
                                 class="box-shadow-extra-large border-radius-100px lg-w-80 md-w-95 xs-w-auto"
                                 data-cfsrc="{{ asset('Frontend/images/demo-seo-agency-clients-02.jpg') }}"
                                 style="display:none;visibility:hidden;"><noscript><img
                                     src="{{ asset('Frontend/images/demo-seo-agency-clients-02.jpg') }}"
-                                    alt=""
+                                    alt="synex digital"
                                     class="box-shadow-extra-large border-radius-100px lg-w-80 md-w-95 xs-w-auto"></noscript></a>
                     </div>
                 </div>
@@ -528,12 +528,12 @@
                 <div class="col text-center mb-35px"
                     data-anime='{ "translateY": [15, 0], "opacity": [0,1], "duration": 600, "delay":900, "staggervalue": 150, "easing": "easeOutQuad" }'>
                     <div class="client-box">
-                        <a href="#"><img alt=""
+                        <a href="#"><img alt="synex digital"
                                 class="box-shadow-extra-large border-radius-100px lg-w-80 md-w-95 xs-w-auto"
                                 data-cfsrc="{{ asset('Frontend/images/demo-seo-agency-clients-03.jpg') }}"
                                 style="display:none;visibility:hidden;"><noscript><img
                                     src="{{ asset('Frontend/images/demo-seo-agency-clients-03.jpg') }}"
-                                    alt=""
+                                    alt="synex digital"
                                     class="box-shadow-extra-large border-radius-100px lg-w-80 md-w-95 xs-w-auto"></noscript></a>
                     </div>
                 </div>
@@ -542,12 +542,12 @@
                 <div class="col text-center mb-35px"
                     data-anime='{ "translateY": [15, 0], "opacity": [0,1], "duration": 600, "delay": 500, "staggervalue": 150, "easing": "easeOutQuad" }'>
                     <div class="client-box">
-                        <a href="#"><img alt=""
+                        <a href="#"><img alt="synex digital"
                                 class="box-shadow-extra-large border-radius-100px lg-w-80 md-w-95 xs-w-auto"
                                 data-cfsrc="{{ asset('Frontend/images/demo-seo-agency-clients-04.jpg') }}"
                                 style="display:none;visibility:hidden;"><noscript><img
                                     src="{{ asset('Frontend/images/demo-seo-agency-clients-04.jpg') }}"
-                                    alt=""
+                                    alt="synex digital"
                                     class="box-shadow-extra-large border-radius-100px lg-w-80 md-w-95 xs-w-auto"></noscript></a>
                     </div>
                 </div>
@@ -556,12 +556,12 @@
                 <div class="col text-center sm-mb-35px"
                     data-anime='{ "translateY": [15, 0], "opacity": [0,1], "duration": 600, "delay": 700, "staggervalue": 150, "easing": "easeOutQuad" }'>
                     <div class="client-box">
-                        <a href="#"><img alt=""
+                        <a href="#"><img alt="synex digital"
                                 class="box-shadow-extra-large border-radius-100px lg-w-80 md-w-95 xs-w-auto"
                                 data-cfsrc="{{ asset('Frontend/images/demo-seo-agency-clients-05.jpg') }}"
                                 style="display:none;visibility:hidden;"><noscript><img
                                     src="{{ asset('Frontend/images/demo-seo-agency-clients-05.jpg') }}"
-                                    alt=""
+                                    alt="synex digital"
                                     class="box-shadow-extra-large border-radius-100px lg-w-80 md-w-95 xs-w-auto"></noscript></a>
                     </div>
                 </div>
@@ -570,12 +570,12 @@
                 <div class="col text-center sm-mb-35px"
                     data-anime='{ "translateY": [15, 0], "opacity": [0,1], "duration": 600, "delay":1200, "staggervalue": 150, "easing": "easeOutQuad" }'>
                     <div class="client-box">
-                        <a href="#"><img alt=""
+                        <a href="#"><img alt="synex digital"
                                 class="box-shadow-extra-large border-radius-100px lg-w-80 md-w-95 xs-w-auto"
                                 data-cfsrc="{{ asset('Frontend/images/demo-seo-agency-clients-06.jpg') }}"
                                 style="display:none;visibility:hidden;"><noscript><img
                                     src="{{ asset('Frontend/images/demo-seo-agency-clients-06.jpg') }}"
-                                    alt=""
+                                    alt="synex digital"
                                     class="box-shadow-extra-large border-radius-100px lg-w-80 md-w-95 xs-w-auto"></noscript></a>
                     </div>
                 </div>
@@ -584,12 +584,12 @@
                 <div class="col text-center"
                     data-anime='{ "translateY": [15, 0], "opacity": [0,1], "duration": 600, "delay": 800, "staggervalue": 150, "easing": "easeOutQuad" }'>
                     <div class="client-box">
-                        <a href="#"><img alt=""
+                        <a href="#"><img alt="synex digital"
                                 class="box-shadow-extra-large border-radius-100px lg-w-80 md-w-95 xs-w-auto"
                                 data-cfsrc="{{ asset('Frontend/images/demo-seo-agency-clients-07.jpg') }}"
                                 style="display:none;visibility:hidden;"><noscript><img
                                     src="{{ asset('Frontend/images/demo-seo-agency-clients-07.jpg') }}"
-                                    alt=""
+                                    alt="synex digital"
                                     class="box-shadow-extra-large border-radius-100px lg-w-80 md-w-95 xs-w-auto"></noscript></a>
                     </div>
                 </div>
@@ -761,11 +761,11 @@
                 <!-- start footer column -->
                 <div class="col-12 col-md-auto sm-mb-15px text-center text-md-start">
                     <a href="demo-seo-agency.html" class="footer-logo"><img
-                            data-at2x="images/demo-seo-agency-logo-black@2x.png" alt=""
+                            data-at2x="images/demo-seo-agency-logo-black@2x.png" alt="synex digital"
                             data-cfsrc="images/demo-seo-agency-logo-black.png"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="images/demo-seo-agency-logo-black.png"
-                                data-at2x="images/demo-seo-agency-logo-black@2x.png" alt=""></noscript></a>
+                                data-at2x="images/demo-seo-agency-logo-black@2x.png" alt="synex digital"></noscript></a>
                 </div>
                 <!-- end footer column -->
                 <!-- start footer column -->

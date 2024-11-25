@@ -179,16 +179,16 @@
                     style="background-image: url({{ asset('Frontend/images/demo-web-agency-about-01.jpg') }});">
                     <a href="https://www.youtube.com/watch?v=-x1Pt-ZbC30" class="popup-youtube">
                         <div class="absolute-middle-center z-index-9">
-                            <img class="animation-rotation" alt=""
+                            <img class="animation-rotation" alt="synex digital"
                                 data-cfsrc="{{ asset('Frontend/images/demo-web-agency-03.png') }}"
                                 style="display:none;visibility:hidden;"><noscript><img
                                     src="{{ asset('Frontend/images/demo-web-agency-03.png') }}" class="animation-rotation"
-                                    alt=""></noscript>
-                            <div class="absolute-middle-center w-100 z-index-minus-1"><img alt=""
+                                    alt="synex digital"></noscript>
+                            <div class="absolute-middle-center w-100 z-index-minus-1"><img alt="synex digital"
                                     data-cfsrc="{{ asset('Frontend/images/demo-web-agency-about-02.png') }}"
                                     style="display:none;visibility:hidden;"><noscript><img
                                         src="{{ asset('Frontend/images/demo-web-agency-about-02.png') }}"
-                                        alt=""></noscript></div>
+                                        alt="synex digital"></noscript></div>
                         </div>
                     </a>
                 </div>
@@ -353,9 +353,9 @@
                         data-top-bottom="transform: translateY(-40px)">
                         <figure style="background:#e5e5e5 !important"
                             class="mb-0 position-relative overflow-hidden border-radius-6px">
-                            <img alt="" data-cfsrc="{{ $person['profile'] }}"
+                            <img alt="synex digital" data-cfsrc="{{ $person['profile'] }}"
                                 style="display:none;visibility:hidden;" /><noscript><img src="{{ $person['profile'] }}"
-                                    alt="" /></noscript>
+                                    alt="synex digital" /></noscript>
                             <figcaption
                                 class="w-100 h-100 d-flex align-items-end p-13 lg-p-8 md-p-13 sm-p-10 bg-gradient-gray-light-dark-transparent border-radius-6px">
                                 <div class="w-100">

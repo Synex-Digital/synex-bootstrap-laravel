@@ -111,8 +111,7 @@
                             installations.</span>
                     </div>
                     <div class="overflow-hidden pt-5px">
-                        <a href="demo-hosting-hosting.html"
-                            class="btn btn-extra-large btn-yellow btn-rounded btn-box-shadow btn-switch-text d-inline-block me-15px xs-m-10px align-middle fw-600"
+                        <a class="btn btn-extra-large btn-yellow btn-rounded btn-box-shadow btn-switch-text d-inline-block me-15px xs-m-10px align-middle fw-600"
                             data-anime='{ "translateY": [100, 0], "easing": "easeOutCubic", "duration": 900, "delay": 500 }'>
                             <span>
                                 <span class="btn-double-text" data-text="Get started">Get started</span>

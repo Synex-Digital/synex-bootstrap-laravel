@@ -82,13 +82,10 @@
                                                     src="{{ $blog['image'] }}" alt="{{ $blog['title'] }}"></noscript></a>
                                     </div>
                                     <div class="card-body px-0 pt-30px pb-30px xs-pb-15px">
-                                        <span class="fs-14 text-uppercase d-block mb-5px fw-500"><a
-                                                href="demo-web-agency-blog.html"
-                                                class="text-dark-gray text-dark-gray-hover fw-700 categories-text">{{ $blog['category'] }}</a><a
-                                                href="#"
-                                                class="blog-date text-medium-gray-hover">{{ $blog['date'] }}</a></span>
-                                        <a href="{{ route('blog.view', $blog['slug']) }}"
-                                            class="card-title fw-600 fs-17 lh-28 text-dark-gray text-dark-gray-hover d-inline-block w-95 sm-w-100">{{ $blog['title'] }}</a>
+                                        <span class="fs-14 text-uppercase d-block mb-5px fw-500"><a class="text-dark-gray text-dark-gray-hover fw-700 categories-text">{{ $blog['category'] }}</a>
+                                        <span class="d-inline-block fs-10 alt-font align-middle opacity-7 ms-5px me-5px">•</span>
+                                        <a class="blog-date text-medium-gray-hover">{{ $blog['date'] }}</a></span>
+                                        <a href="{{ route('blog.view', $blog['slug']) }}" class="card-title fw-600 fs-17 lh-28 text-dark-gray text-dark-gray-hover d-inline-block w-95 sm-w-100">{{ $blog['title'] }}</a>
                                     </div>
                                 </div>
                             </li>

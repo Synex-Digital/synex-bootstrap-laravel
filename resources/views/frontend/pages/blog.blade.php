@@ -6,10 +6,8 @@
         <div class="container">
             <div class="row align-items-center justify-content-center small-screen sm-h-auto">
                 <div class="col-lg-10 text-center">
-                    <span class="fs-18 mb-30px d-inline-block sm-mb-20px">By <a href="demo-web-agency-blog.html"
-                            class="text-dark-gray text-dark-gray-hover text-decoration-line-bottom">{{ $content['author'] }}</a>
-                        in <a href="demo-web-agency-blog.html"
-                            class="text-dark-gray text-dark-gray-hover text-decoration-line-bottom">{{ $content['category'] }}</a>
+                    <span class="fs-18 mb-30px d-inline-block sm-mb-20px">By <a class="text-dark-gray text-dark-gray-hover text-decoration-line-bottom">{{ $content['author'] }}</a>
+                        in <a class="text-dark-gray text-dark-gray-hover text-decoration-line-bottom">{{ $content['category'] }}</a>
                         on {{ $content['date'] }}</span>
                     <h2 class="alt-font fw-600 text-dark-gray ls-minus-2px mb-0">{{ $content['title'] }}</h2>
                 </div>
@@ -39,15 +37,13 @@
                         <div class="col-lg-3 col-md-4 text-center sm-mb-30px">
                             <div class="pb-20px">
                                 <span class="d-block lh-22">Words by</span>
-                                <a href="demo-web-agency-blog.html"
-                                    class="text-dark-gray text-dark-gray-hover alt-font fw-500 text-uppercase">{{ $content['author'] }}</a>
+                                <a class="text-dark-gray text-dark-gray-hover alt-font fw-500 text-uppercase">{{ $content['author'] }}</a>
                             </div>
                             <div class="h-3px w-100 bg-dark-gray mb-20px"></div>
                             <ul class="d-flex list-unstyled justify-content-center">
-                                <li class="me-25px"><a href="#"
-                                        class="text-dark-gray-hover text-uppercase alt-font fs-13">👁
+                                <li class="me-25px"><a class="text-dark-gray-hover text-uppercase alt-font fs-13">👁
                                         {{ $content['view'] }}</a></li>
-                                <li><a href="#" class="text-dark-gray-hover text-uppercase alt-font fs-13">♡ Like</a>
+                                <li><a class="text-dark-gray-hover text-uppercase alt-font fs-13">♡ Like</a>
                                 </li>
                             </ul>
                         </div>

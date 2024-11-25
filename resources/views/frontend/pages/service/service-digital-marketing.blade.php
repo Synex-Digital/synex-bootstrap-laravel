@@ -29,7 +29,7 @@
             data-header-hover="light">
             <div class="container-fluid">
                 <div class="col-auto">
-                    <a class="navbar-brand" href="demo-seo-agency.html">
+                    <a class="navbar-brand">
                         <script type="text/javascript" style="display:none">
                             //<![CDATA[
                             window.__mirage2 = {
@@ -623,48 +623,6 @@
                             in touch</span>
                         <h3 class="alt-font text-dark-gray fw-600">Looking for help? Ready to help!</h3>
                         <p>Feel free to get in touch..</p>
-                        {{-- <div class="mt-11">
-                            <div class="col icon-with-text-style-08 mb-25px">
-                                <div
-                                    class="feature-box feature-box-left-icon-middle border-bottom pb-25px border-color-extra-medium-gray">
-                                    <div class="feature-box-icon me-25px xs-me-15px lh-0px">
-                                        <i class="bi bi-telephone-outbound icon-medium text-dark-gray"></i>
-                                    </div>
-                                    <div class="feature-box-content">
-                                        <span class="alt-font fs-18 fw-500">Feel free to get in touch?</span>
-                                        <span class="d-block fw-600 alt-font fs-20"><a href="tel:1234567890"
-                                                class="text-dark-gray">123 456 7890</a></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col icon-with-text-style-08 mb-25px">
-                                <div
-                                    class="feature-box feature-box-left-icon-middle border-bottom pb-25px border-color-extra-medium-gray">
-                                    <div class="feature-box-icon me-25px xs-me-15px lh-0px">
-                                        <i class="bi bi-envelope icon-medium text-dark-gray"></i>
-                                    </div>
-                                    <div class="feature-box-content">
-                                        <span class="alt-font fs-18 fw-500">How can we help you?</span>
-                                        <span class="d-block fw-600 alt-font fs-20"><a
-                                                href="cdn-cgi/l/email-protection.html#e78f828b97a79e88929583888a868e89c984888a"
-                                                class="text-dark-gray"><span class="__cf_email__"
-                                                    data-cfemail="f79f929b87b78e98828593989a969e99d994989a">[email&#160;protected]</span></a></span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col icon-with-text-style-08">
-                                <div class="feature-box feature-box-left-icon-middle">
-                                    <div class="feature-box-icon me-25px xs-me-15px lh-0px">
-                                        <i class="bi bi-chat-text icon-medium text-dark-gray"></i>
-                                    </div>
-                                    <div class="feature-box-content">
-                                        <span class="alt-font fs-18 fw-500">Are you ready for coffee?</span>
-                                        <span class="text-dark-gray d-block alt-font fw-600 fs-20">401 Broadway,
-                                            London</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> --}}
                     </div>
                 </div>
                 <!-- end contact address -->
@@ -760,7 +718,7 @@
             <div class="row align-items-center">
                 <!-- start footer column -->
                 <div class="col-12 col-md-auto sm-mb-15px text-center text-md-start">
-                    <a href="demo-seo-agency.html" class="footer-logo"><img
+                    <a class="footer-logo"><img
                             data-at2x="images/demo-seo-agency-logo-black@2x.png" alt="synex digital"
                             data-cfsrc="images/demo-seo-agency-logo-black.png"
                             style="display:none;visibility:hidden;"><noscript><img

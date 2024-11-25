@@ -86,10 +86,10 @@
                 <div class="col md-mb-60px sm-mb-45px" data-bottom-top="transform: translateY(50px)"
                     data-top-bottom="transform: translateY(-50px)">
                     <div>
-                        <img class="border-radius-4px" alt="" data-cfsrc="images/demo-web-agency-contact-01.jpg"
+                        <img class="border-radius-4px" alt="synex digital" data-cfsrc="images/demo-web-agency-contact-01.jpg"
                             style="display:none;visibility:hidden;" /><noscript><img
                                 src="images/demo-web-agency-contact-01.jpg" class="border-radius-4px"
-                                alt="" /></noscript>
+                                alt="synex digital" /></noscript>
                     </div>
                     <div class="position-relative ps-40px pe-40px pt-50px lg-ps-25px lg-pe-25px sm-pt-35px">
                         <div
@@ -116,10 +116,10 @@
                 <div class="col mt-4 md-mt-0 md-mb-60px sm-mb-45px" data-bottom-top="transform: translateY(-50px)"
                     data-top-bottom="transform: translateY(50px)">
                     <div>
-                        <img class="border-radius-4px" alt="" data-cfsrc="images/demo-web-agency-contact-02.jpg"
+                        <img class="border-radius-4px" alt="synex digital" data-cfsrc="images/demo-web-agency-contact-02.jpg"
                             style="display:none;visibility:hidden;" /><noscript><img
                                 src="images/demo-web-agency-contact-02.jpg" class="border-radius-4px"
-                                alt="" /></noscript>
+                                alt="synex digital" /></noscript>
                     </div>
                     <div class="position-relative ps-40px pe-40px pt-50px lg-ps-25px lg-pe-25px sm-pt-35px">
                         <div
@@ -398,14 +398,14 @@
                             together
                             <div class="position-absolute left-minus-140px top-minus-140px z-index-9 xl-left-minus-110px top-minus-140px xl-top-minus-100px md-top-minus-90px z-index-9 xl-w-230px md-w-200px d-none d-md-block"
                                 data-anime='{ "translateY": [-15, 0], "scale": [0.5, 1], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                <img class="animation-rotation" alt="" data-cfsrc="images/demo-web-agency-05.png"
+                                <img class="animation-rotation" alt="synex digital" data-cfsrc="images/demo-web-agency-05.png"
                                     style="display:none;visibility:hidden;"><noscript><img
                                         src="images/demo-web-agency-05.png" class="animation-rotation"
-                                        alt=""></noscript>
-                                <div class="absolute-middle-center w-100 z-index-minus-1"><img alt=""
+                                        alt="synex digital"></noscript>
+                                <div class="absolute-middle-center w-100 z-index-minus-1"><img alt="synex digital"
                                         data-cfsrc="images/demo-web-agency-04.png"
                                         style="display:none;visibility:hidden;"><noscript><img
-                                            src="images/demo-web-agency-04.png" alt=""></noscript></div>
+                                            src="images/demo-web-agency-04.png" alt="synex digital"></noscript></div>
                             </div>
                         </div>
                     </div>

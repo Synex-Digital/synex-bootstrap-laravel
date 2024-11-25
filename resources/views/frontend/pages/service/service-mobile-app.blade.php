@@ -37,23 +37,23 @@
                             //]]>
                         </script>
                         <script type="text/javascript" src="{{ asset('Frontend/js/mirage2.min.js') }}"></script>
-                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                             class="default-logo" data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="{{ asset('Frontend') }}/images/logo-text.svg"
-                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                                 class="default-logo"></noscript>
-                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="" class="alt-logo"
+                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital" class="alt-logo"
                             data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="{{ asset('Frontend') }}/images/logo-text.svg"
-                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                                 class="alt-logo"></noscript>
-                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                             class="mobile-logo" data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="{{ asset('Frontend') }}/images/logo-text.svg"
-                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                                 class="mobile-logo"></noscript>
                     </a>
                 </div>
@@ -99,20 +99,20 @@
                     data-anime='{ "el": "childs", "opacity": [0, 1], "translateY": [80, 0], "staggervalue": 200, "duration": 900, "easing": "easeOutCirc" }'>
                     <div class="d-inline-block">
                         <div class="text-end w-90 lg-w-80 ms-auto animation-float">
-                            <img alt=""
+                            <img alt="synex digital"
                                 data-cfsrc="{{ asset('Frontend') }}/images/demo-application-home-01.png"
                                 style="display:none;visibility:hidden;"><noscript><img
                                     src="{{ asset('Frontend') }}/images/demo-application-home-01.png"
-                                    alt=""></noscript>
+                                    alt="synex digital"></noscript>
                         </div>
                     </div>
                     <div
                         class="w-60 position-absolute left-minus-40px lg-left-minus-30px xs-left-15px xs-w-50 bottom-minus-50px mb-30 xs-mb-15">
-                        <img class="border-radius-18px box-shadow-extra-large" alt=""
+                        <img class="border-radius-18px box-shadow-extra-large" alt="synex digital"
                             data-cfsrc="{{ asset('Frontend') }}/images/demo-application-home-01-02.jpg"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="{{ asset('Frontend') }}/images/demo-application-home-01-02.jpg"
-                                class="border-radius-18px box-shadow-extra-large" alt=""></noscript>
+                                class="border-radius-18px box-shadow-extra-large" alt="synex digital"></noscript>
                     </div>
                 </div>
                 <div class="col-xl-5 ps-3 md-ps-15px col-lg-6 col-md-9 position-relative text-center text-lg-start"
@@ -127,12 +127,12 @@
                         <a href="#" class="col-6">
                             <img src="{{ asset('Frontend') }}/images/app-store-white.svg"
                                 class="box-shadow-medium-bottom box-shadow-quadruple-large-hover border-radius-4px"
-                                alt="">
+                                alt="synex digital">
                         </a>
                         <a href="#" class="col-6">
                             <img src="{{ asset('Frontend') }}/images/play-store-white.svg"
                                 class="box-shadow-medium-bottom box-shadow-quadruple-large-hover border-radius-4px"
-                                alt="">
+                                alt="synex digital">
                         </a>
                     </div>
                 </div>
@@ -169,11 +169,11 @@
                     <div
                         class="feature-box bg-white text-start justify-content-start h-100 border-radius-6px p-16 lg-p-13 box-shadow-quadruple-large box-shadow-quadruple-large-hover">
                         <div class="feature-box-icon mb-25px">
-                            <img class="w-60px" alt=""
+                            <img class="w-60px" alt="synex digital"
                                 data-cfsrc="{{ asset('Frontend') }}/images/secure.png"
                                 style="display:none;visibility:hidden;"><noscript><img
                                     src="{{ asset('Frontend') }}/images/secure.png" class="w-60px"
-                                    alt=""></noscript>
+                                    alt="synex digital"></noscript>
                         </div>
                         <div class="feature-box-content last-paragraph-no-margin">
                             <span class="d-inline-block text-dark-gray fw-700 fs-18 mb-5px">Guaranteed safety</span>
@@ -190,11 +190,11 @@
                     <div
                         class="feature-box bg-white text-start justify-content-start h-100 border-radius-6px p-16 lg-p-13 box-shadow-quadruple-large box-shadow-quadruple-large-hover">
                         <div class="feature-box-icon mb-25px">
-                            <img class="w-60px" alt=""
+                            <img class="w-60px" alt="synex digital"
                                 data-cfsrc="{{ asset('Frontend') }}/images/market-down.png"
                                 style="display:none;visibility:hidden;"><noscript><img
                                     src="{{ asset('Frontend') }}/images/market-down.png" class="w-60px"
-                                    alt=""></noscript>
+                                    alt="synex digital"></noscript>
                         </div>
                         <div class="feature-box-content last-paragraph-no-margin">
                             <span class="d-inline-block text-dark-gray fw-700 fs-18 mb-5px">Fast performance</span>
@@ -213,11 +213,11 @@
                     <div
                         class="feature-box bg-white text-start justify-content-start h-100 border-radius-6px p-16 lg-p-13 box-shadow-quadruple-large box-shadow-quadruple-large-hover">
                         <div class="feature-box-icon mb-25px">
-                            <img class="w-60px" alt=""
+                            <img class="w-60px" alt="synex digital"
                                 data-cfsrc="{{ asset('Frontend') }}/images/awesome-design.png"
                                 style="display:none;visibility:hidden;"><noscript><img
                                     src="{{ asset('Frontend') }}/images/awesome-design.png" class="w-60px"
-                                    alt=""></noscript>
+                                    alt="synex digital"></noscript>
                         </div>
                         <div class="feature-box-content last-paragraph-no-margin">
                             <span class="d-inline-block text-dark-gray fw-700 fs-18 mb-5px">Awesome design</span>
@@ -251,19 +251,19 @@
             <div class="row">
                 <div class="p-0 overlap-section position-absolute right-0px text-end w-auto xs-w-200px z-index-minus-1"
                     data-bottom-top="transform: translateY(-150px)" data-top-bottom="transform: translateY(150px)">
-                    <img alt=""
+                    <img alt="synex digital"
                         data-cfsrc="{{ asset('Frontend') }}/images/demo-application-home-bg-right.png"
                         style="display:none;visibility:hidden;"><noscript><img
                             src="{{ asset('Frontend') }}/images/demo-application-home-bg-right.png"
-                            alt=""></noscript>
+                            alt="synex digital"></noscript>
                 </div>
             </div>
         </div>
         <div class="position-absolute left-0px bottom-minus-100px w-auto xs-w-180px z-index-minus-1"
             data-bottom-top="transform: translateY(-100px)" data-top-bottom="transform: translateY(100px)">
-            <img alt="" data-cfsrc="{{ asset('Frontend') }}/images/demo-application-home-bg-left.png"
+            <img alt="synex digital" data-cfsrc="{{ asset('Frontend') }}/images/demo-application-home-bg-left.png"
                 style="display:none;visibility:hidden;"><noscript><img
-                    src="{{ asset('Frontend') }}/images/demo-application-home-bg-left.png" alt=""></noscript>
+                    src="{{ asset('Frontend') }}/images/demo-application-home-bg-left.png" alt="synex digital"></noscript>
         </div>
         <div class="container">
             <div class="row align-items-center justify-content-center">
@@ -274,23 +274,23 @@
                             <div class="atropos-scale">
                                 <div class="atropos-rotate">
                                     <div class="atropos-inner">
-                                        <img data-atropos-offset="5" alt=""
+                                        <img data-atropos-offset="5" alt="synex digital"
                                             data-cfsrc="{{ asset('Frontend') }}/images/demo-application-home-02.png"
                                             style="display:none;visibility:hidden;"><noscript><img
                                                 data-atropos-offset="5"
                                                 src="{{ asset('Frontend') }}/images/demo-application-home-02.png"
-                                                alt=""></noscript>
+                                                alt="synex digital"></noscript>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <figcaption
                             class="position-absolute bottom-90px xs-bottom-50px right-0px transform-3d xs-w-80 z-index-9">
-                            <img class="animation-float" alt=""
+                            <img class="animation-float" alt="synex digital"
                                 data-cfsrc="{{ asset('Frontend') }}/images/demo-application-home-02-2.png"
                                 style="display:none;visibility:hidden;"><noscript><img
                                     src="{{ asset('Frontend') }}/images/demo-application-home-02-2.png"
-                                    class="animation-float" alt=""></noscript>
+                                    class="animation-float" alt="synex digital"></noscript>
                         </figcaption>
                     </figure>
                 </div>
@@ -376,11 +376,11 @@
                 <!-- start content box item -->
                 <div class="col-lg-6 text-dark-gray md-mb-50px sm-mb-40px">
                     <div class="row align-items-center justify-content-center justify-content-lg-start">
-                        <div class="col-5 col-sm-4 md-mb-20px"><img class="rounded-circle w-100" alt=""
+                        <div class="col-5 col-sm-4 md-mb-20px"><img class="rounded-circle w-100" alt="synex digital"
                                 data-cfsrc="{{ asset('Frontend') }}/images/demo-application-home-avtar-01.jpg"
                                 style="display:none;visibility:hidden;"><noscript><img
                                     src="{{ asset('Frontend') }}/images/demo-application-home-avtar-01.jpg"
-                                    class="rounded-circle w-100" alt=""></noscript></div>
+                                    class="rounded-circle w-100" alt="synex digital"></noscript></div>
                         <div class="col-lg-8 text-center text-lg-start">
                             <div class="fs-19 lh-30 mb-3 w-90 md-w-75 sm-w-100 mx-auto mx-lg-0">Travel makes one
                                 modest. You see what a tiny place your favorite occupy in the world.</div>
@@ -449,11 +449,11 @@
                                 <p class="lg-w-85 md-w-95 sm-w-100">Lorem ipsum is simply printing typesetting industry
                                     industry's standard dummy text printer scrambled ipsum is simply dummy text of the
                                     printing.</p>
-                                <img class="mt-10px" alt=""
+                                <img class="mt-10px" alt="synex digital"
                                     data-cfsrc="{{ asset('Frontend') }}/images/demo-application-home-manage-data-graphic.png"
                                     style="display:none;visibility:hidden;"><noscript><img
                                         src="{{ asset('Frontend') }}/images/demo-application-home-manage-data-graphic.png"
-                                        class="mt-10px" alt=""></noscript>
+                                        class="mt-10px" alt="synex digital"></noscript>
                             </div>
                             <div class="col-xl-8 col-lg-7 col-md-6 position-relative atropos" data-atropos>
                                 <div class="atropos-scale">
@@ -461,19 +461,19 @@
                                         <div class="atropos-inner text-center">
                                             <div data-atropos-offset="-5"
                                                 class="position-absolute left-0px right-0px">
-                                                <img alt=""
+                                                <img alt="synex digital"
                                                     data-cfsrc="{{ asset('Frontend') }}/images/demo-application-home-manage-data-bg.png"
                                                     style="display:none;visibility:hidden;"><noscript><img
                                                         src="images/demo-application-home-manage-data-bg.png"
-                                                        alt=""></noscript>
+                                                        alt="synex digital"></noscript>
                                             </div>
                                             <img data-atropos-offset="5" class="position-relative z-index-9"
-                                                alt=""
+                                                alt="synex digital"
                                                 data-cfsrc="{{ asset('Frontend') }}/images/demo-application-home-manage-data.png"
                                                 style="display:none;visibility:hidden;"><noscript><img
                                                     data-atropos-offset="5" class="position-relative z-index-9"
                                                     src="{{ asset('Frontend') }}/images/demo-application-home-manage-data.png"
-                                                    alt=""></noscript>
+                                                    alt="synex digital"></noscript>
                                         </div>
                                     </div>
                                 </div>
@@ -496,11 +496,11 @@
                                 <p class="lg-w-85 md-w-95 sm-w-100">Lorem ipsum is simply printing typesetting industry
                                     industry's standard dummy text printer scrambled ipsum is simply dummy text of the
                                     printing.</p>
-                                <img class="mt-10px" alt=""
+                                <img class="mt-10px" alt="synex digital"
                                     data-cfsrc="{{ asset('Frontend') }}/images/demo-application-home-easy-payment-graphic.png"
                                     style="display:none;visibility:hidden;"><noscript><img
                                         src="{{ asset('Frontend') }}/images/demo-application-home-easy-payment-graphic.png"
-                                        class="mt-10px" alt=""></noscript>
+                                        class="mt-10px" alt="synex digital"></noscript>
                             </div>
                             <div class="col-xl-8 col-lg-7 col-md-6 position-relative atropos transform-3d"
                                 data-atropos>
@@ -509,19 +509,19 @@
                                         <div class="atropos-inner text-center">
                                             <div data-atropos-offset="-5"
                                                 class="position-absolute left-0px right-0px">
-                                                <img alt=""
+                                                <img alt="synex digital"
                                                     data-cfsrc="{{ asset('Frontend') }}/images/demo-application-home-easy-payment-bg.png"
                                                     style="display:none;visibility:hidden;"><noscript><img
                                                         src="{{ asset('Frontend') }}/images/demo-application-home-easy-payment-bg.png"
-                                                        alt=""></noscript>
+                                                        alt="synex digital"></noscript>
                                             </div>
                                             <img data-atropos-offset="5" class="position-relative z-index-9"
-                                                alt=""
+                                                alt="synex digital"
                                                 data-cfsrc="{{ asset('Frontend') }}/images/demo-application-home-easy-payment.png"
                                                 style="display:none;visibility:hidden;"><noscript><img
                                                     data-atropos-offset="5" class="position-relative z-index-9"
                                                     src="{{ asset('Frontend') }}/images/demo-application-home-easy-payment.png"
-                                                    alt=""></noscript>
+                                                    alt="synex digital"></noscript>
                                         </div>
                                     </div>
                                 </div>
@@ -544,11 +544,11 @@
                                 <p class="lg-w-85 md-w-95 sm-w-100">Lorem ipsum is simply printing typesetting industry
                                     industry's standard dummy text printer scrambled ipsum is simply dummy text of the
                                     printing.</p>
-                                <img class="mt-10px" alt=""
+                                <img class="mt-10px" alt="synex digital"
                                     data-cfsrc="{{ asset('Frontend') }}/images/demo-application-home-free-support-graphic.png"
                                     style="display:none;visibility:hidden;"><noscript><img
                                         src="{{ asset('Frontend') }}/images/demo-application-home-free-support-graphic.png"
-                                        class="mt-10px" alt=""></noscript>
+                                        class="mt-10px" alt="synex digital"></noscript>
                             </div>
                             <div class="col-xl-8 col-lg-7 col-md-6 position-relative atropos transform-3d"
                                 data-atropos>
@@ -557,19 +557,19 @@
                                         <div class="atropos-inner text-center">
                                             <div data-atropos-offset="-5"
                                                 class="position-absolute left-0px right-0px">
-                                                <img alt=""
+                                                <img alt="synex digital"
                                                     data-cfsrc="{{ asset('Frontend') }}/images/demo-application-home-free-support-bg.png"
                                                     style="display:none;visibility:hidden;"><noscript><img
                                                         src="{{ asset('Frontend') }}/images/demo-application-home-free-support-bg.png"
-                                                        alt=""></noscript>
+                                                        alt="synex digital"></noscript>
                                             </div>
                                             <img data-atropos-offset="5" class="position-relative z-index-9"
-                                                alt=""
+                                                alt="synex digital"
                                                 data-cfsrc="{{ asset('Frontend') }}/images/demo-application-home-free-support.png"
                                                 style="display:none;visibility:hidden;"><noscript><img
                                                     data-atropos-offset="5" class="position-relative z-index-9"
                                                     src="{{ asset('Frontend') }}/images/demo-application-home-free-support.png"
-                                                    alt=""></noscript>
+                                                    alt="synex digital"></noscript>
                                         </div>
                                     </div>
                                 </div>
@@ -829,11 +829,11 @@
             <div class="row">
                 <div class="p-0 overlap-section position-absolute right-0px text-end w-auto"
                     data-bottom-top="transform: translateY(-150px)" data-top-bottom="transform: translateY(150px)">
-                    <img class="w-80" alt=""
+                    <img class="w-80" alt="synex digital"
                         data-cfsrc="{{ asset('Frontend') }}/images/demo-application-home-bg-right.png"
                         style="display:none;visibility:hidden;"><noscript><img
                             src="{{ asset('Frontend') }}/images/demo-application-home-bg-right.png" class="w-80"
-                            alt=""></noscript>
+                            alt="synex digital"></noscript>
                 </div>
             </div>
         </div>
@@ -852,24 +852,24 @@
                         <div class="col-sm-6 xs-mb-30px">
                             <img class="w-100 box-shadow-quadruple-large border-radius-10px"
                                 data-bottom-top="transform: translateY(-250px)"
-                                data-top-bottom="transform: translateY(200px)" alt=""
+                                data-top-bottom="transform: translateY(200px)" alt="synex digital"
                                 data-cfsrc="{{ asset('Frontend') }}/images/demo-application-home-06.jpg"
                                 style="display:none;visibility:hidden;"><noscript><img
                                     src="{{ asset('Frontend') }}/images/demo-application-home-06.jpg"
                                     class="w-100 box-shadow-quadruple-large border-radius-10px"
                                     data-bottom-top="transform: translateY(-250px)"
-                                    data-top-bottom="transform: translateY(200px)" alt=""></noscript>
+                                    data-top-bottom="transform: translateY(200px)" alt="synex digital"></noscript>
                         </div>
                         <div class="col-sm-6">
                             <img class="w-100 box-shadow-quadruple-large border-radius-10px"
                                 data-bottom-top="transform: translateY(200px)"
-                                data-top-bottom="transform: translateY(-300px)" alt=""
+                                data-top-bottom="transform: translateY(-300px)" alt="synex digital"
                                 data-cfsrc="{{ asset('Frontend') }}/images/demo-application-home-07.jpg"
                                 style="display:none;visibility:hidden;"><noscript><img
                                     src="{{ asset('Frontend') }}/images/demo-application-home-07.jpg"
                                     class="w-100 box-shadow-quadruple-large border-radius-10px"
                                     data-bottom-top="transform: translateY(200px)"
-                                    data-top-bottom="transform: translateY(-300px)" alt=""></noscript>
+                                    data-top-bottom="transform: translateY(-300px)" alt="synex digital"></noscript>
                         </div>
                     </div>
                 </div>
@@ -880,11 +880,11 @@
                     <div class="row pe-20px xl-pe-0 justify-content-center justify-content-lg-start">
                         <a href="#" class="col-6 col-lg-6 col-sm-5">
                             <img src="{{ asset('Frontend') }}/images/app-store-white.svg"
-                                class="box-shadow-medium-bottom border-radius-6px" alt="">
+                                class="box-shadow-medium-bottom border-radius-6px" alt="synex digital">
                         </a>
                         <a href="#" class="col-6 col-lg-6 col-sm-5">
                             <img src="{{ asset('Frontend') }}/images/play-store-white.svg"
-                                class="box-shadow-medium-bottom border-radius-6px" alt="">
+                                class="box-shadow-medium-bottom border-radius-6px" alt="synex digital">
                         </a>
                     </div>
                 </div>
@@ -901,11 +901,11 @@
                         <div class="feature-box feature-box-left-icon-middle overflow-hidden">
                             <div
                                 class="feature-box-icon feature-box-icon-rounded w-90px h-90px rounded-circle border border-2 border-color-transparent-white-light me-30px">
-                                <img class="w-40px h-40px" alt=""
+                                <img class="w-40px h-40px" alt="synex digital"
                                     data-cfsrc="{{ asset('Frontend') }}/images/demo-application-home-icon.png"
                                     style="display:none;visibility:hidden;"><noscript><img
                                         src="{{ asset('Frontend') }}/images/demo-application-home-icon.png"
-                                        class="w-40px h-40px" alt=""></noscript>
+                                        class="w-40px h-40px" alt="synex digital"></noscript>
                             </div>
                             <div class="feature-box-content last-paragraph-no-margin">
                                 <h5 class="d-inline-block fw-700 text-white mb-0">Help your customers on live chat.
@@ -915,11 +915,11 @@
                         </div>
                     </div>
                     <div class="col-lg-4 text-center text-lg-end">
-                        <a href="#"><img alt=""
+                        <a href="#"><img alt="synex digital"
                                 data-cfsrc="{{ asset('Frontend') }}/images/demo-application-home-08.png"
                                 style="display:none;visibility:hidden;"><noscript><img
                                     src="{{ asset('Frontend') }}/images/demo-application-home-08.png"
-                                    alt=""></noscript></a>
+                                    alt="synex digital"></noscript></a>
                     </div>
                 </div>
             </div>
@@ -929,11 +929,11 @@
                 <!-- start footer column -->
                 <div class="col-lg-3 col-md-3 col-sm-6 md-mb-30px text-center text-sm-start">
                     <a href="{{ route('home') }}" class="footer-logo mb-15px d-inline-block">
-                        <img data-at2x="{{ asset('Frontend') }}/images/logo-white.png" alt=""
+                        <img data-at2x="{{ asset('Frontend') }}/images/logo-white.png" alt="synex digital"
                             data-cfsrc="{{ asset('Frontend') }}/images/logo-white.png"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="{{ asset('Frontend') }}/images/logo-white.png"
-                                data-at2x="{{ asset('Frontend') }}/images/logo-white.png" alt=""></noscript>
+                                data-at2x="{{ asset('Frontend') }}/images/logo-white.png" alt="synex digital"></noscript>
                     </a>
                     <p>Your ultimate travel partner. Carries the info you need while travelling.</p>
                     <div

@@ -18,6 +18,7 @@
 @section('content')
     <div class="calend">
         <div class="w-full text-center">
+            <h1>Schedule a Meeting</h1>
             <h4>Let's make something great</h4>
         </div>
         <div class="calendly-inline-widget" data-url="https://calendly.com/synexdigital" style="min-width:320px;height:700px;">

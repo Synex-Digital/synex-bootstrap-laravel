@@ -37,23 +37,23 @@
                             //]]>
                         </script>
                         <script type="text/javascript" src="{{ asset('Frontend/js/mirage2.min.js') }}"></script>
-                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                             class="default-logo" data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="{{ asset('Frontend') }}/images/logo-text.svg"
-                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                                 class="default-logo"></noscript>
-                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="" class="alt-logo"
+                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital" class="alt-logo"
                             data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="{{ asset('Frontend') }}/images/logo-text.svg"
-                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                                 class="alt-logo"></noscript>
-                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                             class="mobile-logo" data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="{{ asset('Frontend') }}/images/logo-text.svg"
-                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                                 class="mobile-logo"></noscript>
                     </a>
                 </div>
@@ -140,22 +140,22 @@
                 <div class="col-lg-5 offset-lg-1 col-md-3 align-self-end d-none d-md-inline-block">
                     <div
                         class="position-absolute right-0px bottom-minus-90px xxl-bottom-minus-30px md-bottom-minus-35px md-right-minus-250px lg-right-minus-150px w-50 xl-w-55 lg-w-65 md-w-75 overflow-hidden">
-                        <img class="w-100" alt=""
+                        <img class="w-100" alt="synex digital"
                             data-anime='{ "opacity": [0, 1], "translateX": [100, 0], "duration": 1000, "delay": 200, "easing": "easeOutQuad" }'
                             data-cfsrc="{{ asset('Frontend/images/demo-marketing-home-01.png') }}"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="{{ asset('Frontend/images/demo-marketing-home-01.png') }}" class="w-100"
-                                alt="" data-anime="{ "opacity": [0, 1], "translateX" : [100, 0], "duration" :
+                                alt="synex digital" data-anime="{ "opacity": [0, 1], "translateX" : [100, 0], "duration" :
                                 1000, "delay" : 200, "easing" : "easeOutQuad" }"></noscript>
                     </div>
                     <div class="position-absolute right-0px top-0 me-3 mt-20 md-mt-45 lg-w-250px lg-mt-45 animation-float overflow-hidden d-none d-lg-inline-block"
                         data-bottom-top="transform: translateY(-30px)" data-top-bottom="transform: translateY(80px)">
-                        <img class="border-radius-6px box-shadow-quadruple-large" alt=""
+                        <img class="border-radius-6px box-shadow-quadruple-large" alt="synex digital"
                             data-anime='{ "opacity": [0, 1], "clipPath": ["inset(0 0 200px 0)", "inset(0px 0px 0px 0px)"], "duration": 1000, "delay": 1000, "easing": "easeOutQuad" }'
                             data-cfsrc="{{ asset('Frontend/images/demo-marketing-home-02.jpg') }}"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="{{ asset('Frontend/images/demo-marketing-home-02.jpg') }}"
-                                class="border-radius-6px box-shadow-quadruple-large" alt=""
+                                class="border-radius-6px box-shadow-quadruple-large" alt="synex digital"
                                 data-anime="{ "opacity": [0, 1], "clipPath" : ["inset(0 0 200px
                                 0)", "inset(0px 0px 0px 0px)" ], "duration" : 1000, "delay" : 1000, "easing"
                                 : "easeOutQuad" }"></noscript>
@@ -186,18 +186,18 @@
                 <div class="col-lg-6 col-md-10 position-relative md-mb-50px sm-mb-40px">
                     <figure class="position-relative m-0 text-center"
                         data-anime='{ "effect": "slide", "color": "#fff2ef", "direction":"lr", "easing": "easeOutQuad", "delay":50}'>
-                        <img alt="" data-cfsrc="{{ asset('Frontend/images/demo-marketing-home-04.jpg') }}"
+                        <img alt="synex digital" data-cfsrc="{{ asset('Frontend/images/demo-marketing-home-04.jpg') }}"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="{{ asset('Frontend/images/demo-marketing-home-04.jpg') }}"
-                                alt=""></noscript>
+                                alt="synex digital"></noscript>
                         <figcaption class="position-absolute bottom-90px left-0px"
                             data-anime='{ "translateY": [-50, 0], "opacity": [0,1], "duration": 800, "delay": 1000, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                            <img class="animation-float box-shadow-quadruple-large border-radius-6px" alt=""
+                            <img class="animation-float box-shadow-quadruple-large border-radius-6px" alt="synex digital"
                                 data-cfsrc="{{ asset('Frontend/images/demo-marketing-home-05.jpg') }}"
                                 style="display:none;visibility:hidden;"><noscript><img
                                     src="{{ asset('Frontend/images/demo-marketing-home-05.jpg') }}"
                                     class="animation-float box-shadow-quadruple-large border-radius-6px"
-                                    alt=""></noscript>
+                                    alt="synex digital"></noscript>
                         </figcaption>
                     </figure>
                 </div>
@@ -213,11 +213,11 @@
                         <div class="col-12 icon-with-text-style-01 mb-30px">
                             <div class="feature-box feature-box-left-icon last-paragraph-no-margin">
                                 <div class="feature-box-icon">
-                                    <img alt=""
+                                    <img alt="synex digital"
                                         data-cfsrc="{{ asset('Frontend/images/demo-marketing-home-icon-02.jpg') }}"
                                         style="display:none;visibility:hidden;"><noscript><img
                                             src="{{ asset('Frontend/images/demo-marketing-home-icon-02.jpg') }}"
-                                            alt=""></noscript>
+                                            alt="synex digital"></noscript>
                                 </div>
                                 <div class="feature-box-content">
                                     <span class="d-inline-block text-dark-gray fw-600 mb-5px fs-18 ls-minus-05px">Web
@@ -231,11 +231,11 @@
                         <div class="col-12 icon-with-text-style-01 mb-30px">
                             <div class="feature-box feature-box-left-icon last-paragraph-no-margin">
                                 <div class="feature-box-icon">
-                                    <img alt=""
+                                    <img alt="synex digital"
                                         data-cfsrc="{{ asset('Frontend/images/demo-marketing-home-icon-02.jpg') }}"
                                         style="display:none;visibility:hidden;"><noscript><img
                                             src="{{ asset('Frontend/images/demo-marketing-home-icon-02.jpg') }}"
-                                            alt=""></noscript>
+                                            alt="synex digital"></noscript>
                                 </div>
                                 <div class="feature-box-content">
                                     <span
@@ -250,11 +250,11 @@
                         <div class="col-12 icon-with-text-style-01 mb-30px">
                             <div class="feature-box feature-box-left-icon last-paragraph-no-margin">
                                 <div class="feature-box-icon">
-                                    <img alt=""
+                                    <img alt="synex digital"
                                         data-cfsrc="{{ asset('Frontend/images/demo-marketing-home-icon-02.jpg') }}"
                                         style="display:none;visibility:hidden;"><noscript><img
                                             src="{{ asset('Frontend/images/demo-marketing-home-icon-02.jpg') }}"
-                                            alt=""></noscript>
+                                            alt="synex digital"></noscript>
                                 </div>
                                 <div class="feature-box-content">
                                     <span class="d-inline-block text-dark-gray fw-600 mb-5px fs-18 ls-minus-05px">Seo
@@ -269,11 +269,11 @@
                         <div class="col-12 icon-with-text-style-01 mb-30px">
                             <div class="feature-box feature-box-left-icon last-paragraph-no-margin">
                                 <div class="feature-box-icon">
-                                    <img alt=""
+                                    <img alt="synex digital"
                                         data-cfsrc="{{ asset('Frontend/images/demo-marketing-home-icon-02.jpg') }}"
                                         style="display:none;visibility:hidden;"><noscript><img
                                             src="{{ asset('Frontend/images/demo-marketing-home-icon-02.jpg') }}"
-                                            alt=""></noscript>
+                                            alt="synex digital"></noscript>
                                 </div>
                                 <div class="feature-box-content">
                                     <span
@@ -288,11 +288,11 @@
                         <div class="col-12 icon-with-text-style-01 mb-30px">
                             <div class="feature-box feature-box-left-icon last-paragraph-no-margin">
                                 <div class="feature-box-icon">
-                                    <img alt=""
+                                    <img alt="synex digital"
                                         data-cfsrc="{{ asset('Frontend/images/demo-marketing-home-icon-02.jpg') }}"
                                         style="display:none;visibility:hidden;"><noscript><img
                                             src="{{ asset('Frontend/images/demo-marketing-home-icon-02.jpg') }}"
-                                            alt=""></noscript>
+                                            alt="synex digital"></noscript>
                                 </div>
                                 <div class="feature-box-content">
                                     <span
@@ -307,11 +307,11 @@
                         <div class="col-12 icon-with-text-style-01 mb-30px">
                             <div class="feature-box feature-box-left-icon last-paragraph-no-margin">
                                 <div class="feature-box-icon">
-                                    <img alt=""
+                                    <img alt="synex digital"
                                         data-cfsrc="{{ asset('Frontend/images/demo-marketing-home-icon-02.jpg') }}"
                                         style="display:none;visibility:hidden;"><noscript><img
                                             src="{{ asset('Frontend/images/demo-marketing-home-icon-02.jpg') }}"
-                                            alt=""></noscript>
+                                            alt="synex digital"></noscript>
                                 </div>
                                 <div class="feature-box-content">
                                     <span
@@ -516,18 +516,18 @@
                 <div class="col-lg-6 offset-xl-1 col-md-10 position-relative">
                     <figure class="position-relative m-0 text-center"
                         data-anime='{ "effect": "slide", "color": "#fff2ef", "direction":"rl", "easing": "easeOutQuad", "delay":50}'>
-                        <img alt="" data-cfsrc="{{ asset('Frontend/images/demo-marketing-home-06.jpg') }}"
+                        <img alt="synex digital" data-cfsrc="{{ asset('Frontend/images/demo-marketing-home-06.jpg') }}"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="{{ asset('Frontend/images/demo-marketing-home-06.jpg') }}"
-                                alt=""></noscript>
+                                alt="synex digital"></noscript>
                         <figcaption class="position-absolute bottom-90px right-0px"
                             data-anime='{ "translateY": [-50, 0], "opacity": [0,1], "duration": 800, "delay": 1000, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                            <img class="animation-float box-shadow-quadruple-large border-radius-6px" alt=""
+                            <img class="animation-float box-shadow-quadruple-large border-radius-6px" alt="synex digital"
                                 data-cfsrc="{{ asset('Frontend/images/demo-marketing-home-07.jpg') }}"
                                 style="display:none;visibility:hidden;"><noscript><img
                                     src="{{ asset('Frontend/images/demo-marketing-home-07.jpg') }}"
                                     class="animation-float box-shadow-quadruple-large border-radius-6px"
-                                    alt=""></noscript>
+                                    alt="synex digital"></noscript>
                         </figcaption>
                     </figure>
                 </div>

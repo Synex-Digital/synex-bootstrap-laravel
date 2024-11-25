@@ -74,23 +74,23 @@
                             //]]>
                         </script>
                         <script type="text/javascript" src="{{ asset('Frontend/js/mirage2.min.js') }}"></script>
-                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                             class="default-logo" data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="{{ asset('Frontend') }}/images/logo-text.svg"
-                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                                 class="default-logo"></noscript>
-                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="" class="alt-logo"
+                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital" class="alt-logo"
                             data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="{{ asset('Frontend') }}/images/logo-text.svg"
-                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                                 class="alt-logo"></noscript>
-                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                             class="mobile-logo" data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="{{ asset('Frontend') }}/images/logo-text.svg"
-                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
                                 class="mobile-logo"></noscript>
                     </a>
                 </div>
@@ -153,29 +153,29 @@
                             <div class="position-absolute top-minus-100px lg-top-minus-80px left-0px right-0px z-index-9 d-none d-md-block"
                                 data-bottom-top="transform:scale(1, 1) translate3d(0px, 60px, 0px);"
                                 data-top-bottom="transform:scale(1, 1) translate3d(0px, -60px, 0px);">
-                                <img class="lg-w-100px" alt=""
+                                <img class="lg-w-100px" alt="synex digital"
                                     data-cfsrc="{{ asset('Frontend/images/Services/uiux/demo-design-agency-01.png') }}"
                                     style="display:none;visibility:hidden;"><noscript><img
                                         src="{{ asset('Frontend/images/Services/uiux/demo-design-agency-01.png') }}"
-                                        class="lg-w-100px" alt=""></noscript>
+                                        class="lg-w-100px" alt="synex digital"></noscript>
                             </div>
                             <div class="position-absolute bottom-0px left-minus-230px"
                                 data-bottom-top="transform: rotate(0deg) translateY(50px)"
                                 data-top-bottom="transform:rotate(10deg) translateY(-50px)">
-                                <img class="" alt=""
+                                <img class="" alt="synex digital"
                                     data-cfsrc="{{ asset('Frontend/images/Services/uiux/demo-design-agency-02.png') }}"
                                     style="display:none;visibility:hidden;"><noscript><img
                                         src="{{ asset('Frontend/images/Services/uiux/demo-design-agency-02.png') }}"
-                                        class="" alt=""></noscript>
+                                        class="" alt="synex digital"></noscript>
                             </div>
                             <div class="position-absolute right-minus-250px top-minus-250px md-top-minus-80px sm-top-minus-50px lg-w-70"
                                 data-bottom-top="transform:scale(1, 1) translate3d(-60px, 60px, 0px);"
                                 data-top-bottom="transform:scale(1, 1) translate3d(60px, 0px, 0px);">
-                                <img class="" alt=""
+                                <img class="" alt="synex digital"
                                     data-cfsrc="{{ asset('Frontend/images/Services/uiux/demo-design-agency-03.png') }}"
                                     style="display:none;visibility:hidden;"><noscript><img
                                         src="{{ asset('Frontend/images/Services/uiux/demo-design-agency-03.png') }}images/demo-design-agency-03.png"
-                                        class="" alt=""></noscript>
+                                        class="" alt="synex digital"></noscript>
                             </div>
                             <div class="fs-200 lg-fs-150 xs-fs-120 text-dark-gray alt-font lh-160 lg-lh-128 xs-lh-112 fancy-text-style-4 position-relative mb-20px ls-minus-4px"
                                 data-anime='{ "rotateX": [50, 0], "opacity": [0,1], "staggervalue": 150, "easing": "easeOutQuad" }'>
@@ -434,9 +434,9 @@
             <div class="position-absolute bottom-0px right-minus-100px"
                 data-bottom-top="transform: rotate(0deg) translateY(50px)"
                 data-top-bottom="transform:rotate(10deg) translateY(-50px)">
-                <img class="" alt="" data-cfsrc="images/demo-design-agency-02.png"
+                <img class="" alt="synex digital" data-cfsrc="images/demo-design-agency-02.png"
                     style="display:none;visibility:hidden;"><noscript><img src="images/demo-design-agency-02.png"
-                        class="" alt=""></noscript>
+                        class="" alt="synex digital"></noscript>
             </div>
         </section>
         <!-- end page title -->
@@ -454,11 +454,11 @@
                                 <div>
                                     <div class="portfolio-box">
                                         <div class="portfolio-image">
-                                            <img alt=""
+                                            <img alt="synex digital"
                                                 data-cfsrc="{{ asset('Frontend/demo') }}/portfolio-241.webp"
                                                 style="display:none;visibility:hidden;" /><noscript><img
                                                     src="{{ asset('Frontend/demo') }}/portfolio-241.webp"
-                                                    alt="" /></noscript>
+                                                    alt="synex digital" /></noscript>
                                         </div>
                                         <div
                                             class="portfolio-hover d-flex justify-content-end align-items-end flex-column ps-35px pe-35px pt-5px pb-5px lg-ps-15px lg-pe-15px">
@@ -479,11 +479,11 @@
                                 <div>
                                     <div class="portfolio-box">
                                         <div class="portfolio-image">
-                                            <img alt=""
+                                            <img alt="synex digital"
                                                 data-cfsrc="{{ asset('Frontend/demo') }}/portfolio-242.jpg"
                                                 style="display:none;visibility:hidden;" /><noscript><img
                                                     src="{{ asset('Frontend/demo') }}/portfolio-242.jpg"
-                                                    alt="" /></noscript>
+                                                    alt="synex digital" /></noscript>
                                         </div>
                                         <div
                                             class="portfolio-hover d-flex justify-content-end align-items-end flex-column ps-35px pe-35px pt-5px pb-5px lg-ps-15px lg-pe-15px">
@@ -504,11 +504,11 @@
                                 <div>
                                     <div class="portfolio-box">
                                         <div class="portfolio-image">
-                                            <img alt=""
+                                            <img alt="synex digital"
                                                 data-cfsrc="{{ asset('Frontend/demo') }}/portfolio-243.jpg"
                                                 style="display:none;visibility:hidden;" /><noscript><img
                                                     src="{{ asset('Frontend/demo') }}/portfolio-243.jpg"
-                                                    alt="" /></noscript>
+                                                    alt="synex digital" /></noscript>
                                         </div>
                                         <div
                                             class="portfolio-hover d-flex justify-content-end align-items-end flex-column ps-35px pe-35px pt-5px pb-5px lg-ps-15px lg-pe-15px">
@@ -529,11 +529,11 @@
                                 <div>
                                     <div class="portfolio-box">
                                         <div class="portfolio-image">
-                                            <img alt=""
+                                            <img alt="synex digital"
                                                 data-cfsrc="{{ asset('Frontend/demo') }}/portfolio-244.jpg"
                                                 style="display:none;visibility:hidden;" /><noscript><img
                                                     src="{{ asset('Frontend/demo') }}/portfolio-244.jpg"
-                                                    alt="" /></noscript>
+                                                    alt="synex digital" /></noscript>
                                         </div>
                                         <div
                                             class="portfolio-hover d-flex justify-content-end align-items-end flex-column ps-35px pe-35px pt-5px pb-5px lg-ps-15px lg-pe-15px">
@@ -554,11 +554,11 @@
                                 <div>
                                     <div class="portfolio-box">
                                         <div class="portfolio-image">
-                                            <img alt=""
+                                            <img alt="synex digital"
                                                 data-cfsrc="{{ asset('Frontend/demo') }}/portfolio-247.jpg"
                                                 style="display:none;visibility:hidden;" /><noscript><img
                                                     src="{{ asset('Frontend/demo') }}/portfolio-247.jpg"
-                                                    alt="" /></noscript>
+                                                    alt="synex digital" /></noscript>
                                         </div>
                                         <div
                                             class="portfolio-hover d-flex justify-content-end align-items-end flex-column ps-35px pe-35px pt-5px pb-5px lg-ps-15px lg-pe-15px">
@@ -579,11 +579,11 @@
                                 <div>
                                     <div class="portfolio-box">
                                         <div class="portfolio-image">
-                                            <img alt=""
+                                            <img alt="synex digital"
                                                 data-cfsrc="{{ asset('Frontend/demo') }}/portfolio-248.jpg"
                                                 style="display:none;visibility:hidden;" /><noscript><img
                                                     src="{{ asset('Frontend/demo') }}/portfolio-248.jpg"
-                                                    alt="" /></noscript>
+                                                    alt="synex digital" /></noscript>
                                         </div>
                                         <div
                                             class="portfolio-hover d-flex justify-content-end align-items-end flex-column ps-35px pe-35px pt-5px pb-5px lg-ps-15px lg-pe-15px">
@@ -604,11 +604,11 @@
                                 <div>
                                     <div class="portfolio-box">
                                         <div class="portfolio-image">
-                                            <img alt=""
+                                            <img alt="synex digital"
                                                 data-cfsrc="{{ asset('Frontend/demo') }}/portfolio-246.jpg"
                                                 style="display:none;visibility:hidden;" /><noscript><img
                                                     src="{{ asset('Frontend/demo') }}/portfolio-246.jpg"
-                                                    alt="" /></noscript>
+                                                    alt="synex digital" /></noscript>
                                         </div>
                                         <div
                                             class="portfolio-hover d-flex justify-content-end align-items-end flex-column ps-35px pe-35px pt-5px pb-5px lg-ps-15px lg-pe-15px">
@@ -629,11 +629,11 @@
                                 <div>
                                     <div class="portfolio-box">
                                         <div class="portfolio-image">
-                                            <img alt=""
+                                            <img alt="synex digital"
                                                 data-cfsrc="{{ asset('Frontend/demo') }}/portfolio-245.jpg"
                                                 style="display:none;visibility:hidden;" /><noscript><img
                                                     src="{{ asset('Frontend/demo') }}/portfolio-245.jpg"
-                                                    alt="" /></noscript>
+                                                    alt="synex digital" /></noscript>
                                         </div>
                                         <div
                                             class="portfolio-hover d-flex justify-content-end align-items-end flex-column ps-35px pe-35px pt-5px pb-5px lg-ps-15px lg-pe-15px">
@@ -669,10 +669,10 @@
                             <div class="position-absolute top-30px left-minus-150px z-index-9 md-left-0px d-lg-block d-none"
                                 data-bottom-top="transform: rotate(0deg) translateY(0)"
                                 data-top-bottom="transform:rotate(50deg) translateY(0)">
-                                <img class="w-230px" alt="" data-cfsrc="images/demo-design-agency-02.png"
+                                <img class="w-230px" alt="synex digital" data-cfsrc="images/demo-design-agency-02.png"
                                     style="display:none;visibility:hidden;"><noscript><img
                                         src="images/demo-design-agency-02.png" class="w-230px"
-                                        alt=""></noscript>
+                                        alt="synex digital"></noscript>
                             </div>
                             <div class="fs-350 xl-fs-300 lg-fs-250 xs-fs-170 lh-300 word-break-normal alt-font text-sliding-line bg-base-color  ls-minus-5px"
                                 data-bottom-top="transform:scale(1, 1) translate3d(0px, 0px, 0px);"
@@ -972,12 +972,12 @@
             <div class="row align-items-end mb-9">
                 <div class="col-lg-2 md-mb-15px text-center text-md-start">
                     <a href="{{ route('home') }}" class="footer-logo">
-                        <img data-at2x="images/demo-design-agency-footer-logo-black@2x.png" alt=""
+                        <img data-at2x="images/demo-design-agency-footer-logo-black@2x.png" alt="synex digital"
                             data-cfsrc="images/demo-design-agency-footer-logo-black.png"
                             style="display:none;visibility:hidden;"><noscript><img
                                 src="images/demo-design-agency-footer-logo-black.png"
                                 data-at2x="images/demo-design-agency-footer-logo-black@2x.png"
-                                alt=""></noscript>
+                                alt="synex digital"></noscript>
                     </a>
                 </div>
                 <div class="col-xl-4 col-lg-5 col-md-6 offset-lg-1 text-center text-md-start sm-mb-25px">

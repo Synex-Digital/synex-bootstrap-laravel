@@ -8,12 +8,12 @@
                             together?</a></h5>
                 </div>
                 <div class="col-md-2 col-sm-4 text-center text-sm-end">
-                    <a href="demo-web-agency.html" class="footer-logo d-inline-block"><img
-                            data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
-                            data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
+                    <a href="{{route('home')}}" class="footer-logo d-inline-block"><img
+                            data-at2x="{{ asset('frontend') }}/images/logo-text.svg" alt="synex digital-logo"
+                            data-cfsrc="{{ asset('frontend') }}/images/logo-text.svg"
                             style="display:none;visibility:hidden;"><noscript><img
-                                src="{{ asset('Frontend') }}/images/logo-text.svg"
-                                data-at2x="images/demo-web-agency-logo-black@2x.png" alt=""></noscript></a>
+                                src="{{ asset('frontend') }}/images/logo-text.svg"
+                                data-at2x="images/demo-web-agency-logo-black@2x.png" alt="synex digital-logo"></noscript></a>
                 </div>
             </div>
             <div class="row align-items-end mb-6 sm-mb-40px">

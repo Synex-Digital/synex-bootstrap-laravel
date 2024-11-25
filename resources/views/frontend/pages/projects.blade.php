@@ -22,36 +22,36 @@
                 data-anime='{ "el": "childs", "translateY": [0, 0], "opacity": [0,1], "duration": 300, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <div class="col-sm-6 xs-mb-40px" data-bottom-top="transform: translateY(-40px)"
                     data-top-bottom="transform: translateY(40px)">
-                    <a href="demo-web-agency-single-project-creative.html"><img class="border-radius-6px" alt=""
+                    <a><img class="border-radius-6px" alt="synex digital-award1"
                             data-cfsrc="{{ asset('Frontend/images') }}/portfolio-73.jpg"
                             style="display:none;visibility:hidden;" /><noscript><img
                                 src="{{ asset('Frontend/images') }}/portfolio-73.jpg" class="border-radius-6px"
-                                alt="" /></noscript></a>
+                                alt="synex digital-award1" /></noscript></a>
                     <div
                         class="d-flex align-items-center justify-content-center flex-column text-center w-100 mt-40px sm-mt-25px">
-                        <a href="https://www.awwwards.com/" target="_blank"><img alt=""
+                        <a><img alt="synex digital-award2"
                                 data-cfsrc="{{ asset('Frontend/images') }}/demo-web-agency-awards-logo-01.png"
                                 style="display:none;visibility:hidden;"><noscript><img
                                     src="{{ asset('Frontend/images') }}/demo-web-agency-awards-logo-01.png"
-                                    alt=""></noscript></a>
+                                    alt="synex digital-award2"></noscript></a>
                         <div class="text-dark-gray mt-10px ls-minus-05px"><span class="fw-600">2023</span> - Site of the day
                             winner</div>
                     </div>
                 </div>
                 <div class="col-sm-6 mt-4 xs-mt-0" data-bottom-top="transform: translateY(40px)"
                     data-top-bottom="transform: translateY(-40px)">
-                    <a href="demo-web-agency-single-project-creative.html"><img class="border-radius-6px" alt=""
+                    <a><img class="border-radius-6px" alt="synex digital-award3"
                             data-cfsrc="{{ asset('Frontend/images') }}/portfolio-79.jpg"
                             style="display:none;visibility:hidden;" /><noscript><img
                                 src="{{ asset('Frontend/images') }}/portfolio-79.jpg" class="border-radius-6px"
-                                alt="" /></noscript></a>
+                                alt="synex digital-award3" /></noscript></a>
                     <div
                         class="d-flex align-items-center justify-content-center flex-column text-center w-100 mt-40px sm-mt-25px">
-                        <a href="https://www.envato.com/" target="_blank"><img alt=""
+                        <a><img alt="synex digital-award4"
                                 data-cfsrc="{{ asset('Frontend/images') }}/demo-web-agency-awards-logo-03.png"
                                 style="display:none;visibility:hidden;"><noscript><img
                                     src="{{ asset('Frontend/images') }}/demo-web-agency-awards-logo-03.png"
-                                    alt=""></noscript></a>
+                                    alt="synex digital-award4"></noscript></a>
                         <div class="text-dark-gray mt-10px ls-minus-05px"><span class="fw-600">2021</span> - Site of the day
                             nomination</div>
                     </div>
@@ -86,10 +86,10 @@
                                 <div class="portfolio-box" data-bottom-top="transform: translateY(40px)"
                                     data-top-bottom="transform: translateY(-40px)">
                                     <div class="portfolio-image bg-medium-gray border-radius-6px">
-                                        <a href="demo-web-agency-single-project-creative.html"><img alt=""
+                                        <a href="demo-web-agency-single-project-creative.html"><img alt="synex digital-{{ $project['name'] }}"
                                                 data-cfsrc="{{ $project['image'] }}"
                                                 style="display:none;visibility:hidden;" /><noscript><img
-                                                    src="{{ $project['image'] }}" alt="" /></noscript></a>
+                                                    src="{{ $project['image'] }}" alt="synex digital-{{ $project['name'] }}" /></noscript></a>
                                     </div>
                                     <div class="portfolio-caption pt-35px pb-35px md-pt-25px md-pb-25px">
                                         <a href="demo-web-agency-single-project-creative.html"
@@ -101,105 +101,6 @@
                                 </div>
                             </li>
                         @endforeach
-                        <!-- end portfolio item -->
-                        <!-- start portfolio item -->
-                        {{-- <li class="grid-item web selected branding transition-inner-all">
-                                <div class="portfolio-box" data-bottom-top="transform: translateY(-40px)" data-top-bottom="transform: translateY(40px)">
-                                    <div class="portfolio-image bg-medium-gray border-radius-6px">
-                                        <a href="demo-web-agency-single-project-creative.html"><img alt="" data-cfsrc="images/portfolio-171.jpg" style="display:none;visibility:hidden;" /><noscript><img src="images/portfolio-171.jpg" alt=""/></noscript></a>
-                                    </div>
-                                    <div class="portfolio-caption pt-35px pb-35px md-pt-25px md-pb-25px">
-                                        <a href="demo-web-agency-single-project-creative.html" class="text-dark-gray text-dark-gray-hover fw-600">Design blast</a>
-                                        <span class="d-inline-block align-middle w-10px separator-line-1px bg-light-gray ms-10px me-10px xl-ms-5px xl-me-5px"></span>
-                                        <div class="d-inline-block">Photography</div>
-                                    </div>
-                                </div>
-                            </li> --}}
-                        <!-- end portfolio item -->
-                        <!-- start portfolio item -->
-                        {{-- <li class="grid-item web digital selected branding transition-inner-all">
-                                <div class="portfolio-box" data-bottom-top="transform: translateY(40px)" data-top-bottom="transform: translateY(-40px)">
-                                    <div class="portfolio-image bg-medium-gray border-radius-6px">
-                                        <a href="demo-web-agency-single-project-creative.html"><img alt="" data-cfsrc="images/portfolio-181.jpg" style="display:none;visibility:hidden;" /><noscript><img src="images/portfolio-181.jpg" alt=""/></noscript></a>
-                                    </div>
-                                    <div class="portfolio-caption pt-35px pb-35px md-pt-25px md-pb-25px">
-                                        <a href="demo-web-agency-single-project-creative.html" class="text-dark-gray text-dark-gray-hover fw-600">Herbal beauty</a>
-                                        <span class="d-inline-block align-middle w-10px separator-line-1px bg-light-gray ms-10px me-10px xl-ms-5px xl-me-5px"></span>
-                                        <div class="d-inline-block">Application</div>
-                                    </div>
-                                </div>
-                            </li> --}}
-                        <!-- end portfolio item -->
-                        <!-- start portfolio item -->
-                        {{-- <li class="grid-item web selected digital transition-inner-all">
-                                <div class="portfolio-box" data-bottom-top="transform: translateY(-40px)" data-top-bottom="transform: translateY(40px)">
-                                    <div class="portfolio-image bg-medium-gray border-radius-6px">
-                                        <a href="demo-web-agency-single-project-creative.html"><img alt="" data-cfsrc="images/portfolio-173.jpg" style="display:none;visibility:hidden;" /><noscript><img src="images/portfolio-173.jpg" alt=""/></noscript></a>
-                                    </div>
-                                    <div class="portfolio-caption pt-35px pb-35px md-pt-25px md-pb-25px">
-                                        <a href="demo-web-agency-single-project-creative.html" class="text-dark-gray text-dark-gray-hover fw-600">Cropo identity</a>
-                                        <span class="d-inline-block align-middle w-10px separator-line-1px bg-light-gray ms-10px me-10px xl-ms-5px xl-me-5px"></span>
-                                        <div class="d-inline-block">Packaging</div>
-                                    </div>
-                                </div>
-                            </li> --}}
-                        <!-- end portfolio item -->
-                        <!-- start portfolio item -->
-                        {{-- <li class="grid-item web branding transition-inner-all">
-                                <div class="portfolio-box" data-bottom-top="transform: translateY(-20px)" data-top-bottom="transform: translateY(-80px)">
-                                    <div class="portfolio-image bg-medium-gray border-radius-6px">
-                                        <a href="demo-web-agency-single-project-creative.html"><img alt="" data-cfsrc="images/portfolio-174.jpg" style="display:none;visibility:hidden;" /><noscript><img src="images/portfolio-174.jpg" alt=""/></noscript></a>
-                                    </div>
-                                    <div class="portfolio-caption pt-35px pb-35px md-pt-25px md-pb-25px">
-                                        <a href="demo-web-agency-single-project-creative.html" class="text-dark-gray text-dark-gray-hover fw-600">Harddot stone</a>
-                                        <span class="d-inline-block align-middle w-10px separator-line-1px bg-light-gray ms-10px me-10px xl-ms-5px xl-me-5px"></span>
-                                        <div class="d-inline-block">Graphics</div>
-                                    </div>
-                                </div>
-                            </li> --}}
-                        <!-- end portfolio item -->
-                        <!-- start portfolio item -->
-                        {{-- <li class="grid-item web selected digital transition-inner-all">
-                                <div class="portfolio-box" data-bottom-top="transform: translateY(-40px)" data-top-bottom="transform: translateY(40px)">
-                                    <div class="portfolio-image bg-medium-gray border-radius-6px">
-                                        <a href="demo-web-agency-single-project-creative.html"><img alt="" data-cfsrc="images/portfolio-182.jpg" style="display:none;visibility:hidden;" /><noscript><img src="images/portfolio-182.jpg" alt=""/></noscript></a>
-                                    </div>
-                                    <div class="portfolio-caption pt-35px pb-35px md-pt-25px md-pb-25px">
-                                        <a href="demo-web-agency-single-project-creative.html" class="text-dark-gray text-dark-gray-hover fw-600">Violator series</a>
-                                        <span class="d-inline-block align-middle w-10px separator-line-1px bg-light-gray ms-10px me-10px xl-ms-5px xl-me-5px"></span>
-                                        <div class="d-inline-block">Digital</div>
-                                    </div>
-                                </div>
-                            </li> --}}
-                        <!-- end portfolio item -->
-                        <!-- start portfolio item -->
-                        {{-- <li class="grid-item selected digital transition-inner-all">
-                                <div class="portfolio-box" data-bottom-top="transform: translateY(-20px)" data-top-bottom="transform: translateY(-80px)">
-                                    <div class="portfolio-image bg-medium-gray border-radius-6px">
-                                        <a href="demo-web-agency-single-project-creative.html"><img alt="" data-cfsrc="images/portfolio-176.jpg" style="display:none;visibility:hidden;" /><noscript><img src="images/portfolio-176.jpg" alt=""/></noscript></a>
-                                    </div>
-                                    <div class="portfolio-caption pt-35px pb-35px md-pt-25px md-pb-25px">
-                                        <a href="demo-web-agency-single-project-creative.html" class="text-dark-gray text-dark-gray-hover fw-600">Pixflow studio</a>
-                                        <span class="d-inline-block align-middle w-10px separator-line-1px bg-light-gray ms-10px me-10px xl-ms-5px xl-me-5px"></span>
-                                        <div class="d-inline-block">Packaging</div>
-                                    </div>
-                                </div>
-                            </li> --}}
-                        <!-- end portfolio item -->
-                        <!-- start portfolio item -->
-                        {{-- <li class="grid-item web branding transition-inner-all">
-                                <div class="portfolio-box" data-bottom-top="transform: translateY(-40px)" data-top-bottom="transform: translateY(40px)">
-                                    <div class="portfolio-image bg-medium-gray border-radius-6px">
-                                        <a href="demo-web-agency-single-project-creative.html"><img alt="" data-cfsrc="images/portfolio-177.jpg" style="display:none;visibility:hidden;" /><noscript><img src="images/portfolio-177.jpg" alt=""/></noscript></a>
-                                    </div>
-                                    <div class="portfolio-caption pt-35px pb-35px md-pt-25px md-pb-25px">
-                                        <a href="demo-web-agency-single-project-creative.html" class="text-dark-gray text-dark-gray-hover fw-600">Potato islands</a>
-                                        <span class="d-inline-block align-middle w-10px separator-line-1px bg-light-gray ms-10px me-10px xl-ms-5px xl-me-5px"></span>
-                                        <div class="d-inline-block">Design</div>
-                                    </div>
-                                </div>
-                            </li> --}}
-                        <!-- end portfolio item -->
                     </ul>
                 </div>
             </div>

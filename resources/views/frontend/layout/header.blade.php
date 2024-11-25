@@ -12,23 +12,23 @@
                         //]]>
                     </script>
                     <script type="text/javascript" src="{{ asset('Frontend/js/mirage2.min.js') }}"></script>
-                    <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="" class="default-logo"
+                    <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital-logo" class="default-logo"
                         data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
                         style="display:none;visibility:hidden;"><noscript><img
                             src="{{ asset('Frontend') }}/images/logo-text.svg"
-                            data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                            data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital-logo"
                             class="default-logo"></noscript>
-                    <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="" class="alt-logo"
+                    <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital-logo" class="alt-logo"
                         data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
                         style="display:none;visibility:hidden;"><noscript><img
                             src="{{ asset('Frontend') }}/images/logo-text.svg"
-                            data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                            data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital-logo"
                             class="alt-logo"></noscript>
-                    <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="" class="mobile-logo"
+                    <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital-logo" class="mobile-logo"
                         data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
                         style="display:none;visibility:hidden;"><noscript><img
                             src="{{ asset('Frontend') }}/images/logo-text.svg"
-                            data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt=""
+                            data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital-logo"
                             class="mobile-logo"></noscript>
                 </a>
             </div>
@@ -52,11 +52,11 @@
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 <li>
                                     <a href="{{ route('service.web-dev') }}">
-                                        <img class="w-40px" alt=""
+                                        <img class="w-40px" alt="synex digital-web"
                                             data-cfsrc="{{ asset('Frontend/images/Services/web-developmnet.svg') }}"
                                             style="display:none;visibility:hidden;" /><noscript><img
                                                 src="{{ asset('Frontend/images/Services/web-developmnet.svg') }}"
-                                                class="w-40px" alt="" /></noscript>
+                                                class="w-40px" alt="synex digital-web" /></noscript>
                                         <div class="submenu-icon-content">
                                             <span>Web Development</span>
                                         </div>
@@ -64,11 +64,11 @@
                                 </li>
                                 <li>
                                     <a href="{{ route('service.uiux') }}">
-                                        <img class="w-40px" alt=""
+                                        <img class="w-40px" alt="synex digital-uiux"
                                             data-cfsrc="{{ asset('Frontend/images/Services/ui-ux.svg') }}"
                                             style="display:none;visibility:hidden;" /><noscript><img
                                                 src="{{ asset('Frontend/images/Services/ui-ux.svg') }}" class="w-40px"
-                                                alt="" /></noscript>
+                                                alt="synex digital-uiux" /></noscript>
                                         <div class="submenu-icon-content">
                                             <span>UI UX Design</span>
                                         </div>
@@ -76,11 +76,11 @@
                                 </li>
                                 <li>
                                     <a href="{{ route('service.digital-marketing') }}">
-                                        <img class="w-40px" alt=""
+                                        <img class="w-40px" alt="synex digital-marketing"
                                             data-cfsrc="{{ asset('Frontend/images/Services/digital-marketing.svg') }}"
                                             style="display:none;visibility:hidden;" /><noscript><img
                                                 src="{{ asset('Frontend/images/Services/digital-marketing.svg') }}"
-                                                class="w-40px" alt="" /></noscript>
+                                                class="w-40px" alt="synex digital-marketing" /></noscript>
                                         <div class="submenu-icon-content">
                                             <span>Digital Marketing</span>
                                         </div>
@@ -88,11 +88,11 @@
                                 </li>
                                 <li>
                                     <a href="{{ route('service.mobile-app') }}">
-                                        <img class="w-40px" alt=""
+                                        <img class="w-40px" alt="synex digital-app"
                                             data-cfsrc="{{ asset('Frontend/images/Services/mobile-ap.svg') }}"
                                             style="display:none;visibility:hidden;" /><noscript><img
                                                 src="{{ asset('Frontend/images/Services/mobile-ap.svg') }}"
-                                                class="w-40px" alt="" /></noscript>
+                                                class="w-40px" alt="synex digital-app" /></noscript>
                                         <div class="submenu-icon-content">
                                             <span>Mobile and Apps Development</span>
                                         </div>
@@ -100,11 +100,11 @@
                                 </li>
                                 <li>
                                     <a href="{{ route('service.software') }}">
-                                        <img class="w-40px" alt=""
+                                        <img class="w-40px" alt="synex digital-software"
                                             data-cfsrc="{{ asset('Frontend/images/Services/saas.svg') }}"
                                             style="display:none;visibility:hidden;" /><noscript><img
                                                 src="{{ asset('Frontend/images/Services/saas.svg') }}" class="w-40px"
-                                                alt="" /></noscript>
+                                                alt="synex digital-software" /></noscript>
                                         <div class="submenu-icon-content">
                                             <span>Cloud Solution</span>
                                         </div>

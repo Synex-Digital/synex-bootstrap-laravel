@@ -537,13 +537,13 @@
                                                         src="{{ $blog['image'] }}" alt="{{$blog['title']}}"></noscript></a>
                                         </div>
                                         <div class="card-body p-0 pt-30px sm-pt-20px lg-pb-20px">
-                                            <span class="fs-14 text-uppercase d-block mb-5px fw-500"><a
-                                                    href="{{ route('blog.view', $blog['slug']) }}"
-                                                    class="text-dark-gray text-dark-gray-hover fw-500 categories-text"
-                                                    style="font-size: 13px">{{ $blog['author'] }}</a>👁<a href="#"
-                                                    class="blog-date text-medium-gray-hover">{{ $blog['view'] }}</a></span>
-                                            <a href="{{ route('blog.view', $blog['slug']) }}"
-                                                class="card-title fw-600 fs-17 lh-28 text-dark-gray text-dark-gray-hover d-inline-block w-95 sm-w-100">{{ $blog['title'] }}</a>
+                                            <span class="fs-14 text-uppercase mb-5px fw-500" style="display: flex; justify-content: space-between;">
+                                                <a href="{{ route('blog.view', $blog['slug']) }}" class="text-dark-gray text-dark-gray-hover fw-500 categories-text" style="font-size: 13px">{{ $blog['author'] }}</a>
+                                                <span class="text-dark-gray text-dark-gray-hover fw-500 categories-text" style="font-size: 13px">
+                                                views: <a class="blog-date text-medium-gray-hover">{{ $blog['view'] }}</a>
+                                                </span>
+                                            </span>
+                                            <a href="{{ route('blog.view', $blog['slug']) }}" class="card-title fw-600 fs-17 lh-28 text-dark-gray text-dark-gray-hover d-inline-block w-95 sm-w-100">{{ $blog['title'] }}</a>
                                         </div>
                                     </div>
                                 </li>

@@ -86,14 +86,13 @@
                                 <div class="portfolio-box" data-bottom-top="transform: translateY(40px)"
                                     data-top-bottom="transform: translateY(-40px)">
                                     <div class="portfolio-image bg-medium-gray border-radius-6px">
-                                        <a href="demo-web-agency-single-project-creative.html"><img alt="synex digital-{{ $project['name'] }}"
+                                        <a><img alt="synex digital-{{ $project['name'] }}"
                                                 data-cfsrc="{{ $project['image'] }}"
                                                 style="display:none;visibility:hidden;" /><noscript><img
                                                     src="{{ $project['image'] }}" alt="synex digital-{{ $project['name'] }}" /></noscript></a>
                                     </div>
                                     <div class="portfolio-caption pt-35px pb-35px md-pt-25px md-pb-25px">
-                                        <a href="demo-web-agency-single-project-creative.html"
-                                            class="text-dark-gray text-dark-gray-hover fw-600">{{ $project['name'] }}</a>
+                                        <a class="text-dark-gray text-dark-gray-hover fw-600">{{ $project['name'] }}</a>
                                         <span
                                             class="d-inline-block align-middle w-10px separator-line-1px bg-light-gray ms-10px me-10px xl-ms-5px xl-me-5px"></span>
                                         <div class="d-inline-block">{{ $project['category'] }}</div>

@@ -57,7 +57,7 @@
                                             style="display:none;visibility:hidden;" /><noscript><img
                                                 src="{{ asset('Frontend/images/Services/web-developmnet.svg') }}"
                                                 class="w-40px" alt="synex digital-web" /></noscript>
-                                        <div class="submenu-icon-content">
+                                        <div class="">
                                             <span>Web Development</span>
                                         </div>
                                     </a>

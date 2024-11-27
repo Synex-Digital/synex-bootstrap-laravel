@@ -178,8 +178,7 @@
                         <div class="feature-box-content last-paragraph-no-margin">
                             <span class="d-inline-block text-dark-gray fw-700 fs-18 mb-5px">Guaranteed safety</span>
                             <p>We believe that what we create today, it will transform to brand growth in future.</p>
-                            <a href="demo-application-features.html"
-                                class="btn btn-link btn-hover-animation-switch btn-extra-large text-dark-gray fw-700 text-uppercase-inherit mt-15px">
+                            <a class="btn btn-link btn-hover-animation-switch btn-extra-large text-dark-gray fw-700 text-uppercase-inherit mt-15px">
                             </a>
                         </div>
                     </div>
@@ -199,8 +198,7 @@
                         <div class="feature-box-content last-paragraph-no-margin">
                             <span class="d-inline-block text-dark-gray fw-700 fs-18 mb-5px">Fast performance</span>
                             <p>We believe that what we create today, it will transform to brand growth in future.</p>
-                            <a href="demo-application-features.html"
-                                class="btn btn-link btn-hover-animation-switch btn-extra-large text-dark-gray fw-700 text-uppercase-inherit mt-15px">
+                            <a class="btn btn-link btn-hover-animation-switch btn-extra-large text-dark-gray fw-700 text-uppercase-inherit mt-15px">
                             </a>
                         </div>
                         <span
@@ -222,8 +220,7 @@
                         <div class="feature-box-content last-paragraph-no-margin">
                             <span class="d-inline-block text-dark-gray fw-700 fs-18 mb-5px">Awesome design</span>
                             <p>We believe that what we create today, it will transform to brand growth in future.</p>
-                            <a href="demo-application-features.html"
-                                class="btn btn-link btn-hover-animation-switch btn-extra-large text-dark-gray fw-700 text-uppercase-inherit mt-15px">
+                            <a class="btn btn-link btn-hover-animation-switch btn-extra-large text-dark-gray fw-700 text-uppercase-inherit mt-15px">
                             </a>
                         </div>
                     </div>

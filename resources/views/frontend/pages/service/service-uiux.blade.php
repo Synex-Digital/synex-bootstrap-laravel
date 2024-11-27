@@ -431,12 +431,8 @@
                     </div>
                 </div>
             </div>
-            <div class="position-absolute bottom-0px right-minus-100px"
-                data-bottom-top="transform: rotate(0deg) translateY(50px)"
-                data-top-bottom="transform:rotate(10deg) translateY(-50px)">
-                <img class="" alt="synex digital" data-cfsrc="images/demo-design-agency-02.png"
-                    style="display:none;visibility:hidden;"><noscript><img src="images/demo-design-agency-02.png"
-                        class="" alt="synex digital"></noscript>
+            <div class="position-absolute bottom-0px right-minus-100px" data-bottom-top="transform: rotate(0deg) translateY(50px)" data-top-bottom="transform:rotate(10deg) translateY(-50px)">
+                <img class="" alt="synex digital" data-cfsrc="{{ asset('Frontend/images/Services/uiux/demo-design-agency-02.png') }}" style="display:none;visibility:hidden;"><noscript><img src="{{ asset('Frontend/images/Services/uiux/demo-design-agency-02.png') }}" class="" alt="synex digital"></noscript>
             </div>
         </section>
         <!-- end page title -->
@@ -666,13 +662,8 @@
                     </div>
                     <div class="col-12 col-lg-6 text-uppercase">
                         <div class="outside-box-right-20 position-relative">
-                            <div class="position-absolute top-30px left-minus-150px z-index-9 md-left-0px d-lg-block d-none"
-                                data-bottom-top="transform: rotate(0deg) translateY(0)"
-                                data-top-bottom="transform:rotate(50deg) translateY(0)">
-                                <img class="w-230px" alt="synex digital" data-cfsrc="images/demo-design-agency-02.png"
-                                    style="display:none;visibility:hidden;"><noscript><img
-                                        src="images/demo-design-agency-02.png" class="w-230px"
-                                        alt="synex digital"></noscript>
+                            <div class="position-absolute top-30px left-minus-150px z-index-9 md-left-0px d-lg-block d-none" data-bottom-top="transform: rotate(0deg) translateY(0)" data-top-bottom="transform:rotate(50deg) translateY(0)">
+                                <img class="w-230px" alt="synex digital" data-cfsrc="{{ asset('Frontend/images/Services/uiux/demo-design-agency-02.png') }}" style="display:none;visibility:hidden;"><noscript><img src="{{ asset('Frontend/images/Services/uiux/demo-design-agency-02.png') }}" class="w-230px" alt="synex digital"></noscript>
                             </div>
                             <div class="fs-350 xl-fs-300 lg-fs-250 xs-fs-170 lh-300 word-break-normal alt-font text-sliding-line bg-base-color  ls-minus-5px"
                                 data-bottom-top="transform:scale(1, 1) translate3d(0px, 0px, 0px);"
@@ -966,17 +957,16 @@
         <!-- end section -->
     </div>
     <!-- start footer -->
-    <footer class="bg-base-color footer-sticky background-position-left-top"
-        style="background-image: url(images/demo-design-agency-vertical-line-footer-bg.svg)">
+    <footer class="bg-base-color footer-sticky background-position-left-top">
         <div class="container">
             <div class="row align-items-end mb-9">
                 <div class="col-lg-2 md-mb-15px text-center text-md-start">
                     <a href="{{ route('home') }}" class="footer-logo">
-                        <img data-at2x="images/demo-design-agency-footer-logo-black@2x.png" alt="synex digital"
-                            data-cfsrc="images/demo-design-agency-footer-logo-black.png"
+                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
+                            data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
                             style="display:none;visibility:hidden;"><noscript><img
-                                src="images/demo-design-agency-footer-logo-black.png"
-                                data-at2x="images/demo-design-agency-footer-logo-black@2x.png"
+                                src="{{ asset('Frontend') }}/images/logo-text.svg"
+                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg"
                                 alt="synex digital"></noscript>
                     </a>
                 </div>

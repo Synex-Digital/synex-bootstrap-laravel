@@ -37,24 +37,12 @@
                             //]]>
                         </script>
                         <script type="text/javascript" src="{{ asset('Frontend/js/mirage2.min.js') }}"></script>
-                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
-                            class="default-logo" data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
-                            style="display:none;visibility:hidden;"><noscript><img
-                                src="{{ asset('Frontend') }}/images/logo-text.svg"
-                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
-                                class="default-logo"></noscript>
-                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital" class="alt-logo"
-                            data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
-                            style="display:none;visibility:hidden;"><noscript><img
-                                src="{{ asset('Frontend') }}/images/logo-text.svg"
-                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
-                                class="alt-logo"></noscript>
-                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
-                            class="mobile-logo" data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
-                            style="display:none;visibility:hidden;"><noscript><img
-                                src="{{ asset('Frontend') }}/images/logo-text.svg"
-                                data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"
-                                class="mobile-logo"></noscript>
+
+                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital-logo" class="default-logo" data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg" style="display:none;visibility:hidden;"><noscript><img src="{{ asset('Frontend') }}/images/logo-text.svg" data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital-logo"class="default-logo"></noscript>
+
+                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital-logo" class="alt-logo" data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg" style="display:none;visibility:hidden;"><noscript><img src="{{ asset('Frontend') }}/images/logo-text.svg" data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital-logo" class="alt-logo"></noscript>
+
+                        <img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital-logo" class="mobile-logo" data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg" style="display:none;visibility:hidden; "><noscript><img src="{{ asset('Frontend') }}/images/logo-text.svg" data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital" class="mobile-logo"></noscript>
                     </a>
                 </div>
                 <div class="col-auto menu-order position-static">
@@ -130,8 +118,7 @@
                                     <span class="text-white">✓</span>
                                 </div>
                                 <div class="feature-box-content last-paragraph-no-margin">
-                                    <span class="d-inline-block fs-17 fw-500 text-dark-gray">Responsive Web
-                                        Design</span>
+                                    <span class="d-inline-block fs-17 fw-500 text-dark-gray">Website Maintenance</span>
                                 </div>
                             </div>
                         </div>
@@ -171,8 +158,7 @@
             <div class="row mb-30px justify-content-center"
                 data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                 <div class="col-12 text-center">
-                    <span class="fs-22 mb-0 text-dark-gray fw-500 ls-minus-1px">More than the <span
-                            class="fw-700">30000+</span> companies trusting crafto</span>
+                    <span class="fs-22 mb-0 text-dark-gray fw-500 ls-minus-1px">More than the <span class="fw-700">100+</span> companies trusting <a href="https://synexdigital.com" style="color: #3B82F6">Synex Digital</a></span>
                 </div>
             </div>
 
@@ -204,9 +190,7 @@
                 <div id="service" class="col-lg-5 offset-lg-1 col-md-12"
                     data-anime='{ "el": "childs", "translateX": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                     <span class="fs-15 text-uppercase fw-600 ls-1px mb-15px d-block">About Web Development</span>
-                    <h3 class="fw-700 text-dark-gray ls-minus-1px fancy-text-style-4">Leverage Our Web Design and
-                        Development Services to Boost Your <span
-                            data-fancy-text='{ "effect": "rubber-band", "direction": "left", "string": ["business", "industry", "enterprise"] }'></span>
+                    <h3 class="fw-700 text-dark-gray ls-minus-1px fancy-text-style-4">Empower Your Industry with Our Web <span data-fancy-text='{ "effect": "rubber-band", "direction": "left", "string": ["Design Services", "Development Services"] }'></span>
                     </h3>
                     <div class="row mb-9">
 
@@ -252,16 +236,12 @@
                                 <div class="feature-box-icon">
                                     <img alt="synex digital"
                                         data-cfsrc="{{ asset('Frontend/images/demo-marketing-home-icon-02.jpg') }}"
-                                        style="display:none;visibility:hidden;"><noscript><img
-                                            src="{{ asset('Frontend/images/demo-marketing-home-icon-02.jpg') }}"
-                                            alt="synex digital"></noscript>
+                                        style="display:none;visibility:hidden;"><noscript><img src="{{ asset('Frontend/images/demo-marketing-home-icon-02.jpg') }}" alt="synex digital-feature4"></noscript>
                                 </div>
                                 <div class="feature-box-content">
-                                    <span class="d-inline-block text-dark-gray fw-600 mb-5px fs-18 ls-minus-05px">Seo
-                                        integrated web design</span>
-                                    <p class="w-80 lg-w-100">Synex Digital provides distinct web designing and
-                                        developing services tailored according to specific industry requirements along
-                                        with brand policies.</p>
+                                    <span class="d-inline-block text-dark-gray fw-600 mb-5px fs-18 ls-minus-05px">SEO
+                                        integration</span>
+                                    <p class="w-80 lg-w-100">Boost visibility with Synex Digital's SEO integration, optimizing keywords, responsiveness, and speed to align with your brand and attract your audience.</p>
                                 </div>
                             </div>
                         </div>
@@ -285,7 +265,7 @@
                             </div>
                         </div>
 
-                        <div class="col-12 icon-with-text-style-01 mb-30px">
+                        {{-- <div class="col-12 icon-with-text-style-01 mb-30px">
                             <div class="feature-box feature-box-left-icon last-paragraph-no-margin">
                                 <div class="feature-box-icon">
                                     <img alt="synex digital"
@@ -302,9 +282,9 @@
                                         and will be able to refine your product based on user feedback..</p>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
 
-                        <div class="col-12 icon-with-text-style-01 mb-30px">
+                        {{-- <div class="col-12 icon-with-text-style-01 mb-30px">
                             <div class="feature-box feature-box-left-icon last-paragraph-no-margin">
                                 <div class="feature-box-icon">
                                     <img alt="synex digital"
@@ -322,7 +302,7 @@
                                         programming.</p>
                                 </div>
                             </div>
-                        </div>
+                        </div> --}}
 
                     </div>
 
@@ -398,22 +378,22 @@
             <div class="row row-cols-1 row-cols-md-4 row-cols-sm-2 justify-content-center counter-style-04">
                 <div class="col last-paragraph-no-margin text-center sm-mb-40px">
                     <h3 class="vertical-counter d-inline-flex alt-font text-dark-gray fw-700 ls-minus-3px m-0"
-                        data-text="%" data-to="353"></h3>
+                        data-text="%" data-to="53"></h3>
                     <p>Revenue increasing</p>
                 </div>
                 <div class="col last-paragraph-no-margin text-center sm-mb-40px">
                     <h3 class="vertical-counter d-inline-flex alt-font text-dark-gray fw-700 ls-minus-3px m-0"
-                        data-text="%" data-to="642"></h3>
+                        data-text="%" data-to="64"></h3>
                     <p>Company growth</p>
                 </div>
                 <div class="col last-paragraph-no-margin text-center xs-mb-40px">
                     <h3 class="vertical-counter d-inline-flex alt-font text-dark-gray fw-700 ls-minus-3px m-0"
-                        data-text="%" data-to="376"></h3>
+                        data-text="%" data-to="76"></h3>
                     <p>Clients enhanced</p>
                 </div>
                 <div class="col last-paragraph-no-margin text-center">
                     <h3 class="vertical-counter d-inline-flex alt-font text-dark-gray fw-700 ls-minus-3px m-0"
-                        data-text="%" data-to="285"></h3>
+                        data-text="%" data-to="85"></h3>
                     <p>Convert traffic</p>
                 </div>
             </div>
@@ -422,7 +402,7 @@
                     data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                     <span class="fs-15 text-uppercase text-base-color fw-600 mb-15px d-block ls-1px">Our Development
                         strategy</span>
-                    <h3 class="fw-700 mb-20px text-dark-gray ls-minus-1px">We have helped over 1000+ clients.</h3>
+                    <h3 class="fw-700 mb-20px text-dark-gray ls-minus-1px">We have helped over 100+ clients.</h3>
                     <div class="row justify-content-center mb-30px">
                         <div class="col-12">
                             <div class="accordion accordion-style-02" id="accordion-style-02"
@@ -443,8 +423,7 @@
                                         data-bs-parent="#accordion-style-02">
                                         <div
                                             class="accordion-body last-paragraph-no-margin border-bottom border-color-light-medium-gray">
-                                            <p>We deliver customized responsive website to use your audience to make a
-                                                positive move.</p>
+                                            <p>Crafting visually striking and innovative designs tailored to reflect your brand's identity.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -465,8 +444,7 @@
                                         data-bs-parent="#accordion-style-02">
                                         <div
                                             class="accordion-body last-paragraph-no-margin border-bottom border-color-light-medium-gray">
-                                            <p>We deliver customized responsive website to use your audience to make a
-                                                positive move.</p>
+                                            <p>Fast, reliable, and professional services to bring your vision to life without delay.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -487,8 +465,7 @@
                                         data-bs-parent="#accordion-style-02">
                                         <div
                                             class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent">
-                                            <p>We deliver customized responsive website to use your audience to make a
-                                                positive move.</p>
+                                            <p>Versatile web solutions designed to meet the needs of businesses of all sizes and industries.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -496,10 +473,9 @@
                             </div>
                         </div>
                     </div>
-                    <a
-                        class="btn btn-large btn-dark-gray btn-hover-animation-switch btn-round-edge btn-box-shadow me-30px">
+                    <a href="{{ route('contact') }}" class="btn btn-large btn-dark-gray btn-hover-animation-switch btn-round-edge btn-box-shadow me-30px">
                         <span>
-                            <span class="btn-text">How it works</span>
+                            <span class="btn-text">Contact Us</span>
                             <span class="btn-icon">➔</span>
                             <span class="btn-icon">➔</span>
                         </span>
@@ -670,8 +646,7 @@
     <footer id="contact" class="bg-dark-gray background-position-center-top"
         style="background-image: url({{ asset('Frontend/images/demo-marketing-footer-dot.svg') }})">
         <div class="container overlap-section">
-            <div
-                class="row g-0 justify-content-center align-items-center bg-base-color border-radius-6px ps-7 pe-7 pt-4 pb-4 lg-p-30px sm-p-20px mb-7">
+            <div class="row g-0 justify-content-center align-items-center border-radius-6px ps-7 pe-7 pt-4 pb-4 lg-p-30px sm-p-20px mb-7" style="background-color: #3B82F6;">
                 <div class="col-lg-6 col-md-9 text-center text-lg-start md-mb-20px">
                     <h4 class="text-white fw-600 mb-0 ls-minus-1px">Let's talk about how we can transform your
                         business Through Website!</h4>
@@ -684,7 +659,7 @@
                         <div class="feature-box-content last-paragraph-no-margin">
                             <span class="text-white fs-18 lh-22 mb-5px d-block">Interested in working?</span>
                             <h6 class="d-inline-block fw-600 mb-0"><a href="mailto:office@synexdigital.com"
-                                    class="text-dark-gray text-dark-gray-hover fw-600 text-decoration-line-bottom"
+                                    class="text-white fw-600 text-decoration-line-bottom"
                                     style="font-size: 25px;">
                                     office@synexdigital.com</a>
                             </h6>

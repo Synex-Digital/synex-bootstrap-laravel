@@ -531,10 +531,7 @@
                                 <li class="grid-item">
                                     <div class="card bg-transparent border-0 h-100">
                                         <div class="blog-image position-relative overflow-hidden border-radius-4px">
-                                            <a href="{{ route('blog.view', $blog['slug']) }}"><img alt="{{$blog['title']}}"
-                                                    data-cfsrc="{{ $blog['image'] }}"
-                                                    style="display:none;visibility:hidden;"><noscript><img
-                                                        src="{{ $blog['image'] }}" alt="{{$blog['title']}}"></noscript></a>
+                                            <a href="{{ route('blog.view', $blog['slug']) }}"><img alt="{{$blog['title']}}" data-cfsrc="{{ $blog['image'] }}" style="display:none;visibility:hidden;"><noscript><img src="{{ $blog['image'] }}" alt="{{$blog['title']}}"></noscript></a>
                                         </div>
                                         <div class="card-body p-0 pt-30px sm-pt-20px lg-pb-20px">
                                             <span class="fs-14 text-uppercase mb-5px fw-500" style="display: flex; justify-content: space-between;">

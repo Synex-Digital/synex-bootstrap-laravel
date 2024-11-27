@@ -58,7 +58,7 @@
                                 class="mobile-logo"></noscript>
                     </a>
                 </div>
-                <div class="col-auto menu-order left-nav">
+                <div class="col-auto menu-order ">
                     <button class="navbar-toggler float-start" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
                         aria-label="Toggle navigation">
@@ -664,11 +664,10 @@
                                 policy.</span>
                         </form> --}}
                         <!-- end contact form -->
-                        <a href="{{ route('contact') }}"
-                            class="btn btn-small btn-gradient-orange-sky-blue ls-1px mt-30px submit w-100 btn-round-edge-small">Send
-                            message</a><span class="mt-5 text-white opacity-3 fs-14 lh-22 d-block">I accept the terms &
-                            conditions and i understand that my data will be hold securely in accordance with the
-                            privacy policy.</span>
+
+                        <a href="{{ route('contact') }}" class="btn btn-extra-large btn-gradient-orange-sky-blue btn-box-shadow box-shadow-extra-large w-100">Send Message</a>
+
+                        <span class="mt-5 text-white opacity-3 fs-14 lh-22 d-block">I accept the terms & conditions and i understand that my data will be hold securely in accordance with the privacy policy.</span>
                     </div>
                 </div>
             </div>
@@ -718,12 +717,7 @@
             <div class="row align-items-center">
                 <!-- start footer column -->
                 <div class="col-12 col-md-auto sm-mb-15px text-center text-md-start">
-                    <a class="footer-logo"><img
-                            data-at2x="images/demo-seo-agency-logo-black@2x.png" alt="synex digital"
-                            data-cfsrc="images/demo-seo-agency-logo-black.png"
-                            style="display:none;visibility:hidden;"><noscript><img
-                                src="images/demo-seo-agency-logo-black.png"
-                                data-at2x="images/demo-seo-agency-logo-black@2x.png" alt="synex digital"></noscript></a>
+                    <a class="footer-logo"><img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital" data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg" style="display:none;visibility:hidden;"><noscript><img src="{{ asset('Frontend') }}/images/logo-text.svg" data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"></noscript></a>
                 </div>
                 <!-- end footer column -->
                 <!-- start footer column -->
@@ -754,14 +748,8 @@
                 <!-- start footer column -->
                 <div class="col-lg-5 col-md-4 text-end elements-social social-icon-style-08 text-center text-md-end">
                     <ul class="medium-icon dark d-inline-block">
-                        <li class="mb-0"><a class="facebook" href="https://www.facebook.com/" target="_blank"><i
-                                    class="fa-brands fa-facebook-f"></i></a></li>
-                        <li class="mb-0"><a class="instagram" href="https://www.instagram.com/" target="_blank"><i
-                                    class="fa-brands fa-instagram"></i></a></li>
-                        <li class="mb-0"><a class="twitter" href="https://www.twitter.com/" target="_blank"><i
-                                    class="fa-brands fa-twitter"></i></a></li>
-                        <li class="mb-0"><a class="dribbble" href="http://www.dribbble.com/" target="_blank"><i
-                                    class="fa-brands fa-dribbble"></i></a></li>
+                        <li class="mb-0"><a class="facebook" href="https://www.facebook.com/synexdigital" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
+                        <li class="mb-0"><a class="instagram" href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
                     </ul>
                 </div>
                 <!-- end footer column -->

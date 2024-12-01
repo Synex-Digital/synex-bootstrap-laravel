@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="author" content="ThemeZaa">
+    <meta name="author" content="Synex Digital">
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <!-- favicon icon -->
     <link rel="shortcut icon" href="{{ asset('Frontend/images/icons/fav-low.png') }}">
@@ -84,7 +84,7 @@
                     </div>
                     <div class="fs-20 lh-34 xs-fs-19 mb-35px xs-mb-20px w-85 lg-w-95 sm-w-100 ls-minus-05px"
                         data-anime='{ "opacity": [0, 1], "translateX": [-100, 0], "duration": 1000, "delay": 1000, "easing": "easeOutCubic" }'>
-                        We do our best to implement your ideas into the project to make it successful & profitable.
+                        <div class="fs-20 lh-34 xs-fs-19 mb-35px xs-mb-20px w-85 lg-w-95 sm-w-100 ls-minus-05px" data-anime='{ "opacity": [0, 1], "translateX": [-100, 0], "duration": 1000, "delay": 1000, "easing": "easeOutCubic" }'>We do our best to implement your ideas into the project to make it successful & profitable.</div>
                     </div>
                     <div
                         data-anime='{ "el": "childs", "opacity": [0, 1], "translateX": [-100, 0], "staggervalue": -200, "duration": 1000, "delay": 1500, "easing": "easeOutCubic" }'>
@@ -158,6 +158,9 @@
             <div class="row mb-30px justify-content-center"
                 data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                 <div class="col-12 text-center">
+                    <h1 class="fw-700 alt-font text-dark-gray">Custom Web Development Services</h1>
+                    <div class="fs-20 lh-34 xs-fs-19 mb-35px xs-mb-20px ls-minus-05px" data-anime='{ "opacity": [0, 1], "translateX": [-100, 0], "duration": 1000, "delay": 1000, "easing": "easeOutCubic" }'>Looking for a website that’s visually stunning and tailored to your business needs? Synex Digital offers custom web development services to help you stand out online, attract customers, and achieve measurable results. Say goodbye to generic templates—our websites are designed with your goals in mind for a unique, professional, and functional online presence.</div>
+                     <br>
                     <span class="fs-22 mb-0 text-dark-gray fw-500 ls-minus-1px">More than the <span class="fw-700">100+</span> companies trusting <a href="https://synexdigital.com" style="color: #3B82F6">Synex Digital</a></span>
                 </div>
             </div>
@@ -189,8 +192,8 @@
                 </div>
                 <div id="service" class="col-lg-5 offset-lg-1 col-md-12"
                     data-anime='{ "el": "childs", "translateX": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
-                    <span class="fs-15 text-uppercase fw-600 ls-1px mb-15px d-block">About Web Development</span>
-                    <h3 class="fw-700 text-dark-gray ls-minus-1px fancy-text-style-4">Empower Your Industry with Our Web <span data-fancy-text='{ "effect": "rubber-band", "direction": "left", "string": ["Design Services", "Development Services"] }'></span>
+                    <span class="fs-15 text-uppercase fw-600 ls-1px mb-15px d-block">Why Businesses Trust Us</span>
+                    <h3 class="fw-700 text-dark-gray ls-minus-1px fancy-text-style-4">We’re not just developers; we’re your <span data-fancy-text='{ "effect": "rubber-band", "direction": "left", "string": ["Partners", "Wellwishers"] }'></span>
                     </h3>
                     <div class="row mb-9">
 
@@ -204,10 +207,8 @@
                                             alt="synex digital"></noscript>
                                 </div>
                                 <div class="feature-box-content">
-                                    <span class="d-inline-block text-dark-gray fw-600 mb-5px fs-18 ls-minus-05px">Web
-                                        Design and Development</span>
-                                    <p class="w-80 lg-w-100">We create visually appealing, easy to use websites that
-                                        are unique to your enterprise needs and aims.</p>
+                                    <span class="d-inline-block text-dark-gray fw-600 mb-5px fs-18 ls-minus-05px">Custom Design</span>
+                                    <p class="w-80 lg-w-100"> A website that reflects your brand’s style, voice, and goals.</p>
                                 </div>
                             </div>
                         </div>
@@ -223,10 +224,9 @@
                                 </div>
                                 <div class="feature-box-content">
                                     <span
-                                        class="d-inline-block text-dark-gray fw-600 mb-5px fs-18 ls-minus-05px">Website
-                                        maintenance</span>
-                                    <p class="w-80 lg-w-100">We offer continuous backup that guarantees your site is
-                                        dynamic, safe, and operates seamlessly all the time.</p>
+                                        class="d-inline-block text-dark-gray fw-600 mb-5px fs-18 ls-minus-05px">Business Focused Features</span>
+                                    <p class="w-80 lg-w-100">From booking systems to e-commerce, we develop features tailored to your needs.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -239,9 +239,8 @@
                                         style="display:none;visibility:hidden;"><noscript><img src="{{ asset('Frontend/images/demo-marketing-home-icon-02.jpg') }}" alt="synex digital-feature4"></noscript>
                                 </div>
                                 <div class="feature-box-content">
-                                    <span class="d-inline-block text-dark-gray fw-600 mb-5px fs-18 ls-minus-05px">SEO
-                                        integration</span>
-                                    <p class="w-80 lg-w-100">Boost visibility with Synex Digital's SEO integration, optimizing keywords, responsiveness, and speed to align with your brand and attract your audience.</p>
+                                    <span class="d-inline-block text-dark-gray fw-600 mb-5px fs-18 ls-minus-05px">Mobile Responsive</span>
+                                    <p class="w-80 lg-w-100">seamless functionality across all devices.</p>
                                 </div>
                             </div>
                         </div>
@@ -257,10 +256,24 @@
                                 </div>
                                 <div class="feature-box-content">
                                     <span
-                                        class="d-inline-block text-dark-gray fw-600 mb-5px fs-18 ls-minus-05px">Custom
-                                        Web Solutions</span>
-                                    <p class="w-80 lg-w-100">Your website will look good on any device including
-                                        computers or mobile phones while still working perfectly.</p>
+                                        class="d-inline-block text-dark-gray fw-600 mb-5px fs-18 ls-minus-05px">Fast Loading Speed</span>
+                                    <p class="w-80 lg-w-100">Enhance user experience and improve search rankings.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 icon-with-text-style-01 mb-30px">
+                            <div class="feature-box feature-box-left-icon last-paragraph-no-margin">
+                                <div class="feature-box-icon">
+                                    <img alt="synex digital"
+                                        data-cfsrc="{{ asset('Frontend/images/demo-marketing-home-icon-02.jpg') }}"
+                                        style="display:none;visibility:hidden;"><noscript><img
+                                            src="{{ asset('Frontend/images/demo-marketing-home-icon-02.jpg') }}"
+                                            alt="synex digital"></noscript>
+                                </div>
+                                <div class="feature-box-content">
+                                    <span
+                                        class="d-inline-block text-dark-gray fw-600 mb-5px fs-18 ls-minus-05px">Secure & Reliable</span>
+                                    <p class="w-80 lg-w-100">Advanced security for data protection.</p>
                                 </div>
                             </div>
                         </div>
@@ -372,6 +385,66 @@
 
     </section>
     <!-- end section -->
+
+    <!-- start section -->
+    <section>
+        <div class="container">
+            <h3 class="text-center fw-700 mb-20px text-dark-gray ls-minus-1px mb-5">Services We Offer</h3>
+            <div class="row row-cols-1 row-cols-md-4 row-cols-sm-2 justify-content-center counter-style-04">
+                <div class="col">
+                    <div class="card border-radius-6px box-shadow-light shadow-hover-2 bg-white p-20px mb-20px">
+                        <div class="text-center last-paragraph-no-margin">
+                            <p class="service-title" style="font-size: 25px; font-weight: 600;">Custom Web Development</p>
+                            <p>From scratch, designed for your goals and users.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card border-radius-6px box-shadow-light shadow-hover-2 bg-white p-20px mb-20px">
+                        <div class="text-center last-paragraph-no-margin">
+                            <p class="service-title" style="font-size: 25px; font-weight: 600;">E-Commerce Development</p>
+                            <p>Secure, user-friendly stores that drive sales.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card border-radius-6px box-shadow-light shadow-hover-2 bg-white p-20px mb-20px">
+                        <div class="text-center last-paragraph-no-margin">
+                            <p class="service-title" style="font-size: 25px; font-weight: 600;">Website Re-design</p>
+                            <p>Modernize your site for better performance and user experience.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card border-radius-6px box-shadow-light shadow-hover-2 bg-white p-20px mb-20px">
+                        <div class="text-center last-paragraph-no-margin">
+                            <p class="service-title" style="font-size: 25px; font-weight: 600;">Mobile Responsive Design</p>
+                            <p>Prioritize mobile-first experiences.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card border-radius-6px box-shadow-light shadow-hover-2 bg-white p-20px mb-20px">
+                        <div class="text-center last-paragraph-no-margin">
+                            <p class="service-title" style="font-size: 25px; font-weight: 600;">Custom Features</p>
+                            <p>Tailored tools like booking systems and CRM integrations.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card border-radius-6px box-shadow-light shadow-hover-2 bg-white p-20px mb-20px">
+                        <div class="text-center last-paragraph-no-margin">
+                            <p class="service-title" style="font-size: 25px; font-weight: 600;">SEO-Ready Websites</p>
+                            <p>Built to boost online visibility and drive traffic.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <!-- end section -->
+
     <!-- start section -->
     <section>
         <div class="container">
@@ -400,8 +473,7 @@
             <div id="project" class="row align-items-center mb-6 xs-mb-12 justify-content-md-center">
                 <div class="col-xl-5 col-lg-6 col-md-12 md-mb-50px"
                     data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
-                    <span class="fs-15 text-uppercase text-base-color fw-600 mb-15px d-block ls-1px">Our Development
-                        strategy</span>
+                    <span class="fs-15 text-uppercase text-base-color fw-600 mb-15px d-block ls-1px">Why Synex Digital?</span>
                     <h3 class="fw-700 mb-20px text-dark-gray ls-minus-1px">We have helped over 100+ clients.</h3>
                     <div class="row justify-content-center mb-30px">
                         <div class="col-12">
@@ -414,8 +486,7 @@
                                             data-bs-target="#accordion-style-02-01" aria-expanded="true"
                                             data-bs-parent="#accordion-style-02">
                                             <div class="accordion-title mb-0 position-relative text-dark-gray">
-                                                <span class="fw-600 fs-18 ls-minus-05px">Unique and bold website
-                                                    design</span>
+                                                <span class="fw-600 fs-18 ls-minus-05px">Experienced Team</span>
                                             </div>
                                         </a>
                                     </div>
@@ -423,7 +494,7 @@
                                         data-bs-parent="#accordion-style-02">
                                         <div
                                             class="accordion-body last-paragraph-no-margin border-bottom border-color-light-medium-gray">
-                                            <p>Crafting visually striking and innovative designs tailored to reflect your brand's identity.</p>
+                                            <p>A team of skilled professionals, fully focused on driving your success with expertise and dedication.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -435,8 +506,7 @@
                                             data-bs-target="#accordion-style-02-02" aria-expanded="false"
                                             data-bs-parent="#accordion-style-02">
                                             <div class="accordion-title mb-0 position-relative text-dark-gray">
-                                                <span class="fw-600 fs-18 ls-minus-05px">We're ready to deliver
-                                                    now</span>
+                                                <span class="fw-600 fs-18 ls-minus-05px">Affordable Pricing</span>
                                             </div>
                                         </a>
                                     </div>
@@ -444,28 +514,46 @@
                                         data-bs-parent="#accordion-style-02">
                                         <div
                                             class="accordion-body last-paragraph-no-margin border-bottom border-color-light-medium-gray">
-                                            <p>Fast, reliable, and professional services to bring your vision to life without delay.</p>
+                                            <p>Providing top-quality solutions tailored to your needs, ensuring exceptional results while staying within your budget to maximize value.</p>
                                         </div>
                                     </div>
                                 </div>
-                                <!-- end accordion item -->
                                 <!-- start accordion item -->
                                 <div class="accordion-item">
-                                    <div class="accordion-header border-bottom border-color-transparent">
+                                    <div class="accordion-header border-bottom border-color-extra-medium-gray">
                                         <a href="#" data-bs-toggle="collapse"
                                             data-bs-target="#accordion-style-02-03" aria-expanded="false"
                                             data-bs-parent="#accordion-style-02">
                                             <div class="accordion-title mb-0 position-relative text-dark-gray">
-                                                <span class="fw-600 fs-18 ls-minus-05px">Something website for
-                                                    everyone</span>
+                                                <span class="fw-600 fs-18 ls-minus-05px">Client-Centered Approach</span>
                                             </div>
                                         </a>
                                     </div>
                                     <div id="accordion-style-02-03" class="accordion-collapse collapse"
                                         data-bs-parent="#accordion-style-02">
                                         <div
+                                            class="accordion-body last-paragraph-no-margin border-bottom border-color-light-medium-gray">
+                                            <p>Fostering a collaborative environment with open communication and transparency to ensure seamless progress and trust at every stage.</p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <!-- start accordion item -->
+                                <div class="accordion-item">
+                                    <div class="accordion-header border-bottom border-color-transparent">
+                                        <a href="#" data-bs-toggle="collapse"
+                                            data-bs-target="#accordion-style-02-04" aria-expanded="false"
+                                            data-bs-parent="#accordion-style-02">
+                                            <div class="accordion-title mb-0 position-relative text-dark-gray">
+                                                <span class="fw-600 fs-18 ls-minus-05px">Post-launch Support</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div id="accordion-style-02-04" class="accordion-collapse collapse"
+                                        data-bs-parent="#accordion-style-02">
+                                        <div
                                             class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent">
-                                            <p>Versatile web solutions designed to meet the needs of businesses of all sizes and industries.</p>
+                                            <p>Offering continuous maintenance and regular updates to ensure your systems run smoothly and stay up-to-date with the latest features and improvements.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -512,6 +600,7 @@
         </div>
     </section>
     <!-- end section -->
+
     <!-- start section -->
     {{-- <section class="bg-gradient-very-light-gray">
         <div class="container">
@@ -648,8 +737,7 @@
         <div class="container overlap-section">
             <div class="row g-0 justify-content-center align-items-center border-radius-6px ps-7 pe-7 pt-4 pb-4 lg-p-30px sm-p-20px mb-7" style="background-color: #3B82F6;">
                 <div class="col-lg-6 col-md-9 text-center text-lg-start md-mb-20px">
-                    <h4 class="text-white fw-600 mb-0 ls-minus-1px">Let's talk about how we can transform your
-                        business Through Website!</h4>
+                    <h4 class="text-white fw-600 mb-0 ls-minus-1px">Ready to grow your business with a custom website? Let’s build it together!</h4>
                 </div>
                 <div class="col-auto col-lg-5 icon-with-text-style-08 offset-lg-1">
                     <div class="feature-box feature-box-left-icon-middle overflow-hidden">

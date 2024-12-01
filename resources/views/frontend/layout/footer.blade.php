@@ -9,10 +9,10 @@
                 </div>
                 <div class="col-md-2 col-sm-4 text-center text-sm-end">
                     <a href="{{route('home')}}" class="footer-logo d-inline-block"><img
-                            data-at2x="{{ asset('frontend') }}/images/logo-text.svg" alt="synex digital-logo"
-                            data-cfsrc="{{ asset('frontend') }}/images/logo-text.svg"
+                            data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital-logo"
+                            data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
                             style="display:none;visibility:hidden;"><noscript><img
-                                src="{{ asset('frontend') }}/images/logo-text.svg"
+                                src="{{ asset('Frontend') }}/images/logo-text.svg"
                                 data-at2x="images/demo-web-agency-logo-black@2x.png" alt="synex digital-logo"></noscript></a>
                 </div>
             </div>

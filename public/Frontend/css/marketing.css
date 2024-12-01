@@ -105,6 +105,13 @@ header .navbar-brand img {
 .btn.btn-hover-animation-switch .btn-icon {
     margin-left: 6px;
 }
+.service-title {
+    color: var(--dark-gray);
+}
+.service-title:hover{
+    color: #3B82F6;
+    transition: all 0.4s ease-in-out;
+}
 /* portfolio filter */
 .portfolio-simple .portfolio-box:hover .portfolio-image img {
     opacity: 1;

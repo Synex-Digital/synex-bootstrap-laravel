@@ -267,10 +267,11 @@ class ServiceController extends Controller
     {
         // return view('frontend.pages.service.services');
         $site_name = env('APP_NAME', 'Synex Digital');
-        $seo_title = 'Professional Web Development Services | Synex Digital';
-        $seo_description = 'Transform your online presence with professional web development services from Synex Digital. We offer full-stack development, e-commerce solutions, CMS development, and more. Serving clients in the USA, Canada, Australia, UK, and Dubai. Contact us for a custom website that drives results!';
+        $seo_title = 'Custom Web Development Services to Boost Your Business Growth';
+        $seo_description = 'Get expert custom web development services tailored to your business needs. Build unique, scalable, and secure websites that deliver results and stand out online.';
         $seo_tags =
-            'Web Development Services USA Canada Australia UK Dubai,
+            'Custom Web Development Services,
+            Web Development Services USA Canada Australia UK Dubai,
             Full-Stack Development,
             Frontend and Backend Development,
             E-commerce Development,

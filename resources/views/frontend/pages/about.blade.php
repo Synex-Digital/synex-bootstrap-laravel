@@ -176,7 +176,7 @@
             <div class="row align-items-center justify-content-center">
                 <div class="col-11 position-relative h-750px md-h-600px sm-h-350px border-radius-6px border border-color-transparent position-relative"
                     data-parallax-background-ratio="0.5"
-                    style="background-image: url({{ asset('Frontend/images/demo-web-agency-about-01.jpg') }});">
+                    style="background-image: url({{ asset('Frontend/images/youtube-video-banner.jpg') }});">
                     <a href="https://www.youtube.com/watch?v=-x1Pt-ZbC30" class="popup-youtube">
                         <div class="absolute-middle-center z-index-9">
                             <img class="animation-rotation" alt="synex digital"

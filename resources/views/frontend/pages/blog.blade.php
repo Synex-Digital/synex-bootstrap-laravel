@@ -18,7 +18,7 @@
                     <span class="fs-18 mb-30px d-inline-block sm-mb-20px">By <a class="text-dark-gray text-dark-gray-hover text-decoration-line-bottom">{{ $content['author'] }}</a>
                         in <a class="text-dark-gray text-dark-gray-hover text-decoration-line-bottom">{{ $content['category'] }}</a>
                         on {{ $content['date'] }}</span>
-                    <h2 class="alt-font fw-600 text-dark-gray ls-minus-2px mb-0">{{ $content['title'] }}</h2>
+                    <h1 class="alt-font fw-600 text-dark-gray ls-minus-2px mb-0">{{ $content['title'] }}</h1>
                 </div>
             </div>
         </div>
@@ -57,7 +57,7 @@
                             </ul>
                         </div>
                         <div class="offset-lg-1 col-md-8 last-paragraph-no-margin text-center text-md-start">
-                            <h3 class="alt-font fw-600 text-dark-gray">{{ $content['title'] }}</h3>
+                            {{-- <h3 class="alt-font fw-600 text-dark-gray">{{ $content['title'] }}</h3> --}}
                             <p class="blog-content">{!! $content['content'] !!}</p>
                         </div>
                     </div>

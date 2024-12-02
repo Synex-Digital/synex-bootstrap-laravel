@@ -138,7 +138,7 @@ class ServiceController extends Controller
 
         return view('frontend.pages.service.services');
     }
-    public function service_software()
+    public function service_cloud_solution()
     {
         // return view('frontend.pages.service.services');
         $site_name = env('APP_NAME', 'Synex Digital');
@@ -392,10 +392,11 @@ class ServiceController extends Controller
     {
         // return view('frontend.pages.service.services');
         $site_name = env('APP_NAME', 'Synex Digital');
-        $seo_title = 'Expert UI/UX Design Services | Synex Digital';
-        $seo_description = "Enhance your digital products with expert UI/UX design services from Synex Digital. Our team creates intuitive, user-centric interfaces and engaging experiences tailored to your audience. Serving businesses in the USA, Canada, Australia, UK, and Dubai. Contact us for a design consultation!";
+        $seo_title = 'Get our user experience design services to grow your business';
+        $seo_description = "Grow your business with our user experience design services. Enhance customer engagement and create seamless digital experiences tailored to your needs.";
         $seo_tags =
-            'UI/UX Design Services USA Canada Australia UK Dubai,
+            'user experience design services,
+            UI/UX Design Services USA Canada Australia UK Dubai,
             User Interface Design,
             User Experience Design,
             UX Research and Testing,
@@ -516,10 +517,11 @@ class ServiceController extends Controller
     {
         // return view('frontend.pages.service.services');
         $site_name = env('APP_NAME', 'Synex Digital');
-        $seo_title = 'Comprehensive Digital Marketing Services | Synex Digital';
-        $seo_description = "Boost your online presence with Synex Digital's expert digital marketing services, including SEO, PPC, social media marketing, content marketing, and more. Serving clients in the USA, Canada, Australia, UK, and Dubai with tailored strategies to grow your business. Contact us for a free consultation!";
+        $seo_title = 'Our Digital Marketing Agency | Expert Solutions for Your Business Growth';
+        $seo_description = "Discover how our digital marketing agency helps businesses grow with tailored strategies, SEO, social media marketing, PPC, and more. Partner with us for measurable success!";
         $seo_tags =
-            'Digital Marketing Services USA Canada Australia UK Dubai,
+            'Our digital marketing agency,
+            Digital Marketing Services USA Canada Australia UK Dubai,
             SEO Services,
             PPC Campaign Management,
             Social Media Marketing,
@@ -764,10 +766,11 @@ class ServiceController extends Controller
     {
         // return view('frontend.pages.service.services');
         $site_name = env('APP_NAME', 'Synex Digital');
-        $seo_title = 'Top Mobile App Development Services | iOS,Android | Synex Digital';
-        $seo_description = "Elevate your business with Synex Digital’s mobile app development services. We specialize in iOS, Android, and cross-platform apps, providing custom solutions for clients in the USA, Canada, Australia, UK, and Dubai. Contact us to create a powerful mobile app tailored to your needs!";
+        $seo_title = 'Custom Application Development Firms for Web and Mobile Apps';
+        $seo_description = "Custom application development firms delivering expert web and mobile app solutions. Get tailored applications designed to meet your business needs.";
         $seo_tags =
-            'Mobile App Development Services USA Canada Australia UK Dubai,
+            'Custom application development firms,
+            Mobile App Development Services USA Canada Australia UK Dubai,
             iOS App Development,
             Android App Development,
             Cross-Platform App Development,

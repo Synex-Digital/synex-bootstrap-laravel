@@ -29,7 +29,7 @@
                     data-anime='{ "el": "childs", "translateY": [15, 0], "translateX": [15, 0], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <!-- start progress bar item -->
                     <div class="progress mb-12 sm-mb-60px bg-extra-medium-gray">
-                        <div class="progress-bar-title d-inline-block text-dark-gray fs-17 fw-500">Web Development</div>
+                        <div class="progress-bar-title d-inline-block text-dark-gray fs-17 fw-500">Web Development <span class="badge text-bg-primary"><a href="{{route('service.web-dev')}}" class="text-white">Click Here</a></span></div>
                         <div class="progress-bar bg-dark-gray" role="progressbar" aria-valuenow="85" aria-valuemin="0"
                             aria-valuemax="100" aria-label="app-development">
                             <span
@@ -39,7 +39,7 @@
                     <!-- end progress bar item -->
                     <!-- start progress bar item -->
                     <div class="progress mb-12 sm-mb-60px bg-extra-medium-gray">
-                        <div class="progress-bar-title d-inline-block text-dark-gray fs-17 fw-500">UI UX Design</div>
+                        <div class="progress-bar-title d-inline-block text-dark-gray fs-17 fw-500">UI UX Design <span class="badge text-bg-primary"><a href="{{route('service.uiux')}}" class="text-white">Click Here</a></span></div>
                         <div class="progress-bar bg-dark-gray" role="progressbar" aria-valuenow="87" aria-valuemin="0"
                             aria-valuemax="100" aria-label="branding">
                             <span
@@ -49,7 +49,7 @@
                     <!-- end progress bar item -->
                     <!-- start progress bar item -->
                     <div class="progress mb-12 sm-mb-60px bg-extra-medium-gray">
-                        <div class="progress-bar-title d-inline-block text-dark-gray fs-17 fw-500">Digital Marketing</div>
+                        <div class="progress-bar-title d-inline-block text-dark-gray fs-17 fw-500">Digital Marketing <span class="badge text-bg-primary"><a href="{{route('service.digital-marketing')}}" class="text-white">Click Here</a></span></div>
                         <div class="progress-bar bg-dark-gray" role="progressbar" aria-valuenow="93" aria-valuemin="0"
                             aria-valuemax="100" aria-label="web-development">
                             <span
@@ -59,7 +59,7 @@
                     <!-- end progress bar item -->
                     <!-- start progress bar item -->
                     <div class="progress mb-12 sm-mb-60px bg-extra-medium-gray">
-                        <div class="progress-bar-title d-inline-block text-dark-gray fs-17 fw-500">Mobile & App Development
+                        <div class="progress-bar-title d-inline-block text-dark-gray fs-17 fw-500">Mobile & App Development <span class="badge text-bg-primary"><a href="{{route('service.mobile-app')}}" class="text-white">Click Here</a></span>
                         </div>
                         <div class="progress-bar bg-dark-gray" role="progressbar" aria-valuenow="96" aria-valuemin="0"
                             aria-valuemax="100" aria-label="web-development">
@@ -70,7 +70,7 @@
                     <!-- end progress bar item -->
                     <!-- start progress bar item -->
                     <div class="progress sm-mb-0 bg-extra-medium-gray">
-                        <div class="progress-bar-title d-inline-block text-dark-gray fs-17 fw-500">Cloud Solution</div>
+                        <div class="progress-bar-title d-inline-block text-dark-gray fs-17 fw-500">Cloud Solution <span class="badge text-bg-primary"><a href="{{route('service.cloud-solution')}}" class="text-white">Click Here</a></span></div>
                         <div class="progress-bar bg-dark-gray" role="progressbar" aria-valuenow="96" aria-valuemin="0"
                             aria-valuemax="100" aria-label="web-development">
                             <span

@@ -40,7 +40,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="author" content="ThemeZaa">
+    <meta name="author" content="Synex Digital">
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <!-- favicon icon -->
     <link rel="shortcut icon" href="{{ asset('Frontend/images/icons/fav-low.png') }}">
@@ -177,24 +177,24 @@
                                         src="{{ asset('Frontend/images/Services/uiux/demo-design-agency-03.png') }}images/demo-design-agency-03.png"
                                         class="" alt="synex digital"></noscript>
                             </div>
-                            <div class="fs-200 lg-fs-150 xs-fs-120 text-dark-gray alt-font lh-160 lg-lh-128 xs-lh-112 fancy-text-style-4 position-relative mb-20px ls-minus-4px"
+                            <div class="w-100" style="display: flex;">
+                                <h1 class="w-50 text-left fs-100 lg-fs-150 xs-fs-120 text-dark-gray alt-font lg-lh-128 xs-lh-112 fancy-text-style-4 position-relative mb-20px ls-minus-4px"
                                 data-anime='{ "rotateX": [50, 0], "opacity": [0,1], "staggervalue": 150, "easing": "easeOutQuad" }'>
-                                <span class="text-sliding-line bg-dark-gray">Branding</span> and design <span
-                                    class="text-sliding-line bg-base-color">agency</span>
+                                    <span class="text-sliding-line bg-dark-gray">Our</span> User Experience <span class="text-sliding-line bg-base-color">Design Service</span>
+                                </h1>
+                                <div class="w-50 text-right">
+                                    <p>
+                                        In today’s digital world, having user experience design services that deliver is no longer optional—it’s essential. Consider the last time you accessed a website that was perplexing or difficult to explore. Frustrating, wasn’t it? Now, compare that to one that felt simple, smooth, and enjoyable to use. That’s the power of excellent UX—it makes all the difference. At Synex Digital, we specialize in providing user experience design services that your customers will love, helping your business stay ahead and achieve real, measurable results.
+                                    </p>
+                                    <a href="{{ route('contact') }}"
+                                        class="btn btn-dark-gray btn-large btn-switch-text btn-box-shadow">
+                                        <span>
+                                            <span class="btn-double-text" data-text="Let's talk - Send a message">Let's talk -
+                                                Send a message</span>
+                                        </span>
+                                    </a>
+                                </div>
                             </div>
-                        </div>
-                        <div class="w-50 md-w-80 xs-w-100 text-lg-start ms-auto pe-50px lg-pe-15px md-ps-15px position-relative md-mx-auto"
-                            data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                            <div class="fs-18 lh-32 mb-40px w-90 md-w-100 lg-mb-30px">Our long experience and design
-                                sagacity help us spot essential things while selecting a design that business owners
-                                often miss.</div>
-                            <a href="{{ route('contact') }}"
-                                class="btn btn-dark-gray btn-large btn-switch-text btn-box-shadow">
-                                <span>
-                                    <span class="btn-double-text" data-text="Let's talk - Send a message">Let's talk -
-                                        Send a message</span>
-                                </span>
-                            </a>
                         </div>
                     </div>
                 </div>
@@ -205,19 +205,16 @@
         <section class="p-0">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-lg-6 text-uppercase"
-                        data-anime='{ "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                        <div class="outside-box-left-20 md-outside-box-left-7">
-                            <div class="fs-350 xl-fs-300 lg-fs-250 xs-fs-170 word-break-normal alt-font mb-10 md-mb-30px text-sliding-line bg-base-color ls-minus-5px"
-                                data-bottom-top="transform:scale(1, 1) translate3d(0px, 0px, 0px);"
-                                data-top-bottom="transform:scale(1, 1) translate3d(-60px, 0px, 0px);">creative</div>
+                    <div class="col-12 col-lg-6 d-flex" data-anime='{ "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                        <div class="outside-box-left-20 md-outside-box-left-7 text-uppercase">
+                            <div class="fs-350 xl-fs-300 lg-fs-250 xs-fs-170 word-break-normal alt-font mb-10 md-mb-30px text-sliding-line bg-base-color ls-minus-5px" data-bottom-top="transform:scale(1, 1) translate3d(0px, 0px, 0px);" data-top-bottom="transform:scale(1, 1) translate3d(-60px, 0px, 0px);">creative</div>
+                        </div>
+
+                        <div class="col-12 col-lg-6 align-self-end text-center text-lg-start xs-mb-30px w-100" style="margin-left: 50px;" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                        <h2 class="text-dark-gray mb-0 ls-minus-2px fs-50">At Synex Digital, we don’t just create websites or apps - we offer user experience design services that are built to engage and delight.</h2>
                         </div>
                     </div>
-                    <div class="col-12 col-lg-6 align-self-end text-center text-lg-start xs-mb-30px"
-                        data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                        <h1 class="alt-font text-uppercase text-dark-gray mb-0 ls-minus-2px">We create fantastic brand
-                            and identities.</h1>
-                    </div>
+
                 </div>
             </div>
         </section>
@@ -294,9 +291,8 @@
                             <div class="feature-box-title fs-200 fw-600 text-black opacity-1 ls-minus-10px">design
                             </div>
                             <div class="feature-box-content last-paragraph-no-margin">
-                                <span class="d-inline-block text-dark-gray fw-600 mb-5px fs-20">Design Research</span>
-                                <p class="text-light-opacity">We conduct in-depth research to understand user
-                                    behaviours, preferences, and pain points to create user-centric solutions.</p>
+                                <span class="d-inline-block text-dark-gray fw-600 mb-5px fs-20">Understanding Users</span>
+                                <p class="text-light-opacity">We dive deep into user research, gathering insights from surveys and analysis to pinpoint what audience needs and where they struggle. This ensures every design decision is purposeful.</p>
                             </div>
                             <div class="feature-box-overlay bg-dark-gray"></div>
                         </div>
@@ -312,9 +308,8 @@
                             <div class="feature-box-title fs-200 fw-600 text-black opacity-1 ls-minus-10px">strategy
                             </div>
                             <div class="feature-box-content last-paragraph-no-margin">
-                                <span class="d-inline-block text-dark-gray fw-600 mb-5px fs-20">Brand strategy</span>
-                                <p class="text-light-opacity">We align your brand with impactful and intuitive design,
-                                    ensuring every interface resonates with your brand identity.</p>
+                                <span class="d-inline-block text-dark-gray fw-600 mb-5px fs-20">Prototyping Works</span>
+                                <p class="text-light-opacity">Our user experience design services include creating prototypes—interactive mockups of your app or website.</p>
                             </div>
                             <div class="feature-box-overlay bg-dark-gray"></div>
                         </div>
@@ -332,10 +327,8 @@
                             <div class="feature-box-title fs-200 fw-600 text-black opacity-1 ls-minus-10px">experience
                             </div>
                             <div class="feature-box-content last-paragraph-no-margin">
-                                <span class="d-inline-block text-dark-gray fw-600 mb-5px fs-20">User Experience
-                                    Solutions</span>
-                                <p class="text-light-opacity">We design seamless and accessible experiences that
-                                    enhance user satisfaction and engagement across platforms.</p>
+                                <span class="d-inline-block text-dark-gray fw-600 mb-5px fs-20">Usability Testing</span>
+                                <p class="text-light-opacity">We work with real users to identify any pain points in your design and ensure the final product delivers a seamless and intuitive experience.</p>
                             </div>
                             <div class="feature-box-overlay bg-dark-gray"></div>
                         </div>
@@ -353,10 +346,8 @@
                             <div class="feature-box-title fs-200 fw-600 text-black opacity-1 ls-minus-10px">website
                             </div>
                             <div class="feature-box-content last-paragraph-no-margin">
-                                <span class="d-inline-block text-dark-gray fw-600 mb-5px fs-20">Website Development for
-                                    UX</span>
-                                <p class="text-light-opacity">We build websites that not only look great but also
-                                    deliver exceptional user experiences through smooth interactions.</p>
+                                <span class="d-inline-block text-dark-gray fw-600 mb-5px fs-20">Flawless Implementation</span>
+                                <p class="text-light-opacity">Once the design is finalized, our team collaborates with your developers to implement it</p>
                             </div>
                             <div class="feature-box-overlay bg-dark-gray"></div>
                         </div>
@@ -424,10 +415,7 @@
                                 class="text-base-color">//</span> Work</h1>
                     </div>
                     <div class="col-12 col-xxl-8 col-xl-8 col-lg-8 offset-xl-1 last-paragraph-no-margin">
-                        <h2 class="fs-55 lh-65 text-dark-gray fw-600 ls-minus-2px mb-0"
-                            data-anime='{ "el": "lines", "translateY": [30, 0], "translateX": [0, 0], "opacity": [0,1], "duration": 600, "delay":0, "staggervalue": 250, "easing": "easeOutQuad" }'>
-                            Our skilled developers and designers make sure to deliver tried-tested efficient, scalable,
-                            and robust designs.</h2>
+                        <h2 class="fs-55 lh-65 text-dark-gray fw-600 ls-minus-2px mb-0" data-anime='{ "el": "lines", "translateY": [30, 0], "translateX": [0, 0], "opacity": [0,1], "duration": 600, "delay":0, "staggervalue": 250, "easing": "easeOutQuad" }'>Synex Digital is here to provide user experience design services that elevate your digital presence and leave a lasting impression on your customers.</h2>
                     </div>
                 </div>
             </div>
@@ -657,8 +645,7 @@
                 <div class="row mb-5">
                     <div class="col-12 col-lg-6 text-center text-lg-start align-self-end"
                         data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay":0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                        <h1 class="alt-font text-uppercase text-dark-gray ls-minus-2px w-90 md-w-100">Why choose our
-                            design agency?</h1>
+                        <h1 class="alt-font text-uppercase text-dark-gray ls-minus-2px w-90 md-w-100">The Value of Investing in User Experience Design Services</h1>
                     </div>
                     <div class="col-12 col-lg-6 text-uppercase">
                         <div class="outside-box-right-20 position-relative">
@@ -682,12 +669,10 @@
                                 <span class="text-dark-gray fs-16 ls-minus-1px fw-600">01</span>
                             </div>
                             <div class="col-sm-3 offset-sm-1">
-                                <span class="fw-600 text-dark-gray fs-22 ls-minus-05px">Liberalistic</span>
+                                <span class="fw-600 text-dark-gray fs-22 ls-minus-05px">Happier, Engaged Customers</span>
                             </div>
                             <div class="col-sm-7 p-35px sm-p-25px xs-p-20px xs-pt-10px last-paragraph-no-margin">
-                                <p class="w-95 sm-w-100">We are excited for our work and how it positively impacts
-                                    clients. With over 12 years of experience we have been constantly providing
-                                    solutions.</p>
+                                <p class="w-95 sm-w-100">A well-executed design keeps visitors on your platform longer, increasing the likelihood they’ll explore your products or services.</p>
                             </div>
                         </div>
                         <div class="row g-0 align-items-center text-center text-sm-start">
@@ -698,11 +683,10 @@
                                 <span class="text-dark-gray fs-16 ls-minus-1px fw-600">02</span>
                             </div>
                             <div class="col-sm-3 offset-sm-1">
-                                <span class="fw-600 text-dark-gray fs-22 ls-minus-05px">Knowledge</span>
+                                <span class="fw-600 text-dark-gray fs-22 ls-minus-05px">Higher Conversions</span>
                             </div>
                             <div class="col-sm-7 p-35px sm-p-25px xs-p-20px xs-pt-10px last-paragraph-no-margin">
-                                <p class="w-95 sm-w-100">Our team consists of industry's brightest digital geeks and
-                                    that we are proud of. We are a one team consisting of passionate professionals.</p>
+                                <p class="w-95 sm-w-100">Whether it’s making a purchase, signing up, or engaging with your content, great UX simplifies the process and boosts conversions.</p>
                             </div>
                         </div>
                         <div class="row g-0 align-items-center text-center text-sm-start">
@@ -713,11 +697,10 @@
                                 <span class="text-dark-gray fs-16 ls-minus-1px fw-600">03</span>
                             </div>
                             <div class="col-sm-3 offset-sm-1">
-                                <span class="fw-600 text-dark-gray fs-22 ls-minus-05px">Technology</span>
+                                <span class="fw-600 text-dark-gray fs-22 ls-minus-05px">Stronger Brand Loyalty</span>
                             </div>
                             <div class="col-sm-7 p-35px sm-p-25px xs-p-20px xs-pt-10px last-paragraph-no-margin">
-                                <p class="w-95 sm-w-100">We are committed to deliver unique digital media solutions
-                                    from web design to eCommerce solutions for our clients by using our knowledge.</p>
+                                <p class="w-95 sm-w-100"> Memorable and positive experiences foster loyalty, encouraging users to return and recommend your brand to others.</p>
                             </div>
                             <div class="col-12">
                                 <div class="separator-line-5px w-100 bg-medium-gray opacity-3 bg-sliding-line"></div>
@@ -728,9 +711,7 @@
                 <div class="row justify-content-center"
                     data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay":0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <div class="col-12 col-xl-12 col-lg-10 text-center">
-                        <h3 class="alt-font text-dark-gray d-inline-block align-middle text-uppercase mb-0">Let's make
-                            something great work together. <a href="{{ route('contact') }}"
-                                class="text-dark-gray text-decoration-line-bottom-thick">Start a project</a></h3>
+                        <h3 class="alt-font text-dark-gray d-inline-block align-middle text-uppercase mb-0">Get Started with Synex Digital’s User Experience <a href="{{ route('contact') }}" class="text-dark-gray text-decoration-line-bottom-thick">Design Services</a></h3>
                     </div>
                 </div>
             </div>
@@ -783,7 +764,7 @@
                                     <p class="fs-19 text-white mb-30 w-85 xl-w-100 text-light-opacity">Users on
                                         marketplaces we've created in 2023.</p>
                                     <h3 class="vertical-counter d-inline-flex text-white fw-700 ls-minus-2px mt-25"
-                                        data-text="+" data-to="8500"><sup class="text-base-color top-0">
+                                        data-text="+" data-to="850"><sup class="text-base-color top-0">
                                             <img src="{{ asset('Frontend/images/svg/arrow-up.svg') }}"
                                                 alt="Onboarding
                                         conversions growth increased."></sup>
@@ -797,7 +778,7 @@
                                     <p class="fs-19 text-white mb-30 w-85 xl-w-100 text-light-opacity">Successfully
                                         finished projects with creativity.</p>
                                     <h3 class="vertical-counter d-inline-flex text-white fw-700 ls-minus-2px mt-25"
-                                        data-text="+" data-to="660"><sup class="text-base-color top-0">
+                                        data-text="+" data-to="60"><sup class="text-base-color top-0">
                                             <img src="{{ asset('Frontend/images/svg/arrow-up.svg') }}"
                                                 alt="Onboarding
                                         conversions growth increased."></sup>
@@ -825,7 +806,7 @@
                                     <p class="fs-19 text-white mb-30 w-85 xl-w-100 text-light-opacity">Onboarding
                                         conversions growth increased.</p>
                                     <h3 class="vertical-counter d-inline-flex text-white fw-700 ls-minus-2px mt-25"
-                                        data-text="%" data-to="300"><sup class="text-base-color top-0">
+                                        data-text="%" data-to="150"><sup class="text-base-color top-0">
                                             <img src="{{ asset('Frontend/images/svg/arrow-up.svg') }}"
                                                 alt="Onboarding
                                         conversions growth increased.">
@@ -932,7 +913,7 @@
                             <div class="col-sm-6">
                                 <div
                                     class="d-flex align-items-center justify-content-center justify-content-sm-end xs-mt-30px">
-                                    <div class="fw-800 fs-60 text-dark-gray me-15px ls-minus-1px">4.82</div>
+                                    <div class="fw-800 fs-60 text-dark-gray me-15px ls-minus-1px">4.96</div>
                                     <div class="text-center">
                                         <div
                                             class="bg-base-color text-white border-radius-30px ps-20px pe-20px fs-14 ls-minus-1px">

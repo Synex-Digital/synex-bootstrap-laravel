@@ -1,5 +1,14 @@
 @extends('frontend.layout.app')
-
+@section('style')
+<style>
+    blockquote{
+        background: #f4f4f4;
+        border-left: 5px solid #4880f3;
+        padding-left: 15px;
+        border-radius: .4rem;
+    }
+</style>
+@endsection
 @section('content')
     <!-- start page title -->
     <section class="p-0 sm-pb-40px top-space-margin page-title-center-alignment">
@@ -9,7 +18,7 @@
                     <span class="fs-18 mb-30px d-inline-block sm-mb-20px">By <a class="text-dark-gray text-dark-gray-hover text-decoration-line-bottom">{{ $content['author'] }}</a>
                         in <a class="text-dark-gray text-dark-gray-hover text-decoration-line-bottom">{{ $content['category'] }}</a>
                         on {{ $content['date'] }}</span>
-                    <h2 class="alt-font fw-600 text-dark-gray ls-minus-2px mb-0">{{ $content['title'] }}</h2>
+                    <h1 class="alt-font fw-600 text-dark-gray ls-minus-2px mb-0">{{ $content['title'] }}</h1>
                 </div>
             </div>
         </div>
@@ -48,8 +57,8 @@
                             </ul>
                         </div>
                         <div class="offset-lg-1 col-md-8 last-paragraph-no-margin text-center text-md-start">
-                            <h3 class="alt-font fw-600 text-dark-gray">{{ $content['title'] }}</h3>
-                            <p>{!! $content['content'] !!}</p>
+                            {{-- <h3 class="alt-font fw-600 text-dark-gray">{{ $content['title'] }}</h3> --}}
+                            <p class="blog-content">{!! $content['content'] !!}</p>
                         </div>
                     </div>
                 </div>
@@ -78,19 +87,12 @@
                             <li class="grid-item design marketing">
                                 <div class="card bg-transparent border-0 h-100">
                                     <div class="blog-image position-relative overflow-hidden border-radius-4px">
-                                        <a href="{{ route('blog.view', $blog['slug']) }}"><img alt="{{ $blog['title'] }}"
-                                                data-cfsrc="{{ $blog['image'] }}"
-                                                style="display:none;visibility:hidden;"><noscript><img
-                                                    src="{{ $blog['image'] }}" alt="{{ $blog['title'] }}"></noscript></a>
+                                        <a href="{{ route('blog.view', $blog['slug']) }}"><img alt="{{ $blog['title'] }}" data-cfsrc="{{ $blog['image'] }}" style="display:none;visibility:hidden;"><noscript><img src="{{ $blog['image'] }}" alt="{{ $blog['title'] }}"></noscript></a>
                                     </div>
                                     <div class="card-body px-0 pt-30px pb-30px xs-pb-15px">
-                                        <span class="fs-14 text-uppercase d-block mb-5px fw-500"><a
-                                                href="{{ route('blog.view', $blog['slug']) }}"
-                                                class="text-dark-gray text-dark-gray-hover fw-700 categories-text">{{ $blog['category'] }}</a><a
-                                                href="#"
-                                                class="blog-date text-medium-gray-hover">{{ $blog['date'] }}</a></span>
-                                        <a href="{{ route('blog.view', $blog['slug']) }}"
-                                            class="card-title fw-600 fs-17 lh-28 text-dark-gray text-dark-gray-hover d-inline-block w-95 sm-w-100">{{ $blog['title'] }}</a>
+                                        <span class="fs-14 text-uppercase d-block mb-5px fw-500"><a href="{{ route('blog.view', $blog['slug']) }}" class="text-dark-gray text-dark-gray-hover fw-700 categories-text">{{ $blog['category'] }}</a><span class="d-inline-block fs-10 alt-font align-middle opacity-7 ms-5px me-5px">•</span><a class="blog-date text-medium-gray-hover">{{ $blog['date'] }}</a></span>
+                                        <a href="{{ route('blog.view', $blog['slug']) }}" class="card-title fw-600 fs-17 lh-28 text-dark-gray text-dark-gray-hover d-inline-block w-95 sm-w-100">{{ $blog['title'] }}
+                                        </a>
                                     </div>
                                 </div>
                             </li>

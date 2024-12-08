@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="author" content="ThemeZaa">
+    <meta name="author" content="Synex Digital">
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <!-- favicon icon -->
     <link rel="shortcut icon" href="{{ asset('Frontend/images/icons/fav-low.png') }}">
@@ -58,7 +58,7 @@
                                 class="mobile-logo"></noscript>
                     </a>
                 </div>
-                <div class="col-auto menu-order left-nav">
+                <div class="col-auto menu-order ">
                     <button class="navbar-toggler float-start" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
                         aria-label="Toggle navigation">
@@ -144,9 +144,9 @@
         style="background-image: url({{ asset('Frontend/images/demo-seo-agency-vertical-line-bg.svg') }})">
         <div class="container">
             <div class="row justify-content-center mb-4">
-                <div class="col-xl-7 col-lg-8 col-md-10 text-center"
+                <div class="col-xl-10 col-lg-12 col-md-10 text-center"
                     data-anime='{ "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
-                    <h2 class="fw-600 text-dark-gray alt-font ls-minus-1px">Social marketing services</h2>
+                    <h1 class="fw-600 text-dark-gray alt-font ls-minus-1px">Our Digital Marketing Agency – Your Growth Partner</h1>
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-xl-4 row-cols-lg-3 row-cols-sm-2 justify-content-center"
@@ -304,10 +304,8 @@
                     <span
                         class="ps-20px pe-20px mb-25px md-mb-20px text-uppercase text-dark-gray fs-13 lh-40 md-lh-50 ls-1px alt-font fw-700 border-radius-4px bg-gradient-chablis-red-quartz-white d-inline-block">Working
                         process</span>
-                    <h2 class="alt-font text-dark-gray fw-600 ls-minus-1px">Simple working process to start.</h2>
-                    <p class="w-80 xl-w-85 lg-w-90 md-w-100 mb-20px">We are committed to deliver unique digital media
-                        solutions from web development to eCommerce solutions for our happy clients by using our
-                        knowledge and expertise.</p>
+                    <h2 class="alt-font text-dark-gray fw-600 ls-minus-1px">Why Choose Us?</h2>
+                    <p class="w-80 xl-w-85 lg-w-90 md-w-100 mb-20px">In today’s highly competitive online environment, selecting the right team to manage your digital presence is essential. Our digital marketing agency is dedicated to helping businesses grow, attract new customers, and achieve measurable success.</p>
                 </div>
             </div>
         </div>
@@ -370,17 +368,14 @@
             <div class="row mb-8 md-mb-10">
                 <div class="col-12 tab-style-04">
                     <!-- start tab navigation -->
-                    <ul
-                        class="nav nav-tabs border-0 justify-content-center fw-500 fs-19 mb-4 md-mb-6 sm-mb-5px alt-font">
-                        <li class="nav-item"><a data-bs-toggle="tab" href="#tab_five1"
-                                class="nav-link active">Keyword research<span
-                                    class="tab-border bg-dark-gray"></span></a></li>
-                        <li class="nav-item"><a class="nav-link" data-bs-toggle="tab" href="#tab_five2">Target
-                                analysis<span class="tab-border bg-dark-gray"></span></a></li>
-                        <li class="nav-item"><a class="nav-link" data-bs-toggle="tab" href="#tab_five3">Social
-                                marketing<span class="tab-border bg-dark-gray"></span></a></li>
-                        <li class="nav-item"><a class="nav-link" data-bs-toggle="tab" href="#tab_five4">Email
-                                campaign<span class="tab-border bg-dark-gray"></span></a></li>
+                    <ul class="nav nav-tabs border-0 justify-content-center fw-500 fs-19 mb-4 md-mb-6 sm-mb-5px alt-font">
+                        <li class="nav-item"><a data-bs-toggle="tab" href="#tab_five1" class="nav-link active">Expert Team<span class="tab-border bg-dark-gray"></span></a></li>
+
+                        <li class="nav-item"><a class="nav-link" data-bs-toggle="tab" href="#tab_five2">Customized Strategies<span class="tab-border bg-dark-gray"></span></a></li>
+
+                        <li class="nav-item"><a class="nav-link" data-bs-toggle="tab" href="#tab_five3">Full-Service Solutions<span class="tab-border bg-dark-gray"></span></a></li>
+
+                        <li class="nav-item"><a class="nav-link" data-bs-toggle="tab" href="#tab_five4">Quality Assurance<span class="tab-border bg-dark-gray"></span></a></li>
                     </ul>
                     <!-- end tab navigation -->
                     <div class="tab-content">
@@ -397,14 +392,9 @@
                                 </div>
                                 <div class="col-lg-5 col-md-6 ps-8 lg-ps-3 sm-ps-15px text-center text-md-start"
                                     data-anime='{ "el": "childs", "willchange": "transform", "opacity": [0, 1], "rotateY": [-90, 0], "rotateZ": [-10, 0], "translateY": [80, 0], "translateZ": [50, 0], "staggervalue": 200, "duration": 600, "delay": 100, "easing": "easeOutCirc" }'>
-                                    <span
-                                        class="ps-20px pe-20px mb-30px md-mb-20px text-uppercase text-dark-gray fs-13 lh-40 md-lh-50 ls-1px alt-font fw-700 border-radius-4px bg-gradient-chablis-red-quartz-white d-inline-block">Keyword
-                                        research</span>
-                                    <h2 class="alt-font text-dark-gray fw-600 ls-minus-1px">Keywords lead to customers.
-                                    </h2>
-                                    <p class="w-80 xl-w-90 md-w-100">We are committed to deliver unique digital media
-                                        solutions from web design to eCommerce solutions for our clients by using our
-                                        knowledge and expertise.</p>
+                                    <span class="ps-20px pe-20px mb-30px md-mb-20px text-uppercase text-dark-gray fs-13 lh-40 md-lh-50 ls-1px alt-font fw-700 border-radius-4px bg-gradient-chablis-red-quartz-white d-inline-block">Expert Team</span>
+                                    <h2 class="alt-font text-dark-gray fw-600 ls-minus-1px">Expert Team with Proven Results</h2>
+                                    <p class="w-80 xl-w-90 md-w-100">Our digital marketing agency prides itself on having a team of experienced professionals skilled in SEO, social media management, content creation, and online advertising. By leveraging the latest tools and techniques, we ensure your business achieves its full potential.</p>
                                 </div>
                             </div>
                         </div>
@@ -420,14 +410,9 @@
                                             alt="synex digital" /></noscript>
                                 </div>
                                 <div class="col-lg-5 col-md-6 ps-8 lg-ps-3 sm-ps-15px text-center text-md-start">
-                                    <span
-                                        class="ps-20px pe-20px mb-30px md-mb-20px text-uppercase text-dark-gray fs-13 lh-40 md-lh-50 ls-1px alt-font fw-700 border-radius-4px bg-gradient-chablis-red-quartz-white d-inline-block">Target
-                                        analysis</span>
-                                    <h2 class="alt-font text-dark-gray fw-600 ls-minus-1px">Power your online
-                                        visibility.</h2>
-                                    <p class="w-80 xl-w-90 md-w-100">We are committed to deliver unique digital media
-                                        solutions from web design to eCommerce solutions for our clients by using our
-                                        knowledge and expertise.</p>
+                                    <span class="ps-20px pe-20px mb-30px md-mb-20px text-uppercase text-dark-gray fs-13 lh-40 md-lh-50 ls-1px alt-font fw-700 border-radius-4px bg-gradient-chablis-red-quartz-white d-inline-block">Customized Strategies</span>
+                                    <h2 class="alt-font text-dark-gray fw-600 ls-minus-1px">Customized Strategies for Every Business</h2>
+                                    <p class="w-80 xl-w-90 md-w-100">We understand that no two businesses are alike. That’s why our digital marketing agency creates personalized strategies tailored to your unique goals. Whether you’re aiming to increase website traffic, generate more leads, or boost sales, we craft a plan that aligns perfectly with your objectives.</p>
                                 </div>
                             </div>
                         </div>
@@ -444,13 +429,19 @@
                                 </div>
                                 <div class="col-lg-5 col-md-6 ps-8 lg-ps-3 sm-ps-15px text-center text-md-start">
                                     <span
-                                        class="ps-20px pe-20px mb-30px md-mb-20px text-uppercase text-dark-gray fs-13 lh-40 md-lh-50 ls-1px alt-font fw-700 border-radius-4px bg-gradient-chablis-red-quartz-white d-inline-block">Social
-                                        marketing</span>
-                                    <h2 class="alt-font text-dark-gray fw-600 ls-minus-1px">Brand identity and
-                                        strategy.</h2>
-                                    <p class="w-80 xl-w-90 md-w-100">We are committed to deliver unique digital media
-                                        solutions from web design to eCommerce solutions for our clients by using our
-                                        knowledge and expertise.</p>
+                                        class="ps-20px pe-20px mb-30px md-mb-20px text-uppercase text-dark-gray fs-13 lh-40 md-lh-50 ls-1px alt-font fw-700 border-radius-4px bg-gradient-chablis-red-quartz-white d-inline-block">Full-Service Solutions</span>
+                                    <h2 class="alt-font text-dark-gray fw-600 ls-minus-1px">Full-Service Marketing Solutions.</h2>
+                                    <p class="w-80 xl-w-90 md-w-100">Our digital marketing agency offers a wide range of services to meet all your online marketing needs:
+                                        <ul class="list-style-05">
+                                            <li></li>
+                                            <li>Optimize your website to enhance search visibility and attract natural traffic.</li>
+                                            <li>Social media campaigns to connect with your audience.</li>
+                                            <li>PPC advertising for instant results.</li>
+                                            <li>Content marketing to build credibility and authority.</li>
+                                            <li>Email marketing to engage your customers directly.</li>
+                                            <li>With everything handled by our digital marketing agency, there’s no need to juggle multiple service providers.</li>
+                                        </ul>
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -467,13 +458,9 @@
                                 </div>
                                 <div class="col-lg-5 col-md-6 ps-8 lg-ps-3 sm-ps-15px text-center text-md-start">
                                     <span
-                                        class="ps-20px pe-20px mb-30px md-mb-20px text-uppercase text-dark-gray fs-13 lh-40 md-lh-50 ls-1px alt-font fw-700 border-radius-4px bg-gradient-chablis-red-quartz-white d-inline-block">Email
-                                        marketing</span>
-                                    <h2 class="alt-font text-dark-gray fw-600 ls-minus-1px">Tailor-made email campaign.
-                                    </h2>
-                                    <p class="w-80 xl-w-90 md-w-100">We are committed to deliver unique digital media
-                                        solutions from web design to eCommerce solutions for our clients by using our
-                                        knowledge and expertise.</p>
+                                        class="ps-20px pe-20px mb-30px md-mb-20px text-uppercase text-dark-gray fs-13 lh-40 md-lh-50 ls-1px alt-font fw-700 border-radius-4px bg-gradient-chablis-red-quartz-white d-inline-block">Quality Assurance</span>
+                                    <h2 class="alt-font text-dark-gray fw-600 ls-minus-1px">Affordable Solutions With Quality Assurance</h2>
+                                    <p class="w-80 xl-w-90 md-w-100">Employing a dedicated marketing team can stretch your finances. With our digital marketing agency, you gain access to expert services at an affordable price ensuring exceptional results without overspending.</p>
                                     </a>
                                 </div>
                             </div>
@@ -491,7 +478,7 @@
             <div class="row justify-content-center mb-4">
                 <div class="col-xxl-6 col-lg-8 col-md-10 text-center"
                     data-anime='{ "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
-                    <h2 class="fw-600 alt-font text-dark-gray ls-minus-1px">Trusted by over 26,300 reputed companies
+                    <h2 class="fw-600 alt-font text-dark-gray ls-minus-1px">Trusted by over 26 reputed companies
                     </h2>
                 </div>
             </div>
@@ -595,15 +582,12 @@
                 </div>
                 <!-- end client item -->
             </div>
-            <div class="row justify-content-center mt-7 mb-9 sm-mt-40px sm-mb-0">
-                <div
-                    class="col-12 d-block d-sm-flex align-items-center text-center text-sm-start justify-content-center fs-22 alt-font">
-                    <div class="me-5px xs-ms-10px d-inline-block align-middle"><i
-                            class="fa-regular fa-heart text-red"></i></div>
-                    <div class="d-inline-block align-middle">Join the <span
-                            class="fw-800 text-dark-gray text-decoration-line-bottom-medium">10000+</span> companies
-                        trusting our agency.</div>
+            <div class="row justify-content-center mt-7 mb-4 sm-mt-40px sm-mb-0">
+                <div class="col-12 d-block d-sm-flex align-items-center text-center text-sm-start justify-content-center fs-22 alt-font">
+                    <div class="me-5px xs-ms-10px d-inline-block align-middle"><i class="fa-regular fa-heart text-red"></i></div>
+                    <div class="d-inline-block align-middle">Join the <span class="fw-800 text-dark-gray text-decoration-line-bottom-medium">100+</span> companies trusting our agency.</div>
                 </div>
+                <p style="margin-top: 30px; text-align: center;">Choosing our digital marketing agency means partnering with a team that’s fully committed to your success. Let us handle your marketing efforts so you can focus on what matters most—growing your business. Reach out to us today to embark on your path to digital success!</p>
             </div>
         </div>
         <div class="background-position-center-bottom background-size-100 background-no-repeat h-300px sm-h-150px position-absolute sm-position-relative left-0px bottom-0 w-100 d-none d-md-block"
@@ -611,7 +595,7 @@
     </section>
     <!-- end section -->
     <!-- start section -->
-    <section id="contact" class="p-0 sm-pt-50px">
+    <section id="contact" class="p-0">
         <div class="container overlap-section">
             <div class="row justify-content-center box-shadow-quadruple-large border-radius-6px overflow-hidden g-0">
                 <!-- start contact address -->
@@ -621,7 +605,7 @@
                         <span
                             class="ps-25px pe-25px mb-25px text-uppercase text-dark-gray fs-13 lh-42 ls-1px alt-font fw-700 border-radius-4px bg-gradient-chablis-red-quartz-white d-inline-block">Keep
                             in touch</span>
-                        <h3 class="alt-font text-dark-gray fw-600">Looking for help? Ready to help!</h3>
+                        <h3 class="alt-font text-dark-gray fw-600">Start Today with Our Digital Marketing Agency</h3>
                         <p>Feel free to get in touch..</p>
                     </div>
                 </div>
@@ -664,11 +648,10 @@
                                 policy.</span>
                         </form> --}}
                         <!-- end contact form -->
-                        <a href="{{ route('contact') }}"
-                            class="btn btn-small btn-gradient-orange-sky-blue ls-1px mt-30px submit w-100 btn-round-edge-small">Send
-                            message</a><span class="mt-5 text-white opacity-3 fs-14 lh-22 d-block">I accept the terms &
-                            conditions and i understand that my data will be hold securely in accordance with the
-                            privacy policy.</span>
+
+                        <a href="{{ route('contact') }}" class="btn btn-extra-large btn-gradient-orange-sky-blue btn-box-shadow box-shadow-extra-large w-100">Send Message</a>
+
+                        <span class="mt-5 text-white opacity-3 fs-14 lh-22 d-block">I accept the terms & conditions and i understand that my data will be hold securely in accordance with the privacy policy.</span>
                     </div>
                 </div>
             </div>
@@ -718,12 +701,7 @@
             <div class="row align-items-center">
                 <!-- start footer column -->
                 <div class="col-12 col-md-auto sm-mb-15px text-center text-md-start">
-                    <a class="footer-logo"><img
-                            data-at2x="images/demo-seo-agency-logo-black@2x.png" alt="synex digital"
-                            data-cfsrc="images/demo-seo-agency-logo-black.png"
-                            style="display:none;visibility:hidden;"><noscript><img
-                                src="images/demo-seo-agency-logo-black.png"
-                                data-at2x="images/demo-seo-agency-logo-black@2x.png" alt="synex digital"></noscript></a>
+                    <a class="footer-logo"><img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital" data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg" style="display:none;visibility:hidden;"><noscript><img src="{{ asset('Frontend') }}/images/logo-text.svg" data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital"></noscript></a>
                 </div>
                 <!-- end footer column -->
                 <!-- start footer column -->
@@ -754,14 +732,8 @@
                 <!-- start footer column -->
                 <div class="col-lg-5 col-md-4 text-end elements-social social-icon-style-08 text-center text-md-end">
                     <ul class="medium-icon dark d-inline-block">
-                        <li class="mb-0"><a class="facebook" href="https://www.facebook.com/" target="_blank"><i
-                                    class="fa-brands fa-facebook-f"></i></a></li>
-                        <li class="mb-0"><a class="instagram" href="https://www.instagram.com/" target="_blank"><i
-                                    class="fa-brands fa-instagram"></i></a></li>
-                        <li class="mb-0"><a class="twitter" href="https://www.twitter.com/" target="_blank"><i
-                                    class="fa-brands fa-twitter"></i></a></li>
-                        <li class="mb-0"><a class="dribbble" href="http://www.dribbble.com/" target="_blank"><i
-                                    class="fa-brands fa-dribbble"></i></a></li>
+                        <li class="mb-0"><a class="facebook" href="https://www.facebook.com/synexdigital" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
+                        <li class="mb-0"><a class="instagram" href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
                     </ul>
                 </div>
                 <!-- end footer column -->

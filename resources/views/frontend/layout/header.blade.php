@@ -47,7 +47,7 @@
                         </li>
                         <li class="nav-item dropdown dropdown-with-icon">
                             <a href="{{ route('services') }}" class="nav-link">Services</a>
-                            <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink" role="button"
+                            <i id="navbarDropdownMenuLink" role="button"
                                 data-bs-toggle="dropdown" aria-expanded="false"></i>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                 <li>
@@ -99,7 +99,7 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="{{ route('service.software') }}">
+                                    <a href="{{ route('service.cloud-solution') }}">
                                         <img class="w-40px" alt="synex digital-software"
                                             data-cfsrc="{{ asset('Frontend/images/Services/saas.svg') }}"
                                             style="display:none;visibility:hidden;" /><noscript><img

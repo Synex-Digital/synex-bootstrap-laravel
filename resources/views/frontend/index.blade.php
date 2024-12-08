@@ -246,7 +246,7 @@
                         <div class="number d-inline-block fs-90 fw-700 text-outline text-outline-color-extra-medium-gray">
                             08</div>
                     </div>
-                    <span class="fs-19 fw-600 text-dark-gray mb-5px d-block position-relative">Web Hosting</span>
+                    <span class="fs-19 fw-600 text-dark-gray mb-5px d-block position-relative">Video Editing</span>
                     <div class="position-relative pb-60px last-paragraph-no-margin">
                         <p class="lh-30 w-90 sm-w-100">Post-Production, Motion Graphics, Video Production, Editing
                             for Social Media.</p>
@@ -531,10 +531,7 @@
                                 <li class="grid-item">
                                     <div class="card bg-transparent border-0 h-100">
                                         <div class="blog-image position-relative overflow-hidden border-radius-4px">
-                                            <a href="{{ route('blog.view', $blog['slug']) }}"><img alt="{{$blog['title']}}"
-                                                    data-cfsrc="{{ $blog['image'] }}"
-                                                    style="display:none;visibility:hidden;"><noscript><img
-                                                        src="{{ $blog['image'] }}" alt="{{$blog['title']}}"></noscript></a>
+                                            <a href="{{ route('blog.view', $blog['slug']) }}"><img alt="{{$blog['title']}}" data-cfsrc="{{ $blog['image'] }}" style="display:none;visibility:hidden;"><noscript><img src="{{ $blog['image'] }}" alt="{{$blog['title']}}"></noscript></a>
                                         </div>
                                         <div class="card-body p-0 pt-30px sm-pt-20px lg-pb-20px">
                                             <span class="fs-14 text-uppercase mb-5px fw-500" style="display: flex; justify-content: space-between;">

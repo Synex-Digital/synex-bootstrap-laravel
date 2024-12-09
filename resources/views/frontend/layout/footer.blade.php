@@ -1,19 +1,20 @@
+@section('style')
+<style>
+    #tp-widget-wrapper {
+        float: inline-end;
+    }
+</style>
+@endsection
+
     <footer class="p-0">
         <div class="container">
             <div class="row align-items-center mb-4 sm-mb-6">
                 <div class="col-md-10 col-sm-8 text-center text-sm-start xs-mb-25px">
-                    <h5 class="mb-0 text-dark-gray fw-400 ls-minus-1px">Let's make something great <a
-                            href="{{ route('schedule') }}"
-                            class="text-decoration-line-bottom-medium fw-600 text-dark-gray text-dark-gray-hover">work
-                            together?</a></h5>
+                    <h5 class="mb-0 text-dark-gray fw-400 ls-minus-1px">Let's make something great <a href="{{ route('schedule') }}" class="text-decoration-line-bottom-medium fw-600 text-dark-gray text-dark-gray-hover">work together?</a></h5>
                 </div>
+
                 <div class="col-md-2 col-sm-4 text-center text-sm-end">
-                    <a href="{{route('home')}}" class="footer-logo d-inline-block"><img
-                            data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital-logo"
-                            data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg"
-                            style="display:none;visibility:hidden;"><noscript><img
-                                src="{{ asset('Frontend') }}/images/logo-text.svg"
-                                data-at2x="images/demo-web-agency-logo-black@2x.png" alt="synex digital-logo"></noscript></a>
+                    <a href="{{route('home')}}" class="footer-logo d-inline-block"><img data-at2x="{{ asset('Frontend') }}/images/logo-text.svg" alt="synex digital-logo" data-cfsrc="{{ asset('Frontend') }}/images/logo-text.svg" style="display:none;visibility:hidden;"><noscript><img src="{{ asset('Frontend') }}/images/logo-text.svg" data-at2x="images/demo-web-agency-logo-black@2x.png" alt="synex digital-logo"></noscript></a>
                 </div>
             </div>
             <div class="row align-items-end mb-6 sm-mb-40px">
@@ -29,6 +30,15 @@
                     <p class="w-80 lg-w-100 text-medium-gray fs-15 lh-28">87/3, West Dhanmondi, Shankar, Dhaka-1207</p>
                 </div>
                 <!-- end footer column -->
+
+                <!-- TrustBox widget - Review Collector -->
+                <div class="col-lg-3 col-sm-4 text-center text-sm-start xs-mb-25px last-paragraph-no-margin">
+                    <div class="trustpilot-widget" data-locale="en-US" data-template-id="56278e9abfbbba0bdcd568bc" data-businessunit-id="675464224a42bb5131df1f20" data-style-height="52px" data-style-width="100%">
+                        <a href="https://www.trustpilot.com/review/synexdigital.com" target="_blank" rel="noopener">Trustpilot</a>
+                    </div>
+                </div>
+                <!-- End TrustBox widget -->
+
                 <!-- start footer column -->
                 <div class="col-md-3 col-sm-4 last-paragraph-no-margin ms-auto text-center text-sm-end">
                     <a href="tel:1235678901" class="text-dark-gray d-block lh-18 text-dark-gray-hover">+880

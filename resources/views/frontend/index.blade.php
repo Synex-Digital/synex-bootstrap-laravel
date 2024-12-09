@@ -147,14 +147,10 @@
                             02</div>
                     </div>
                     <span class="fs-19 fw-600 text-dark-gray mb-5px d-block position-relative">Software as a
-                        Service
-
-                        (SaaS)</span>
+                        Service(SaaS)</span>
                     <div class="position-relative pb-60px last-paragraph-no-margin">
-                        <p class="lh-30 w-90 sm-w-100">SaaS Application Development, Product Design, Maintenance
-                            and Support.</p>
-                        <a
-                            class="hover-content d-flex justify-content-center align-items-center icon-box w-45px h-45px rounded-circle bg-base-color border-2">→</a>
+                        <p class="lh-30 w-90 sm-w-100">SaaS Application Development, Product Design, Maintenance and Support.</p>
+                        <a class="hover-content d-flex justify-content-center align-items-center icon-box w-45px h-45px rounded-circle bg-base-color border-2">→</a>
                     </div>
                 </div>
                 <!-- end process step item -->
@@ -248,10 +244,8 @@
                     </div>
                     <span class="fs-19 fw-600 text-dark-gray mb-5px d-block position-relative">Video Editing</span>
                     <div class="position-relative pb-60px last-paragraph-no-margin">
-                        <p class="lh-30 w-90 sm-w-100">Post-Production, Motion Graphics, Video Production, Editing
-                            for Social Media.</p>
-                        <a href="{{ route('service.software') }}"
-                            class="hover-content d-flex justify-content-center align-items-center icon-box w-45px h-45px rounded-circle bg-base-color border-2">→</a>
+                        <p class="lh-30 w-90 sm-w-100">Post-Production, Motion Graphics, Video Production, Editing for Social Media.</p>
+                        <a class="hover-content d-flex justify-content-center align-items-center icon-box w-45px h-45px rounded-circle bg-base-color border-2">→</a>
                     </div>
                 </div>
                 <!-- end process step item -->

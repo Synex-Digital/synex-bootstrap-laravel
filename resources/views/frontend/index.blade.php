@@ -147,14 +147,10 @@
                             02</div>
                     </div>
                     <span class="fs-19 fw-600 text-dark-gray mb-5px d-block position-relative">Software as a
-                        Service
-
-                        (SaaS)</span>
+                        Service(SaaS)</span>
                     <div class="position-relative pb-60px last-paragraph-no-margin">
-                        <p class="lh-30 w-90 sm-w-100">SaaS Application Development, Product Design, Maintenance
-                            and Support.</p>
-                        <a
-                            class="hover-content d-flex justify-content-center align-items-center icon-box w-45px h-45px rounded-circle bg-base-color border-2">→</a>
+                        <p class="lh-30 w-90 sm-w-100">SaaS Application Development, Product Design, Maintenance and Support.</p>
+                        <a class="hover-content d-flex justify-content-center align-items-center icon-box w-45px h-45px rounded-circle bg-base-color border-2">→</a>
                     </div>
                 </div>
                 <!-- end process step item -->
@@ -248,10 +244,8 @@
                     </div>
                     <span class="fs-19 fw-600 text-dark-gray mb-5px d-block position-relative">Video Editing</span>
                     <div class="position-relative pb-60px last-paragraph-no-margin">
-                        <p class="lh-30 w-90 sm-w-100">Post-Production, Motion Graphics, Video Production, Editing
-                            for Social Media.</p>
-                        <a href="#"
-                            class="hover-content d-flex justify-content-center align-items-center icon-box w-45px h-45px rounded-circle bg-base-color border-2">→</a>
+                        <p class="lh-30 w-90 sm-w-100">Post-Production, Motion Graphics, Video Production, Editing for Social Media.</p>
+                        <a class="hover-content d-flex justify-content-center align-items-center icon-box w-45px h-45px rounded-circle bg-base-color border-2">→</a>
                     </div>
                 </div>
                 <!-- end process step item -->
@@ -304,10 +298,9 @@
                                 <div class="portfolio-box" data-bottom-top="transform: translateY(40px)"
                                     data-top-bottom="transform: translateY(-40px)">
                                     <div class="portfolio-image bg-medium-gray border-radius-6px">
-                                        <a><img alt="{{ $project['name'] }}" data-cfsrc="{{ $project['image'] }}"
+                                        <a><img alt="{{$project['name']}}" data-cfsrc="{{ $project['image'] }}"
                                                 style="display:none;visibility:hidden;" /><noscript><img
-                                                    src="{{ $project['image'] }}"
-                                                    alt="{{ $project['name'] }}" /></noscript></a>
+                                                    src="{{ $project['image'] }}" alt="{{$project['name']}}" /></noscript></a>
                                     </div>
                                     <div class="portfolio-caption pt-35px pb-35px md-pt-25px md-pb-25px">
                                         <a class="text-dark-gray text-dark-gray-hover fw-600">{{ $project['name'] }}</a>
@@ -532,26 +525,16 @@
                                 <li class="grid-item">
                                     <div class="card bg-transparent border-0 h-100">
                                         <div class="blog-image position-relative overflow-hidden border-radius-4px">
-                                            <a href="{{ route('blog.view', $blog['slug']) }}"><img
-                                                    alt="{{ $blog['title'] }}" data-cfsrc="{{ $blog['image'] }}"
-                                                    style="display:none;visibility:hidden;"><noscript><img
-                                                        src="{{ $blog['image'] }}"
-                                                        alt="{{ $blog['title'] }}"></noscript></a>
+                                            <a href="{{ route('blog.view', $blog['slug']) }}"><img alt="{{$blog['title']}}" data-cfsrc="{{ $blog['image'] }}" style="display:none;visibility:hidden;"><noscript><img src="{{ $blog['image'] }}" alt="{{$blog['title']}}"></noscript></a>
                                         </div>
                                         <div class="card-body p-0 pt-30px sm-pt-20px lg-pb-20px">
-                                            <span class="fs-14 text-uppercase mb-5px fw-500"
-                                                style="display: flex; justify-content: space-between;">
-                                                <a href="{{ route('blog.view', $blog['slug']) }}"
-                                                    class="text-dark-gray text-dark-gray-hover fw-500 categories-text"
-                                                    style="font-size: 13px">{{ $blog['author'] }}</a>
-                                                <span class="text-dark-gray text-dark-gray-hover fw-500 categories-text"
-                                                    style="font-size: 13px">
-                                                    views: <a
-                                                        class="blog-date text-medium-gray-hover">{{ $blog['view'] }}</a>
+                                            <span class="fs-14 text-uppercase mb-5px fw-500" style="display: flex; justify-content: space-between;">
+                                                <a href="{{ route('blog.view', $blog['slug']) }}" class="text-dark-gray text-dark-gray-hover fw-500 categories-text" style="font-size: 13px">{{ $blog['author'] }}</a>
+                                                <span class="text-dark-gray text-dark-gray-hover fw-500 categories-text" style="font-size: 13px">
+                                                views: <a class="blog-date text-medium-gray-hover">{{ $blog['view'] }}</a>
                                                 </span>
                                             </span>
-                                            <a href="{{ route('blog.view', $blog['slug']) }}"
-                                                class="card-title fw-600 fs-17 lh-28 text-dark-gray text-dark-gray-hover d-inline-block w-95 sm-w-100">{{ $blog['title'] }}</a>
+                                            <a href="{{ route('blog.view', $blog['slug']) }}" class="card-title fw-600 fs-17 lh-28 text-dark-gray text-dark-gray-hover d-inline-block w-95 sm-w-100">{{ $blog['title'] }}</a>
                                         </div>
                                     </div>
                                 </li>

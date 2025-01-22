@@ -60,9 +60,9 @@
                     <div class="collapse navbar-collapse" id="navbarNav">
                         <ul class="navbar-nav">
                             <li class="nav-item"><a href="#about" class="nav-link">About</a></li>
-                            <li class="nav-item"><a href="#hosting" class="nav-link">Hosting</a></li>
-                            <li class="nav-item"><a href="#services" class="nav-link">Domain</a></li>
-                            <li class="nav-item"><a href="#support" class="nav-link">Support</a></li>
+                            <li class="nav-item"><a href="#benefits" class="nav-link">Benefits</a></li>
+                            <li class="nav-item"><a href="#services" class="nav-link">Services</a></li>
+                            <li class="nav-item"><a href="#support" class="nav-link">FAQ</a></li>
                             <li class="nav-item"><a href="#contact" class="nav-link">Contact</a></li>
                         </ul>
                     </div>
@@ -95,20 +95,14 @@
             <div class="row align-items-center justify-content-center h-100">
                 <div class="col-xl-7 col-lg-8 col-md-10 text-white position-relative text-center text-lg-start">
                     <div class="fs-90 sm-fs-80 xs-fs-70 fw-600 mb-20px ls-minus-4px overflow-hidden">
-                        <div class="d-inline-block"
-                            data-anime='{ "translateY": [100, 0], "easing": "easeOutCubic", "duration": 900 }'>
-                            Power up web with
-                            <div class="highlight-separator" data-shadow-animation="true" data-animation-delay="1500">
-                                hosting<span><img src="{{ asset('Frontend') }}/images/highlight-separator.svg"
-                                        alt="synex digital"></span>
+                        <div class="d-inline-block" data-anime='{ "translateY": [100, 0], "easing": "easeOutCubic", "duration": 900 }'> Simplify Growth With
+                            <div class="highlight-separator" data-shadow-animation="true" data-animation-delay="1500">AWS<span><img src="{{ asset('Frontend') }}/images/highlight-separator.svg" alt="synex digital"></span>
                             </div>
                         </div>
                     </div>
                     <div class="fs-19 fw-300 mb-30px w-80 sm-w-100 opacity-6 d-block mx-auto mx-lg-0 overflow-hidden">
                         <span class="d-inline-block lh-32"
-                            data-anime='{ "translateY": [100, 0], "easing": "easeOutCubic", "duration": 900, "delay": 300 }'>Get
-                            access to tons of free apps to create websites, eCommerce websites and blogs
-                            installations.</span>
+                            data-anime='{ "translateY": [100, 0], "easing": "easeOutCubic", "duration": 900, "delay": 300 }'>With technology advancing rapidly, businesses need simple and affordable tools to stay competitive. </span>
                     </div>
                     <div class="overflow-hidden pt-5px">
                         <a class="btn btn-extra-large btn-yellow btn-rounded btn-box-shadow btn-switch-text d-inline-block me-15px xs-m-10px align-middle fw-600"
@@ -149,8 +143,7 @@
                 <div
                     class="col-lg-9 text-center fw-600 fs-24 lg-fs-22 ls-minus-05px text-dark-gray bg-white p-30px md-p-20px">
                     <a href="{{ route('contact') }}"
-                        class="fw-700 text-base-color text-decoration-line-bottom-medium">Get free domain</a> with
-                    managed WordPress dedicated hosting.
+                        class="fw-700 text-base-color text-decoration-line-bottom-medium">Cloud Solutions</a> for Businesses: Improving Efficiency and Growth
                 </div>
                 <div class="col-lg-3 text-center bg-yellow pt-30px pb-30px md-p-20px"><a
                         href="{{ route('contact') }}"
@@ -161,17 +154,17 @@
     </section>
     <!-- end section -->
     <!-- start section -->
-    <section id="hosting" class="cover-background pt-5 xs-pt-8"
+    <section id="benefits" class="cover-background pt-5 xs-pt-8"
         style="background-image: url({{ asset('Frontend/images/demo-hosting-home-06.jpg') }})">
         <div class="container">
             <div class="row justify-content-center mb-3">
                 <div class="col-lg-8 text-center"
                     data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 900, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <span class="text-base-color fw-600 mb-5px text-uppercase d-block">Hosting solutions</span>
-                    <h2 class="text-dark-gray fw-700 ls-minus-2px">Hosting services</h2>
+                    <span class="text-base-color fw-600 mb-5px text-uppercase d-block">Cloud solutions</span>
+                    <h2 class="text-dark-gray fw-700 ls-minus-2px">Benefits of Cloud Solutions</h2>
                 </div>
             </div>
-            <div class="row row-cols-1 row-cols-lg-4 row-cols-sm-2 justify-content-center"
+            <div class="row row-cols-1 row-cols-lg-2 row-cols-sm-2 justify-content-center"
                 data-anime='{ "el": "childs",  "translateY": [0, 0], "perspective": [1200, 1200], "scale": [1.05, 1], "rotateX": [50, 0], "opacity": [0,1], "duration":600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <!-- start features box item -->
                 <div class="col icon-with-text-style-07 transition-inner-all md-mb-30px">
@@ -182,8 +175,8 @@
                                 alt="synex digital">
                         </div>
                         <div class="feature-box-content">
-                            <span class="d-inline-block fw-600 text-dark-gray fs-18 ls-minus-05px">Online store</span>
-                            <p class="mb-10px">Lorem dummy printing type setting industry.</p>
+                            <span class="d-inline-block fw-600 text-dark-gray fs-18 ls-minus-05px">Save Money</span>
+                            <p class="mb-10px">You don’t need to buy expensive hardware or pay for ongoing IT support, which means you can spend that money on other important things.</p>
                         </div>
                     </div>
                 </div>
@@ -197,14 +190,14 @@
                                 alt="synex digital">
                         </div>
                         <div class="feature-box-content">
-                            <span class="d-inline-block fw-600 text-dark-gray fs-18 ls-minus-05px">Web hosting</span>
-                            <p class="mb-10px">Lorem dummy printing type setting industry.</p>
+                            <span class="d-inline-block fw-600 text-dark-gray fs-18 ls-minus-05px">Easy To Grow</span>
+                            <p class="mb-10px">If you need more storage or tools, you can easily add them without causing problems for your business.</p>
                         </div>
                     </div>
                 </div>
                 <!-- end features box item -->
                 <!-- start features box item -->
-                <div class="col icon-with-text-style-07 transition-inner-all xs-mb-30px">
+                <div class="col icon-with-text-style-07 transition-inner-all xs-mb-30px mt-30px">
                     <div
                         class="bg-white feature-box h-100 justify-content-start box-shadow-quadruple-large box-shadow-quadruple-large-hover text-start p-17 sm-p-14 border-radius-6px">
                         <div class="feature-box-icon mb-30px">
@@ -212,15 +205,14 @@
                                 alt="synex digital">
                         </div>
                         <div class="feature-box-content">
-                            <span class="d-inline-block fw-600 text-dark-gray fs-18 ls-minus-05px">Business
-                                email</span>
-                            <p class="mb-10px">Lorem dummy printing type setting industry.</p>
+                            <span class="d-inline-block fw-600 text-dark-gray fs-18 ls-minus-05px">Better Teamwork</span>
+                            <p class="mb-10px">Cloud solutions help your team work together no matter where they are. Employees can access files and tools from anywhere with an internet connection.</p>
                         </div>
                     </div>
                 </div>
                 <!-- end features box item -->
                 <!-- start features box item -->
-                <div class="col icon-with-text-style-07 transition-inner-all">
+                <div class="col icon-with-text-style-07 transition-inner-all mt-30px">
                     <div
                         class="bg-white feature-box h-100 justify-content-start box-shadow-quadruple-large box-shadow-quadruple-large-hover text-start p-17 sm-p-14 border-radius-6px">
                         <div class="feature-box-icon mb-30px">
@@ -228,8 +220,8 @@
                                 alt="synex digital">
                         </div>
                         <div class="feature-box-content">
-                            <span class="d-inline-block fw-600 text-dark-gray fs-18 ls-minus-05px">Cloud storage</span>
-                            <p class="mb-10px">Lorem dummy printing type setting industry.</p>
+                            <span class="d-inline-block fw-600 text-dark-gray fs-18 ls-minus-05px">Secure Data</span>
+                            <p class="mb-10px">With features like encryption, backups, and updates, cloud solutions for small businesses keep your data safe from security threats.</p>
                         </div>
                     </div>
                 </div>
@@ -255,32 +247,31 @@
                 <div class="col-lg-5 offset-lg-1 last-paragraph-no-margin"
                     data-anime='{ "el": "childs", "opacity": [0, 1], "rotateY": [-90, 0], "rotateZ": [-10, 0], "translateY": [80, 0], "translateZ": [50, 0], "staggervalue": 200, "duration": 900, "delay": 300, "easing": "easeOutCirc" }'>
                     <span class="text-base-color fw-600 mb-15px text-uppercase d-block">Simple and intuitive</span>
-                    <h2 class="fw-600 text-dark-gray w-90 lg-w-100 text-dark-gray fw-700 ls-minus-2px">Solutions for
+                    <h2 class="fw-600 text-dark-gray w-90 lg-w-100 text-dark-gray fw-700 ls-minus-2px">Cloud Solutions for
                         your business.</h2>
-                    <p class="w-90 sm-w-100">Getting your website live is as simple as a click of a button. Everything
-                        you need provided in a clear way.</p>
+                    <p class="w-90 sm-w-100">Deploying your infrastructure and applications on AWS has never been easier. We provide all the tools and support you need to get started and succeed in the cloud.</p>
                     <ul class="p-0 mb-25px mt-15px list-style-01 w-90 lg-w-100">
                         <li
                             class="border-color-extra-medium-gray fw-600 text-dark-gray d-flex align-items-center pt-15px pb-15px">
                             <div
                                 class="feature-box-icon feature-box-icon-rounded w-35px h-35px rounded-circle bg-solitude-blue me-10px text-center d-flex align-items-center justify-content-center flex-shrink-0">
-                                <i class="fa-solid fa-check fs-13 text-base-color"></i>
+                                ✔
                             </div>
-                            Get 30% discount qualifying purchases.
+                            Get up to 20% savings on AWS services.
                         </li>
                         <li
                             class="border-color-extra-medium-gray fw-600 text-dark-gray d-flex align-items-center pt-15px pb-15px">
                             <div
                                 class="feature-box-icon feature-box-icon-rounded w-35px h-35px rounded-circle bg-solitude-blue me-10px text-center d-flex align-items-center justify-content-center flex-shrink-0">
-                                <i class="fa-solid fa-check fs-13 text-base-color"></i>
+                                ✔
                             </div>
-                            Grow and connect with developers.
+                            Collaborate with cloud experts.
                         </li>
                     </ul>
                     <a href="{{ route('contact') }}"
                         class="btn btn-large btn-dark-gray btn-box-shadow btn-rounded btn-switch-text">
                         <span>
-                            <span class="btn-double-text" data-text="Lowest pricing">Premium pricing</span>
+                            <span class="btn-double-text" data-text="Contact us">Get a quote</span>
                             <span><i class="feather icon-feather-arrow-right"></i></span>
                         </span>
                     </a>
@@ -299,9 +290,8 @@
                             </div>
                         </div>
                         <div class="process-content ps-20px last-paragraph-no-margin">
-                            <span class="d-block fw-600 text-dark-gray fs-17 ls-minus-05px alt-font">Choose a hosting
-                                plan</span>
-                            <p>Lorem ipsum simply printing</p>
+                            <span class="d-block fw-600 text-dark-gray fs-17 ls-minus-05px alt-font">Planning and Design</span>
+                            <p>Evaluate existing infrastructure, define migration goals, and create a strategy.</p>
                         </div>
                     </div>
                 </div>
@@ -316,9 +306,8 @@
                             </div>
                         </div>
                         <div class="process-content ps-20px last-paragraph-no-margin">
-                            <span class="d-block fw-600 text-dark-gray fs-17 ls-minus-05px alt-font">Select a domain
-                                name</span>
-                            <p>Lorem ipsum simply printing</p>
+                            <span class="d-block fw-600 text-dark-gray fs-17 ls-minus-05px alt-font">Implementation and Migration</span>
+                            <p>Move applications and data using appropriate migration methods and AWS tools.</p>
                         </div>
                     </div>
                 </div>
@@ -333,9 +322,8 @@
                             </div>
                         </div>
                         <div class="process-content ps-20px last-paragraph-no-margin">
-                            <span class="d-block fw-600 text-dark-gray fs-17 ls-minus-05px alt-font">Upload your
-                                website</span>
-                            <p>Lorem ipsum simply printing</p>
+                            <span class="d-block fw-600 text-dark-gray fs-17 ls-minus-05px alt-font">Management and Optimization</span>
+                            <p>Monitor, secure, and optimize resources for performance and cost efficiency.</p>
                         </div>
                     </div>
                 </div>
@@ -353,7 +341,7 @@
                 <div class="col-lg-8 text-center"
                     data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 900, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="text-white opacity-5 mb-5px text-uppercase d-block">What we offers</span>
-                    <h2 class="text-white fw-700 ls-minus-1px">Affordable services</h2>
+                    <h2 class="text-white fw-700 ls-minus-1px">Reliable AWS Cloud Services</h2>
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-lg-4 row-cols-md-3 row-cols-sm-2 justify-content-center ps-8 pe-8 lg-px-0"
@@ -363,7 +351,7 @@
                     <div
                         class="feature-box hover-box h-100 transition light-hover border-radius-6px p-18 xs-p-12 last-paragraph-no-margin overflow-hidden border border-1 box-shadow-quadruple-large-hover border-color-transparent-white-light border-color-transparent-on-hover">
                         <div class="feature-box-content">
-                            <span class="d-inline-block text-white fw-500 lh-24">Domain name<br>generator</span>
+                            <span class="d-inline-block text-white fw-500 lh-24">Cloud Infrastructure Setup</span>
                         </div>
                         <div class="feature-box-overlay bg-white"></div>
                     </div>
@@ -374,7 +362,7 @@
                     <div
                         class="feature-box hover-box h-100 transition light-hover border-radius-6px p-18 xs-p-12 last-paragraph-no-margin overflow-hidden border border-1 box-shadow-quadruple-large-hover border-color-transparent-white-light border-color-transparent-on-hover">
                         <div class="feature-box-content">
-                            <span class="d-inline-block text-white fw-500 lh-24">SQL server<br>hosting</span>
+                            <span class="d-inline-block text-white fw-500 lh-24">Database <br> Hosting</span>
                         </div>
                         <div class="feature-box-overlay bg-white"></div>
                     </div>
@@ -385,7 +373,7 @@
                     <div
                         class="feature-box hover-box h-100 transition light-hover border-radius-6px p-18 xs-p-12 last-paragraph-no-margin overflow-hidden border border-1 box-shadow-quadruple-large-hover border-color-transparent-white-light border-color-transparent-on-hover">
                         <div class="feature-box-content">
-                            <span class="d-inline-block text-white fw-500 lh-24">Cheap web<br>hosting</span>
+                            <span class="d-inline-block text-white fw-500 lh-24">Application Migration</span>
                         </div>
                         <div class="feature-box-overlay bg-white"></div>
                     </div>
@@ -396,7 +384,7 @@
                     <div
                         class="feature-box hover-box h-100 transition light-hover border-radius-6px p-18 xs-p-12 last-paragraph-no-margin overflow-hidden border border-1 box-shadow-quadruple-large-hover border-color-transparent-white-light border-color-transparent-on-hover">
                         <div class="feature-box-content">
-                            <span class="d-inline-block text-white fw-500 lh-24">Website email<br>hosting</span>
+                            <span class="d-inline-block text-white fw-500 lh-24">Cost <br> Optimization</span>
                         </div>
                         <div class="feature-box-overlay bg-white"></div>
                     </div>
@@ -407,7 +395,7 @@
                     <div
                         class="feature-box hover-box h-100 transition light-hover border-radius-6px p-18 xs-p-12 last-paragraph-no-margin overflow-hidden border border-1 box-shadow-quadruple-large-hover border-color-transparent-white-light border-color-transparent-on-hover">
                         <div class="feature-box-content">
-                            <span class="d-inline-block text-white fw-500 lh-24">WordPress<br>installation</span>
+                            <span class="d-inline-block text-white fw-500 lh-24">Website Hosting on AWS</span>
                         </div>
                         <div class="feature-box-overlay bg-white"></div>
                     </div>
@@ -418,7 +406,7 @@
                     <div
                         class="feature-box hover-box h-100 transition light-hover border-radius-6px p-18 xs-p-12 last-paragraph-no-margin overflow-hidden border border-1 box-shadow-quadruple-large-hover border-color-transparent-white-light border-color-transparent-on-hover">
                         <div class="feature-box-content">
-                            <span class="d-inline-block text-white fw-500 lh-24">Game server<br>hosting</span>
+                            <span class="d-inline-block text-white fw-500 lh-24">Server Management</span>
                         </div>
                         <div class="feature-box-overlay bg-white"></div>
                     </div>
@@ -429,7 +417,7 @@
                     <div
                         class="feature-box hover-box h-100 transition light-hover border-radius-6px p-15 xs-p-12 last-paragraph-no-margin overflow-hidden border border-1 box-shadow-quadruple-large-hover border-color-transparent-white-light border-color-transparent-on-hover">
                         <div class="feature-box-content">
-                            <span class="d-inline-block text-white fw-500 lh-24">VPS server<br>hosting</span>
+                            <span class="d-inline-block text-white fw-500 lh-24">Data Backup and Recovery</span>
                         </div>
                         <div class="feature-box-overlay bg-white"></div>
                     </div>
@@ -440,7 +428,7 @@
                     <div
                         class="feature-box hover-box h-100 transition light-hover border-radius-6px p-18 xs-p-12 last-paragraph-no-margin overflow-hidden border border-1 box-shadow-quadruple-large-hover border-color-transparent-white-light border-color-transparent-on-hover">
                         <div class="feature-box-content">
-                            <span class="d-inline-block text-white fw-500 lh-24">Free website<br>hosting</span>
+                            <span class="d-inline-block text-white fw-500 lh-24">DevOps on <br> AWS</span>
                         </div>
                         <div class="feature-box-overlay bg-white"></div>
                     </div>
@@ -456,9 +444,9 @@
                         </div>
                         <div class="feature-box-content">
                             <span class="alt-font text-white fs-18">Keep in Touch. <a
-                                    href="https://www.facebook.com/@synexdigital/"
-                                    class="text-decoration-line-bottom text-white fw-500">Like us on
-                                    Facebook</a></span>
+                                    href="https://www.linkedin.com/company/synexdigital/"
+                                    class="text-decoration-line-bottom text-white fw-500">Follow us on
+                                    LinkedIn</a></span>
                         </div>
                     </div>
                 </div>
@@ -475,10 +463,7 @@
                     <div
                         class="bg-dark-gray fw-600 text-white text-uppercase border-radius-30px ps-20px pe-20px fs-12 me-10px xs-m-5px d-inline-block align-middle">
                         Limited offer</div>
-                    <div class="text-dark-gray fw-500 d-inline-block align-middle ls-minus-05px fs-18">Save 20% on
-                        annual plans. <a href="{{ route('contact') }}"
-                            class="text-decoration-line-bottom text-dark-gray d-inline-block">Explore pricing
-                            plans<span class="bg-dark-gray"></span></a></div>
+                    <div class="text-dark-gray fw-500 d-inline-block align-middle ls-minus-05px fs-18">Save up to 20% on your first service. <a href="{{ route('contact') }}" class="text-decoration-line-bottom text-dark-gray d-inline-block">Get in touch<span class="bg-dark-gray"></span></a></div>
                 </div>
             </div>
         </div>
@@ -499,8 +484,7 @@
                                 class="w-50px h-50px" alt="synex digital">
                         </div>
                         <div class="feature-box-content last-paragraph-no-margin">
-                            <h5 class="d-inline-block fw-600 text-white mb-0">Are you ready for a better productive
-                                business?</h5>
+                            <h5 class="d-inline-block fw-600 text-white mb-0">Use Cloud Solutions for Your Business</h5>
                         </div>
                     </div>
                 </div>
@@ -508,7 +492,7 @@
                     <a href="{{ route('contact') }}"
                         class="btn btn-medium btn-yellow btn-rounded fw-600 btn-switch-text btn-box-shadow">
                         <span>
-                            <span class="btn-double-text" data-text="Sign up free">Sign up free</span>
+                            <span class="btn-double-text" data-text="Get a quote">Contact Us</span>
                         </span>
                     </a>
                 </div>
@@ -542,7 +526,7 @@
                                 <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-01"
                                     aria-expanded="true" data-bs-parent="#accordion-style-02">
                                     <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                        <span class="fw-600 fs-18">How long is this site live?</span>
+                                        <span class="fw-600 fs-18">What is AWS Cloud Solutions, and how can it benefit my business?</span>
                                     </div>
                                 </a>
                             </div>
@@ -550,9 +534,7 @@
                                 data-bs-parent="#accordion-style-02">
                                 <div
                                     class="accordion-body last-paragraph-no-margin border-bottom border-color-light-medium-gray">
-                                    <p>Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        ipsum has been the industry's standard dummy text ever unknown printer took a
-                                        galley of type and scrambled it to make a type specimen book.</p>
+                                    <p>AWS Cloud Solutions provide scalable, secure, and cost-effective cloud services that enable businesses to host applications, store data, and deploy infrastructure with minimal upfront investment. It ensures flexibility, enhanced performance, and reduced IT costs.</p>
                                 </div>
                             </div>
                         </div>
@@ -563,8 +545,7 @@
                                 <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-02"
                                     aria-expanded="false" data-bs-parent="#accordion-style-02">
                                     <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                        <span class="fw-600 fs-18">Can i install/upload anything is want on
-                                            there?</span>
+                                        <span class="fw-600 fs-18">Do you offer assistance with migrating existing applications to AWS?</span>
                                     </div>
                                 </a>
                             </div>
@@ -572,9 +553,7 @@
                                 data-bs-parent="#accordion-style-02">
                                 <div
                                     class="accordion-body last-paragraph-no-margin border-bottom border-color-light-medium-gray">
-                                    <p>Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        ipsum has been the industry's standard dummy text ever unknown printer took a
-                                        galley of type and scrambled it to make a type specimen book.</p>
+                                    <p>Yes, we specialize in seamless application and data migration to AWS, ensuring minimal downtime and optimal performance during the transition.</p>
                                 </div>
                             </div>
                         </div>
@@ -585,7 +564,7 @@
                                 <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-03"
                                     aria-expanded="false" data-bs-parent="#accordion-style-02">
                                     <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                        <span class="fw-600 fs-18">How can i migrate to another site?</span>
+                                        <span class="fw-600 fs-18">Can you help optimize my AWS cloud costs?</span>
                                     </div>
                                 </a>
                             </div>
@@ -593,9 +572,7 @@
                                 data-bs-parent="#accordion-style-02">
                                 <div
                                     class="accordion-body last-paragraph-no-margin border-bottom border-color-light-medium-gray">
-                                    <p>Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        ipsum has been the industry's standard dummy text ever unknown printer took a
-                                        galley of type and scrambled it to make a type specimen book.</p>
+                                    <p>Absolutely! We analyze your AWS usage and implement strategies to reduce costs while maintaining performance and reliability.</p>
                                 </div>
                             </div>
                         </div>
@@ -606,7 +583,7 @@
                                 <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-04"
                                     aria-expanded="false" data-bs-parent="#accordion-style-02">
                                     <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                        <span class="fw-600 fs-18">Can i change the domain you give me?</span>
+                                        <span class="fw-600 fs-18">Is my data secure on AWS Cloud?</span>
                                     </div>
                                 </a>
                             </div>
@@ -614,9 +591,7 @@
                                 data-bs-parent="#accordion-style-02">
                                 <div
                                     class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent">
-                                    <p>Lorem ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        ipsum has been the industry's standard dummy text ever unknown printer took a
-                                        galley of type and scrambled it to make a type specimen book.</p>
+                                    <p>Yes, AWS is designed with advanced security features, including encryption, identity management, and compliance certifications. We implement best practices to ensure your data is secure and accessible only to authorized users.</p>
                                 </div>
                             </div>
                         </div>
@@ -735,7 +710,7 @@
         data-shadow-animation="true">
         <div class="elements-social social-icon-style-10">
             <ul class="fs-14">
-                <li class="me-30px"><a class="facebook" href="https://www.facebook.com/" target="_blank">
+                <li class="me-30px"><a class="facebook" href="https://www.facebook.com/synexdigital/" target="_blank">
                         <span class="alt-font">Fb</span>
                     </a>
                 </li>
@@ -744,13 +719,8 @@
                         <span class="alt-font">Li</span>
                     </a>
                 </li>
-                <li class="me-30px">
-                    <a class="twitter" href="https://www.twitter.com/" target="_blank">
-                        <span class="alt-font">Tw</span>
-                    </a>
-                </li>
                 <li>
-                    <a class="instagram" href="https://www.instagram.com/" target="_blank">
+                    <a class="instagram" href="https://www.instagram.com/synexdigital" target="_blank">
                         <span class="alt-font">Ins</span>
                     </a>
                 </li>

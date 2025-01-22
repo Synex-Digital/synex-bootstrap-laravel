@@ -30,20 +30,20 @@
                     <!-- start progress bar item -->
                     <div class="progress mb-12 sm-mb-60px bg-extra-medium-gray">
                         <div class="progress-bar-title d-inline-block text-dark-gray fs-17 fw-500">Web Development <span class="badge text-bg-primary"><a href="{{route('service.web-dev')}}" class="text-white">Click Here</a></span></div>
-                        <div class="progress-bar bg-dark-gray" role="progressbar" aria-valuenow="85" aria-valuemin="0"
+                        <div class="progress-bar bg-dark-gray" role="progressbar" aria-valuenow="97" aria-valuemin="0"
                             aria-valuemax="100" aria-label="app-development">
                             <span
-                                class="progress-bar-percent text-center bg-dark-gray fs-11 fw-600 lh-12 text-white">85%</span>
+                                class="progress-bar-percent text-center bg-dark-gray fs-11 fw-600 lh-12 text-white">97%</span>
                         </div>
                     </div>
                     <!-- end progress bar item -->
                     <!-- start progress bar item -->
                     <div class="progress mb-12 sm-mb-60px bg-extra-medium-gray">
                         <div class="progress-bar-title d-inline-block text-dark-gray fs-17 fw-500">UI UX Design <span class="badge text-bg-primary"><a href="{{route('service.uiux')}}" class="text-white">Click Here</a></span></div>
-                        <div class="progress-bar bg-dark-gray" role="progressbar" aria-valuenow="87" aria-valuemin="0"
+                        <div class="progress-bar bg-dark-gray" role="progressbar" aria-valuenow="92" aria-valuemin="0"
                             aria-valuemax="100" aria-label="branding">
                             <span
-                                class="progress-bar-percent text-center bg-dark-gray fs-11 fw-600 lh-12 text-white">87%</span>
+                                class="progress-bar-percent text-center bg-dark-gray fs-11 fw-600 lh-12 text-white">92%</span>
                         </div>
                     </div>
                     <!-- end progress bar item -->
@@ -71,10 +71,10 @@
                     <!-- start progress bar item -->
                     <div class="progress sm-mb-0 bg-extra-medium-gray">
                         <div class="progress-bar-title d-inline-block text-dark-gray fs-17 fw-500">Cloud Solution <span class="badge text-bg-primary"><a href="{{route('service.cloud-solution')}}" class="text-white">Click Here</a></span></div>
-                        <div class="progress-bar bg-dark-gray" role="progressbar" aria-valuenow="96" aria-valuemin="0"
+                        <div class="progress-bar bg-dark-gray" role="progressbar" aria-valuenow="90" aria-valuemin="0"
                             aria-valuemax="100" aria-label="web-development">
                             <span
-                                class="progress-bar-percent text-center bg-dark-gray fs-11 fw-600 lh-12 text-white">96%</span>
+                                class="progress-bar-percent text-center bg-dark-gray fs-11 fw-600 lh-12 text-white">90%</span>
                         </div>
                     </div>
                     <!-- end progress bar item -->

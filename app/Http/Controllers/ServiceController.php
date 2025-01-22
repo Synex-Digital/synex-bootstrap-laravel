@@ -142,10 +142,11 @@ class ServiceController extends Controller
     {
         // return view('frontend.pages.service.services');
         $site_name = env('APP_NAME', 'Synex Digital');
-        $seo_title = 'Custom Management Software Development | Synex Digital';
-        $seo_description = 'Boost your business efficiency with custom management software solutions from Synex Digital. Specializing in ERP, CRM, project management, and business intelligence software, we serve clients in the USA, Canada, Australia, UK, and Dubai. Get a tailored solution to streamline your operations. Contact us for a free quote today!';
+        $seo_title = 'AWS Cloud Solutions for Businesses | Affordable & Scalable Technology';
+        $seo_description = 'Discover flexible and secure AWS cloud solutions for businesses. Streamline operations, enhance collaboration, and scale your business with ease.';
         $seo_tags =
-            'Custom Management Software,
+            'AWS cloud solutions for businesses,
+        Custom Management Software,
         ERP Software Development,
         CRM Development Services,
         Project Management Software,

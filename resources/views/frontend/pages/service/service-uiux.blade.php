@@ -211,7 +211,7 @@
                         </div>
 
                         <div class="col-12 col-lg-6 align-self-end text-center text-lg-start xs-mb-30px w-100" style="margin-left: 50px;" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                        <h2 class="text-dark-gray mb-0 ls-minus-2px fs-50">At Synex Digital, we don’t just create websites or apps - we offer user experience design services that are built to engage and delight.</h2>
+                        <h2 class="text-dark-gray mb-0 ls-minus-2px fs-50" style="font-size: 40px">At Synex Digital, we don’t just create websites or apps - we offer user experience design services that are built to engage and delight.</h2>
                         </div>
                     </div>
 
@@ -415,7 +415,7 @@
                                 class="text-base-color">//</span> Work</h1>
                     </div>
                     <div class="col-12 col-xxl-8 col-xl-8 col-lg-8 offset-xl-1 last-paragraph-no-margin">
-                        <h2 class="fs-55 lh-65 text-dark-gray fw-600 ls-minus-2px mb-0" data-anime='{ "el": "lines", "translateY": [30, 0], "translateX": [0, 0], "opacity": [0,1], "duration": 600, "delay":0, "staggervalue": 250, "easing": "easeOutQuad" }'>Synex Digital is here to provide user experience design services that elevate your digital presence and leave a lasting impression on your customers.</h2>
+                        <h2 class="fs-55 lh-65 text-dark-gray fw-600 ls-minus-2px mb-0" data-anime='{ "el": "lines", "translateY": [30, 0], "translateX": [0, 0], "opacity": [0,1], "duration": 600, "delay":0, "staggervalue": 250, "easing": "easeOutQuad" }'>Synex Digital is here to provide user experience design services.</h2>
                     </div>
                 </div>
             </div>

@@ -10,6 +10,20 @@ body {
     font-size: 17px;
     line-height: 32px;
 }
+pre {
+    display: block;
+    margin-top: 0;
+    overflow: auto;
+    font-size: 14px;
+    background: #eceef5ba;
+    line-height: 1.7;
+    padding: 10px 0px 10px 11px;
+    border-radius: 12px;
+    color: #b52727;
+}
+p{
+    color: #0e0e0eab !important;
+}
 .top-space-margin {
     margin-top: 120px;
 }
@@ -57,8 +71,8 @@ header .btn.btn-switch-text.btn-medium > span {
     background-color: #333436;
 }
 .page-title-extra-large h1 {
-    font-size: 5rem;
-    line-height: 5rem;
+    font-size: 3.75rem;
+    line-height: 1.1;
 }
 .team-style-05 img {
     filter: grayscale(100%);
@@ -151,16 +165,19 @@ footer .nav-link {
 }
 @media (min-width: 768px) {
     h1 {
-        font-size: 5rem;
-        line-height: 5rem;
+        font-size: 3.75rem;
+        line-height: 1.1;
+        color: #111827;
     }
     h2 {
-        font-size: 3.75rem;
-        line-height: 3.75rem;
+        font-size: 1.5em;
+        line-height: 1.1;
+        color: #111827;
     }
     h3 {
-        font-size: 3.125rem;
-        line-height: 3.125rem;
+        font-size: 1rem;
+        line-height: 1;
+        color: #111827;
     }
 }
 @media (max-width: 1399px) {
@@ -230,5 +247,20 @@ footer .nav-link {
     .popular-post-sidebar li .media-body {
         padding-left: 0;
         padding-top: 25px;
+    }
+    h1 {
+        font-size: 3.75rem;
+        line-height: 1.1;
+        color: #111827;
+    }
+    h2 {
+        font-size: 1.5em;
+        line-height: 1.1;
+        color: #111827;
+    }
+    h3 {
+        font-size: 1rem;
+        line-height: 1;
+        color: #111827;
     }
 }

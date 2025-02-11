@@ -53,8 +53,7 @@ class CategoryResource extends Resource
                         Group::make([
                             FileUpload::make('image')
                                 ->label('Image')
-                                ->disk('public') // Store in public disk
-                                ->directory('category')
+                                ->directory('uploads/blog/photo')
                                 ->image()
                                 ->acceptedFileTypes(['image/jpeg', 'image/png', 'image/webp'])
                                 ->nullable(),

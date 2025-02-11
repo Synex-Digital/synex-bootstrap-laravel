@@ -1,13 +1,13 @@
 @extends('frontend.layout.app')
 @section('style')
-<style>
-    blockquote{
-        background: #f4f4f4;
-        border-left: 5px solid #4880f3;
-        padding-left: 15px;
-        border-radius: .4rem;
-    }
-</style>
+    <style>
+        blockquote {
+            background: #f4f4f4;
+            border-left: 5px solid #4880f3;
+            padding-left: 15px;
+            border-radius: .4rem;
+        }
+    </style>
 @endsection
 @section('content')
     <!-- start page title -->
@@ -15,8 +15,10 @@
         <div class="container">
             <div class="row align-items-center justify-content-center small-screen sm-h-auto">
                 <div class="col-lg-10 text-center">
-                    <span class="fs-18 mb-30px d-inline-block sm-mb-20px">By <a class="text-dark-gray text-dark-gray-hover text-decoration-line-bottom">{{ $content['author'] }}</a>
-                        in <a class="text-dark-gray text-dark-gray-hover text-decoration-line-bottom">{{ $content['category'] }}</a>
+                    <span class="fs-18 mb-30px d-inline-block sm-mb-20px">By <a
+                            class="text-dark-gray text-dark-gray-hover text-decoration-line-bottom">{{ $content['author'] }}</a>
+                        in <a
+                            class="text-dark-gray text-dark-gray-hover text-decoration-line-bottom">{{ $content['category'] }}</a>
                         on {{ $content['date'] }}</span>
                     <h1 class="alt-font fw-600 text-dark-gray ls-minus-2px mb-0">{{ $content['title'] }}</h1>
                 </div>
@@ -29,7 +31,7 @@
     <section class="py-0 ps-13 pe-13 lg-ps-4 lg-pe-4 sm-px-0">
         <div class="container-fluid">
             <div class="row justify-content-center">
-                <div class="col-12"><img class="w-100" alt="{{  $content['title'] }}" data-cfsrc="{{ $content['image'] }}"
+                <div class="col-12"><img class="w-100" alt="{{ $content['title'] }}" data-cfsrc="{{ $content['image'] }}"
                         style="display:none;visibility:hidden;"><noscript><img src="{{ $content['image'] }}" class="w-100"
                             alt="{{ $content['title'] }}"></noscript></div>
             </div>
@@ -41,9 +43,9 @@
     <section>
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-lg-10">
+                <div class="col-lg-12 px-4">
                     <div class="row">
-                        <div class="col-lg-3 col-md-4 text-center sm-mb-30px">
+                        {{-- <div class="col-lg-3 col-md-4 text-center sm-mb-30px">
                             <div class="pb-20px">
                                 <span class="d-block lh-22">Words by</span>
                                 <a class="text-dark-gray text-dark-gray-hover alt-font fw-500 text-uppercase">{{ $content['author'] }}</a>
@@ -55,8 +57,8 @@
                                 <li><a class="text-dark-gray-hover text-uppercase alt-font fs-13">♡ Like</a>
                                 </li>
                             </ul>
-                        </div>
-                        <div class="offset-lg-1 col-md-8 last-paragraph-no-margin text-center text-md-start">
+                        </div> --}}
+                        <div class="last-paragraph-no-margin text-md-start">
                             {{-- <h3 class="alt-font fw-600 text-dark-gray">{{ $content['title'] }}</h3> --}}
                             <p class="blog-content">{!! $content['content'] !!}</p>
                         </div>
@@ -87,11 +89,19 @@
                             <li class="grid-item design marketing">
                                 <div class="card bg-transparent border-0 h-100">
                                     <div class="blog-image position-relative overflow-hidden border-radius-4px">
-                                        <a href="{{ route('blog.view', $blog['slug']) }}"><img alt="{{ $blog['title'] }}" data-cfsrc="{{ $blog['image'] }}" style="display:none;visibility:hidden;"><noscript><img src="{{ $blog['image'] }}" alt="{{ $blog['title'] }}"></noscript></a>
+                                        <a href="{{ route('blog.view', $blog['slug']) }}"><img alt="{{ $blog['title'] }}"
+                                                data-cfsrc="{{ $blog['image'] }}"
+                                                style="display:none;visibility:hidden;"><noscript><img
+                                                    src="{{ $blog['image'] }}" alt="{{ $blog['title'] }}"></noscript></a>
                                     </div>
                                     <div class="card-body px-0 pt-30px pb-30px xs-pb-15px">
-                                        <span class="fs-14 text-uppercase d-block mb-5px fw-500"><a href="{{ route('blog.view', $blog['slug']) }}" class="text-dark-gray text-dark-gray-hover fw-700 categories-text">{{ $blog['category'] }}</a><span class="d-inline-block fs-10 alt-font align-middle opacity-7 ms-5px me-5px">•</span><a class="blog-date text-medium-gray-hover">{{ $blog['date'] }}</a></span>
-                                        <a href="{{ route('blog.view', $blog['slug']) }}" class="card-title fw-600 fs-17 lh-28 text-dark-gray text-dark-gray-hover d-inline-block w-95 sm-w-100">{{ $blog['title'] }}
+                                        <span class="fs-14 text-uppercase d-block mb-5px fw-500"><a
+                                                href="{{ route('blog.view', $blog['slug']) }}"
+                                                class="text-dark-gray text-dark-gray-hover fw-700 categories-text">{{ $blog['category'] }}</a><span
+                                                class="d-inline-block fs-10 alt-font align-middle opacity-7 ms-5px me-5px">•</span><a
+                                                class="blog-date text-medium-gray-hover">{{ $blog['date'] }}</a></span>
+                                        <a href="{{ route('blog.view', $blog['slug']) }}"
+                                            class="card-title fw-600 fs-17 lh-28 text-dark-gray text-dark-gray-hover d-inline-block w-95 sm-w-100">{{ $blog['title'] }}
                                         </a>
                                     </div>
                                 </div>
